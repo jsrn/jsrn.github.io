@@ -1,0 +1,96 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+.parent {
+	width: 100%;
+}
+
+a {
+	color: #D1442F;
+}
+
+header {
+	margin-top: 20px;
+}
+
+header h1 a{
+	font-weight: bold;
+	display: flex;
+	align-items: center;
+}
+
+header a {
+	color: inherit;
+}
+
+header a:hover {
+	text-decoration: none;
+	color: inherit;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	margin-top: 2rem;
+}
+
+header img {
+	height: 100px;
+	vertical-align: middle;
+	margin-right: 10px;
+	transform: rotate(-10deg);
+}
+
+header .secondary {
+	color: #D1442F;
+}
+
+body {
+	font-size: 16pt;
+	color: #333;
+}
+
+.starmilk {
+	position: fixed;
+	bottom: -50px;
+	opacity: .5;
+	z-index: -1;
+}
+
+.zine-container {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-gap: 10px;
+}
+
+@media (max-width: 600px) {
+	.gutter {
+		display: none;
+	}
+
+	.main {
+		width: 100%;
+		margin: 0 10px;
+		flex: none;
+		max-width: 100%;
+	}
+
+	.starmilk {
+		opacity: .1;
+		z-index: -1;
+	}
+
+	.zine-container {
+		display: grid;
+		grid-template-columns: 1fr;
+	}
+	
+	.zine-container img {
+		width: 100%;
+	}
+}
+
+img {
+	max-width: 100%;
+}

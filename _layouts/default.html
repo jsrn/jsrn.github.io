@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+    <div class="row parent">
+      <div class="col gutter"></div>
+      <div class="col-6 main">
+        {%- include header.html -%}
+
+        {{ content }}
+      </div>
+      <div class="col gutter"></div>
+    </div>
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>

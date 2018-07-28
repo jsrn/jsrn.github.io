@@ -1,0 +1,82 @@
+https://keybase.io/jsrn
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://jsrn.net
+  * I am jsrn (https://keybase.io/jsrn) on keybase.
+  * I have a public key with fingerprint 69C3 86EA 1B11 2FDE C5E6  EBC2 
+DC63 2521 B28E AADD
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.2"
+        },
+        "key": {
+            "fingerprint": "69c386ea1b112fdec5e6ebc2dc632521b28eaadd",
+            "host": "keybase.io",
+            "key_id": "DC632521B28EAADD",
+            "uid": "1bb764104e83db23eba7f38fa6504b00",
+            "username": "jsrn"
+        },
+        "merkle_root": {
+            "ctime": 1411830216,
+            "hash": 
+"c71422b15001a90322eb4f913a9c1058c19d85d1761fd40ad5db5d8cb9287eda307174c3291e73dd100a5e39aa1cb192d200dd17619fb9fb09c9e92b1ffbe12a",
+            "seqno": 63522
+        },
+        "service": {
+            "hostname": "jsrn.net",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1411830256,
+    "expire_in": 157680000,
+    "prev": 
+"49ef1198e6602d3354b5afedc3d6f23926c673d94be68af14b08dafe501b4319",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2
+
+owFdUn9MVVUcfzxJ+aEIq0YzUXoRbYVwz7m/H5CgMMXllAwHrvG4555zeZcH9+J9
+D5VIC5wWYdqY6ZyKNB75TEtTNLUypyYmwUDEIMFQNx0lZuZSEFj3ki3r7Pxxzvl+
+vp/v5/P9ng+nTLDZg3rlF547uPHTvqCWAWR7Pb7jToUD6bjc4axwyMUq0XzWSZNK
+iMPp8JByJHlJoqrHajomiUXe2EeYBMcKYnhVXTNRVCKfCB2rEyy4layoWiExSg3V
+4nJwokwLHJEAAgAqmMgs4QiSIZY5GrIQICgQScLYpHTrXt9/qjrGOV0qNl8z5v6N
+nwOFzPT0jAwzVjYeAAjxHAMohgg0RpAmSOIVWlAkjqUYRFEW0EuMR5aKvIZmaS0h
+hqeYuAxdHzcs+1QrDBgABJqCgDPVSF63mSDzgIEQAZaigCRSNIQEMYoIaEmUAcUK
+MhCxwGLAc0DBDCVhFiMWCzISocATLNEUD3hGpqEICE9jDChKYgktShKQERAhhhSF
+x9NFBZmbEmWRiGZBRUEEQMmU7yXLNd3h5GgWwtXW1VihysSSbXXsMWOJGrFGU2ro
+Pl3Wi81Xt89X6rT8+spLLdRKglyP8l3Ir2rYnNXjwwQm9H+9YM1ekFWlqkFcqoVg
+eU6gzGXVIStMTkYkCgCiQDiOgpimWQaxkkKwTGNOgbQIOZkznYsMIpwgKcAcioBN
+AEsBxNBA/Ncha+qUCk1Kr1qoSb4ygzhWV9unB9uC7LaJT9it32oLC4385wtPMaY+
+nOgJlLUHnx5cdWWdkPPN9Lx5hfvkB3NmzK663j+WXXf6fHZV+A+1lVEdC++ILcyW
+grZrqf6rVK0csfSpjJ6u6GX+5LWRn18/OPOn2Ji7Uy+nx99t6dY2nQvsDTD1EX0n
+f22fl3s0JMc4tnbgYmXr4UhY13kiqrrmyboXyYCytTIl78zx8DZPkFZ7eErpCGd/
+zzib/dX6L6dtV3JT8y90bEtzR9b93un31Ocs8S/+eiSm8+ysS4KbOhWxcHJu1tGl
+l9YYdGvN8ftr5qfo8beePXWgKeXNrc3Iz+c1Hts0zfX2j9VJw0dmNdee2Bi3p+SM
+f+WG87cXPWwsr7+snUy44Iz0je56497yju2L/5j06ugn3QU3FuSzszOiBt1NYwt+
+rouY2lw0IzTr9uGra+LXHUv9pfeQMX9o63dgOKu9Z9IXUW3fBroabGQ/CR5Jakwu
+6y+Y2yPsWjD4TEPcmUBYb74ScuSK7VraouRAwP5RHx0Xs9tzITUudsngXs/kwaSu
+nc9HD08cinlZrcicWVvQmPbgt9eGooc8tq600Kb1wkCW25a7KvOzLcnKB85Dtpee
+fmvjx5ur2pzdQbB57sOx4O7h5tFXNvP3Cypc9tvXr2Wcay1z7JlwczTsRuWOybv7
+vxfp/cu23YPhYs2DkPyU6pvr33n/1nb5wOZs1JSw86Jzx753s6rS806lKF13Gv78
+Cw==
+=iQz2
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jsrn
