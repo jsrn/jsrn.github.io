@@ -26,7 +26,8 @@ header a {
 	color: inherit;
 }
 
-header a:hover {
+header a:hover,
+header a:visited {
 	text-decoration: none;
 	color: inherit;
 }
