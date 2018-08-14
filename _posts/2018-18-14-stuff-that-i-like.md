@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Stuff That I Like"
+description: ""
+category: misc
+tags: [personal]
+---
+
+a tidy house &bull; alone time &bull; anything with carbohydrates &bull; attention to detial &bull; bananas &bull; bees (not wasps) &bull; being inside when it's raining &bull; being outside when it's snowing &bull; binge-watching tv &bull; birds &bull; camping &bull; caterpillars &bull; chocolate &bull; clean code &bull; clothes from the radiator &bull; coffee &bull; cold showers on hot days &bull; cold side of the pillow &bull; computers even though I don't understand them &bull; dogs &bull; drawing &bull; electricity &bull; family &bull; finding new bands to listen to &bull; fizzy drinks &bull; flowers &bull; fog &bull; fresh bedding &bull; friends &bull; goats &bull; <!-- bulls &goat; --> haircuts &bull; historians &bull; horror movies &bull; hot showers on cold days &bull; hugs &bull; human rights &bull; instagram famous rabbits &bull; international mail &bull; jumpers &bull; kettles &bull; kindness &bull; learning &bull; letters (sending &amp; receiving) &bull; medical science &bull; my wife &bull; next day delivery &bull; oranges &bull; packed lunches &bull; pens &bull; people talking about things they love &bull; planes &bull; podcasts &bull; programming &bull; puns &bull; quorn &bull; reading &bull; recipes &bull; refactoring code &bull; remembering old bands to listen to &bull; ruby &bull; running &bull; running water &bull; sandwiches &bull; skateboarding &bull; sleeping in late &bull; smiles &bull; solving problems &bull; spiders &bull; sunshine &bull; swimming &bull; takeaway food &bull; taking socks off after a long walk &bull; tea &bull; the green man coming on as soon as you get to the crossing &bull; travel documentaries &bull; umbrellas &bull; videogames &bull; waking up early &bull; webcomics &bull; whisk(e)y &bull; windy days &bull; wool &bull; writing &bull; youtubers &bull; zines &bull; zombie movies
