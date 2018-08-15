@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Working Out Of A Slump"
@@ -7,7 +6,7 @@ category: misc
 tags: [personal]
 ---
 
-<img src="assets/images/slump.jpeg">
+<img src="/assets/images/slump.jpeg">
 
 The beginning of this year was awful for work. I just couldn't get in to it. There were probably a few reasons for this: the commute was long and dark; there were lingering, unresolved tasks waiting for me; returning to the everyday stress of work after a long break over the holidays.
 
