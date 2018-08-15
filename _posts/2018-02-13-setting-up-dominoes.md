@@ -8,7 +8,7 @@ tags: [personal]
 
 If I don't set myself up to win, I find it massively impacts how I perform in my day to day. You've probably noticed the same. It's easier to eat a healthy lunch if you prepare and pack it the day before. Same with wearing a nice outfit to work. It's easier to exercise if you do it before you sit down and get comfortable. I place dozens of these little dominoes throughout my day so when the critical moment comes...
 
-<img src="/assets/img/dominos.png">
+<img src="/assets/images/dominos.png">
 
 There's no friction. You just go. I've been doing this for myself for years, but I've recently been trying to focus on thinking of ways I can set up those dominoes for others.
 
