@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stuff That I Like"
-description: ""
+description: "A growing list of the things that make me happy."
 category: misc
 tags: [personal]
 ---
