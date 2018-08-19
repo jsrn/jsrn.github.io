@@ -2,7 +2,7 @@
 layout: post
 title: "Setting Up Dominoes"
 description: "Set up small wins for frictionless progress."
-image: dominos.png
+image: assets/images/dominos.png
 category: misc
 tags: [personal]
 ---
