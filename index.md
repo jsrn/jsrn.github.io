@@ -1,18 +1,9 @@
 ---
-#
-# By default, content added below the "---" mark will appear in the home page
-# between the top bar and the list of recent posts.
-# To change the home page layout, edit the _layouts/home.html file.
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-#
 layout: page
 ---
 
+Hi. My name is James and I have been a web developer since 2011. I mainly use Ruby on Rails but I have aspirations of calling myself a <span class="hover-horse">full stack developer</span> <img src="/assets/images/full-stack.jpg">.
 
-I'm a web developer from the UK. These days, I mainly write Ruby code and JavaScript using Ruby on Rails.
+Head on over and read the stuff that I <a href="https://twitter.com/jsrndoftime">tweeted</a>, and stuff that I wrote <a href="writing">here</a> and on <a href="https://medium.com/@jsrn">medium.com</a>.
 
-Head on over and read the <a href="writing.html">stuff I wrote</a>.
-
-I <a href="https://twitter.com/jsrndoftime">tweet</a> a bunch and have a bunch of posts on <a href="https://medium.com/@jsrn">medium</a> that I'm planning on bringing back over here.
-
-Check out my <a href="zines.html">zines</a>.
+Check out my <a href="zines.html">zines</a> and <a href="sudo">terrible music</a>.
