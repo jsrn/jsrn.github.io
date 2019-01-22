@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Setting Up Dominoes"
-description: "Set up small wins for frictionless progress."
+description: "If you want to progress without friction, you need to be kind to your future self."
 image: assets/images/dominos.png
 category: misc
 tags: [personal]

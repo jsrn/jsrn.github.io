@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "September Roundup"
-description: "Thoughts & cool finds from September"
+description: "Quitting coffee and visiting the Thought Bubble comic festival in this month's roundup."
 image: assets/images/headers/fly.jpg
 header_image: assets/images/headers/fly.jpg
 category: misc

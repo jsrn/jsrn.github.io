@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Working Out Of A Slump"
-description: ""
+description: "Everyone has slow days. Or weeks. Or months. It's important to know how to give yourself a reset and get back into gear."
 category: misc
 tags: [personal]
 ---

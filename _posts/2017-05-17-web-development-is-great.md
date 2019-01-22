@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Web Development Is Great"
-description: "memes"
+description: "Seriously such a good career. For me, anyway. Here's a few reasons why."
 category: programming
 tags: [personal, web development]
 ---
