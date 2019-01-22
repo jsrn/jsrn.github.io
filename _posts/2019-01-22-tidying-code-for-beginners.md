@@ -46,3 +46,15 @@ The oldest offender has been haunting the code base since the 20th May, 2015. On
 * Six new issues properly logged for the whole team to see.
 
 If you’ve got an old code base, I encourage you to do something similar: go through it and figure out what the oldest TODO is. Is it something you’re aware of? Does it even apply any more?
+
+## Get Rid Of A Warning
+
+![Deprecation warnings in a console](/assets/images/code-quality/warnings.png)
+
+Deprecation warnings are funny. I read them, and nod along and say “_Gee_, I hope it’s not going to be too painful for Future James to deal with that.”
+
+After a while, they get tuned out. It’s just a warning, right? It’s not a full blown issue just yet. Ignoring the big block of spewed out warnings becomes routine. They’re not causing any harm, and they become invisible.
+
+But it could turn into an issue. It could conceal an issue. I was ignoring them because, hey, the tests still passed, but it’s easy to see how another, more serious message could get lost in that huge scrawl of text.
+
+On top of that, you have to contend with the [broken window theory](https://blog.codinghorror.com/the-broken-window-theory/). If your code is kicking out a lot of warnings, then people are more likely to let new ones slide. You may inadvertently cultivate a collective attitude of carelessness, and that is when the more serious issues are going to creep in.
