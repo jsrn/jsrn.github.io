@@ -7,14 +7,10 @@
     {% if page.header_image %}
     <img src="/{{ page.header_image }}" alt="" class="header-image">
     {% endif %}
-    <div class="row parent">
-      <div class="col gutter"></div>
-      <div class="col-4 main">
+    <div class="main-content-container">
         {%- include header.html -%}
 
         {{ content }}
-      </div>
-      <div class="col gutter"></div>
     </div>
 
     {%- include footer.html -%}
