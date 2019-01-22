@@ -1,0 +1,32 @@
+---
+layout: page
+---
+
+<h2>Latest Writing</h2>
+
+<ul class="post-list">
+  {%- for post in site.posts limit: 5 -%}
+  <li>
+    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+    
+    <h3>
+      <a class="post-link" href="{{ post.url | relative_url }}">
+        {{ post.title | escape }}
+      </a>
+    </h3>
+    <span class="post-meta">{{ post.date | date: date_format }}</span>
+    {%- if site.show_excerpts -%}
+      {{ post.excerpt }}
+    {%- endif -%}
+  </li>
+  {%- endfor -%}
+</ul>
+
+<p>Read more of my stuff <a href="writing">here</a>.</p>
+
+<h2>Other Stuff</h2>
+
+<ul>
+  <li><a href="/zines.html">Zines</a> - Sometimes I produce content in zine form.</li>
+  <li><a href="/sudo">Terrible Music</a> - I made a terrible band with my friend <a href="https://twitter.com/gregjwww">Greg</a>.</li>
+</ul>
