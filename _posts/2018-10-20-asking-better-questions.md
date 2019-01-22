@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Asking Better Questions"
-description: "Advice for asking questions in a productive and unobtrusive way"
+description: "A good programmer is going to end up asking a lot of questions. Here's how to make that a painless process for both you and your team mates."
 category: misc
 tags: [career]
 ---

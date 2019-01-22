@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Notes From A Modestly Successful Open Source Project"
-description: "Lessons learned from a silly joke."
+description: "A small project I made got way more attention than I expected and I had to learn some things about being the maintainer of an open source project."
 category: programming
 tags: [programming, open source]
 ---
