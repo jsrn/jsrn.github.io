@@ -32,3 +32,17 @@ A common theme in the responses to the challenge thread was the difficulty of ke
 * Whether you intend it to be or not, your README is your first impression. There’s a relatively small set of things that people expect to find in a README, and including them can improve everybody’s experience.
 * Documentation will be bad if nobody uses it. Use your documentation as a first point of reference, and you will have an incentive to maintain it. Run your project by oral tradition, and your written documentation will get out of date _fast_.
 * “Work not documented is work not done.” If you’ve done or changed something, but you haven’t written anything about it in the docs, will it take someone by surprise or cause unnecessary confusion? If so, you haven’t finished working.
+
+## Nuke Those TODOs
+
+> Why do this? Because code is a lousy place to track todos. When a todo lives in your code, it can’t be prioritized or scheduled, and tends to get forgotten.
+
+This definitely matches my experience. Across the project, there were 11 TODO comments. I was slightly embarrassed to find that they were _all_ by me, and I don’t remember ever personally resolving a single one. Uh oh. I guess TODO comments really do tend to get forgotten.
+
+The oldest offender has been haunting the code base since the 20th May, 2015. Only two of them were from this year. After cleaning them up, we ended up with:
+
+* Three immediate changes to the code. These issues had been hidden in a comment for over a year, and resolving them on the spot was actually less effort than finding a way to describe them in a ticket.
+* Two comments that were no longer needed at all.
+* Six new issues properly logged for the whole team to see.
+
+If you’ve got an old code base, I encourage you to do something similar: go through it and figure out what the oldest TODO is. Is it something you’re aware of? Does it even apply any more?
