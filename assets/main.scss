@@ -134,3 +134,22 @@ img {
 	width: 30em;
 	margin: 0 auto;
 }
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+  .main-content-container {
+		width: calc(100vw - 20px);
+		margin: 0 10px;
+	}
+
+	header {
+		margin-top: 0;
+	}
+
+	header h1 {
+		margin: 0;
+	}
+
+	header img {
+		display: none;
+	}
+}
