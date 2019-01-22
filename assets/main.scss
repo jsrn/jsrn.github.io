@@ -115,3 +115,17 @@ img {
 .face-bullet {
 	list-style-image: url('/assets/me-bullet.jpg');
 }
+
+.post-link:after {
+	content: attr(data-date);
+	font-size: 0.7em;
+	color: hsl(1, 43%, 65%);
+}
+
+.post-link {
+	line-height: 1.2;
+}
+
+.post-description {
+	margin-top: 10px;
+}

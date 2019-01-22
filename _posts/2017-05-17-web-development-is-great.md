@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Web Development Is Great"
-description: ""
+description: "memes"
 category: programming
 tags: [personal, web development]
 ---
