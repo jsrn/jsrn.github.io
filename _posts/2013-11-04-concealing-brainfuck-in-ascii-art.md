@@ -41,7 +41,7 @@ ascii_art.split("").each do |i|
 end
 
 File.open( "hidden.bf", "w" ) do |file|
-	file.write( output )
+  file.write( output )
 end
 {% endhighlight %}
 
