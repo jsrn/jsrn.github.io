@@ -26,18 +26,18 @@ brainfuck = File.open("helloworld.bf", "rb").read
 ascii_art = File.open("animaniacs.art", "rb").read
 
 if brainfuck.length > ascii_art.gsub(" ","").length
-	abort "The supplied brainfuck will not fit inside the ASCII art."
+  abort "The supplied brainfuck will not fit inside the ASCII art."
 end
 
 output = ""
 ascii_art.split("").each do |i|
-	if brainfuck != ""
-		if i != " " and i != "\n"
-			i = brainfuck[0,1]
-			brainfuck = brainfuck[1..-1]
-		end
-	end
-	output << i
+  if brainfuck != ""
+    if i != " " and i != "\n"
+      i = brainfuck[0,1]
+      brainfuck = brainfuck[1..-1]
+    end
+  end
+  output << i
 end
 
 File.open( "hidden.bf", "w" ) do |file|
