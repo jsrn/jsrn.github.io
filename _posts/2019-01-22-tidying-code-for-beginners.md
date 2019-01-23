@@ -58,3 +58,25 @@ After a while, they get tuned out. It’s just a warning, right? It’s not a fu
 But it could turn into an issue. It could conceal an issue. I was ignoring them because, hey, the tests still passed, but it’s easy to see how another, more serious message could get lost in that huge scrawl of text.
 
 On top of that, you have to contend with the [broken window theory](https://blog.codinghorror.com/the-broken-window-theory/). If your code is kicking out a lot of warnings, then people are more likely to let new ones slide. You may inadvertently cultivate a collective attitude of carelessness, and that is when the more serious issues are going to creep in.
+
+## Remove Unused Code
+
+As a project grows, it’s natural that bits of code fall out of use. There are different types of unused code, each causing their own problems for developers.
+
+### Commented Code
+
+Large blocks of commented code are usually there because a developer concluded that the code was not needed, but did not want to delete it out of concern that the code would be useful in the future.
+
+If you’re using version control, you will always be able to leaf through old versions of the code if you want to see how it changed over time. The unlikely benefit of having that old code on hand is outweighed by the extra cognitive load of having it there.
+
+### Unused Classes
+
+If you’re familiar with a code base, having unused classes floating about seems like it’s not really a problem. Since you’re familiar with the classes that you do need to use, the ones you don’t might be out of sight, out of mind.
+
+The problem arises when someone is trying to understand how your code works. Mental energy is spent understanding a class that isn’t used or needed. Energy is spent trying to understand how that class interacts with the rest of the system when it doesn’t.
+
+### Unused Local Variables
+
+Variables that are created but never used are quite harmful but extremely easy to clean up. Especially if your method is long and complex (which is a problem for another day), it might not be obvious that a method isn’t being used. Not only does it cause extra cognitive strain, but it can affect your application’s performance, too.
+
+I recommend you configure your editor to lint your code and show you your unused variables in real time.
