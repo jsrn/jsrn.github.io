@@ -80,3 +80,20 @@ The problem arises when someone is trying to understand how your code works. Men
 Variables that are created but never used are quite harmful but extremely easy to clean up. Especially if your method is long and complex (which is a problem for another day), it might not be obvious that a method isn’t being used. Not only does it cause extra cognitive strain, but it can affect your application’s performance, too.
 
 I recommend you configure your editor to lint your code and show you your unused variables in real time.
+
+## Trim Unused Branches
+
+Delete local tracking branches that no longer exist on origin:
+
+```
+git remote prune origin
+```
+
+Delete old or unused branches on origin with:
+
+```
+git ls-remote --heads origin
+git push origin --delete <some branch>
+```
+
+This is quick and easy to do, but the effect is worthwhile. By curating your branches, you can paint a picture of everything that’s going on with the code base. To stick to the tree analogy, you get to see the directions in which your application is growing.
