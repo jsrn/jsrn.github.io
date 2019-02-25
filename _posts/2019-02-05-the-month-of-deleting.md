@@ -10,7 +10,7 @@ The beginning of 2019 was mostly characterised by letting go of things. Some of 
 
 These things are the ones that are very hard to get rid of.
 
-> "<high pitched noise>" ~ *Marie Kondo*
+> "\<high pitched noise\>" ~ *Marie Kondo*
 
 That's right. I've been watching the Netflix show "Tidying Up With Marie Kondo" after it exploded all over Twitter. In my defence, I liked KonMari before it was cool.
 
@@ -20,7 +20,7 @@ That's right. I've been watching the Netflix show "Tidying Up With Marie Kondo" 
 
 Goodbye weekly newsletters that I never read. Goodbye, promotional emails for companies that I used the trial of for like a week four years ago. Goodbye, statistics from the Medium blog that I don't have any posts on.
 
-I un-followed *a lot* of Twitter accounts in that first month, and I am continuing to do so with the very cool [Tokimeki Unfollow]([https://tokimeki-unfollow.glitch.me/](https://tokimeki-unfollow.glitch.me/)) by [Julius Tarng]([https://twitter.com/tarngerine](https://twitter.com/tarngerine)).
+I un-followed *a lot* of Twitter accounts in that first month, and I am continuing to do so with the very cool [Tokimeki Unfollow](https://tokimeki-unfollow.glitch.me/) by [Julius Tarng](https://twitter.com/tarngerine).
 
 # The Physical Purge
 
