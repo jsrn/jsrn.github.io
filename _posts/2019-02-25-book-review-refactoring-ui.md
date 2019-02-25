@@ -15,7 +15,7 @@ So, on to the book and videos, from which I learned many things:
 
 # The Book
 
-# 1) Design From Above
+## 1) Design From Above
 
 - How to focus on what the product needs to do before worrying about the layout.
 - How to prototype in low fidelity.
