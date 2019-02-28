@@ -17,6 +17,7 @@ Here are some pages I like.
 * [honest.work](https://blog.honest.work/) - career and hiring advice
 * [Signal V. Noise](https://m.signalvnoise.com/) - Strong opinions and shared thoughts on design, business, and tech. By the makers (and friends) of [Basecamp](https://www.basecamp.com/).
 * [Marc Jenkins' Blog](https://marcjenkins.co.uk/blog/)
+* [Know Your Team](https://knowyourteam.com/blog/) - Leadership lessons by Claire Lew
 
 ## Miscellaneous
 
