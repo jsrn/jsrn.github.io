@@ -1,0 +1,10 @@
+.daily-ui-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 10px;
+  grid-row-gap: 20px;
+
+  > div img {
+    box-shadow: hsla(0, 100%, 0%, 0.5) 0px 2px 2px;
+  }
+}
