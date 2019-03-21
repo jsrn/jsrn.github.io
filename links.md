@@ -6,13 +6,11 @@ layout: page
 
 Here are some pages I like.
 
-## Programming
+## A Mix Of Code, Craft and Core Skills
 
 * [Code As Craft](https://codeascraft.com/) - the etsy engineering blog
-* [Engineering Tumblr](https://engineering.tumblr.com/) 
-
-## Work
-
+* [Engineering Tumblr](https://engineering.tumblr.com/)
+* [Go Make Things](https://gomakethings.com/articles/)
 * [Desk](https://www.vanschneider.com/blog) - blog of designer Tobias Van Schneider
 * [honest.work](https://blog.honest.work/) - career and hiring advice
 * [Signal V. Noise](https://m.signalvnoise.com/) - Strong opinions and shared thoughts on design, business, and tech. By the makers (and friends) of [Basecamp](https://www.basecamp.com/).
