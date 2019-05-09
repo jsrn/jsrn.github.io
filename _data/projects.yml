@@ -1,0 +1,27 @@
+- name: Blog
+  url: /writing
+  description: More of my writing.
+
+- name: Uses
+  url: /uses
+  description: My tools of the trade.
+
+- name: DailyUI
+  url: /daily-ui
+  description: The results of my ongoing work on the <a href="https://www.dailyui.co/">DailyUI</a> challenges.
+
+- name: Zines
+  url: /zines
+  description: Sometimes I produce content in zine form.
+
+- name: sudo
+  url: /sudo
+  description: I made a terrible band with my friend <a href="https://twitter.com/gregjwww">Greg</a>.
+
+- name: Links
+  url: /links
+  description: Websites I enjoy or check regularly.
+
+- name: Taste In Ten
+  url: /taste-in-ten
+  description: Ten songs that I like.

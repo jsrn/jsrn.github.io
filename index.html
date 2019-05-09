@@ -2,39 +2,39 @@
 layout: page
 ---
 
-<p style="margin-top: 1em;">James is a web developer from the United Kingdom with over seven years of professional experience making web applications in JavaScript and Ruby.</p>
+<section>
+  <p>James is a web developer from the United Kingdom with over seven years of professional experience making web applications in JavaScript and Ruby.</p>
 
-<p>He cares about using clean, robust code to build software that works.</p>
+  <p>He cares about using clean, robust code to build software that works.</p>
+  
+  <p>He likes movies and pretending that someone else wrote his professional bio.</p>
+</section>
 
-<p>He likes movies and pretending that someone else wrote his professional bio.</p>
+<section>
+  <ul class="post-list">
+    {%- for post in site.posts limit: 5 -%}
+    <li>
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      
+        <a class="post-link" data-date=" &bull; {{ post.date | date: date_format }}" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      
+      {%- if post.description -%}
+        <p class="post-description">{{ post.description }}</p>
+      {%- endif -%}
+    </li>
+    {%- endfor -%}
+  </ul>
+</section>
 
-<h2>Latest Writing</h2>
-
-<ul class="post-list">
-  {%- for post in site.posts limit: 5 -%}
-  <li>
-    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-    
-      <a class="post-link" data-date="{{ post.date | date: date_format }}" href="{{ post.url | relative_url }}">
-        {{ post.title | escape }}
-      </a>
-    
-    {%- if post.description -%}
-      <p class="post-description">{{ post.description }}</p>
-    {%- endif -%}
-  </li>
-  {%- endfor -%}
-</ul>
-
-<p>Read more of my stuff <a href="writing">here</a>.</p>
-
-<h2>Other Stuff</h2>
-
-<ul>
-  <li><a href="/daily-ui">DailyUI</a> - The results of my ongoing work on the <a href="https://www.dailyui.co/">DailyUI</a> challenges.</li>
-  <li><a href="/zines">Zines</a> - Sometimes I produce content in zine form.</li>
-  <li><a href="/sudo">Terrible Music</a> - I made a terrible band with my friend <a href="https://twitter.com/gregjwww">Greg</a>.</li>
-  <li><a href="/links">Links</a> - Websites I enjoy or check regularly.</li>
-  <li><a href="/uses">Uses</a> - My tools of the trade.</li>
-  <li><a href="/taste-in-ten">Taste In Ten</a> - Ten songs that I like.</li>
-</ul>
+<section>
+  <div class="project-container">
+    {% for project in site.data.projects %}
+    <div class="project-box">
+      <a href="{{ project.url }}">{{ project.name }}</a>
+      <p>{{ project.description }}</p>
+    </div>
+    {% endfor %}
+  </div>
+</section>

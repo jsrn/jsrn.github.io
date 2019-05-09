@@ -113,7 +113,6 @@ img {
 
 .post-link:after {
 	content: attr(data-date);
-	font-size: 0.7em;
 	color: hsl(1, 43%, 65%);
 }
 
@@ -171,6 +170,33 @@ img {
 	transition: .1s;
 }
 
+.project-container {
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	grid-gap: 10px;
+}
+
+.project-box {
+	padding: 10px;
+	box-shadow: 0px 0px 3px 1px hsla(0, 0, 0, .3);
+	border-radius: 3px;
+	background: hsl(1, 40%, 95%);
+
+	> a:first-child {
+		display: block;
+		line-height: 100%;
+		margin-bottom: .5em;
+	}
+
+	p:last-child {
+		margin-bottom: 0;
+	}
+}
+
+section {
+	margin-top: 4em;
+}
+
 .dark-mode body {
 	background: #16161d;
 	color: #fdfdfd;
@@ -182,4 +208,8 @@ img {
 
 .dark-mode a:hover {
 	color: hsl(1, 100%, 80%);
+}
+
+.dark-mode .project-box {
+	color: #16161d;
 }
