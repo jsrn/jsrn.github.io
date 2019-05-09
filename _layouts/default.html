@@ -15,6 +15,33 @@
 
     {%- include footer.html -%}
 
-  </body>
+    <svg id="lightbulb" width="90" height="505" viewBox="0 0 90 505" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M45 0V400" stroke="#16161D" stroke-width="5"/>
+      <mask id="path-2-outside-1" maskUnits="userSpaceOnUse" x="0" y="395" width="90" height="110" fill="black">
+      <rect fill="white" y="395" width="90" height="110"/>
+      <path d="M25 405C25 402.239 27.2386 400 30 400H60C62.7614 400 65 402.239 65 405V430C65 432.761 62.7614 435 60 435H30C27.2386 435 25 432.761 25 430V405Z"/>
+      <path d="M85 460C85 482.091 67.0914 500 45 500C22.9086 500 5 482.091 5 460C5 437.909 22.9086 420 45 420C67.0914 420 85 437.909 85 460Z"/>
+      </mask>
+      <path d="M25 405C25 402.239 27.2386 400 30 400H60C62.7614 400 65 402.239 65 405V430C65 432.761 62.7614 435 60 435H30C27.2386 435 25 432.761 25 430V405Z" fill="#FDEBB2"/>
+      <path d="M85 460C85 482.091 67.0914 500 45 500C22.9086 500 5 482.091 5 460C5 437.909 22.9086 420 45 420C67.0914 420 85 437.909 85 460Z" fill="#FDEBB2"/>
+      <path d="M30 405H60V395H30V405ZM60 405V430H70V405H60ZM60 430H30V440H60V430ZM30 430V405H20V430H30ZM80 460C80 479.33 64.33 495 45 495V505C69.8528 505 90 484.853 90 460H80ZM45 495C25.67 495 10 479.33 10 460H0C0 484.853 20.1472 505 45 505V495ZM10 460C10 440.67 25.67 425 45 425V415C20.1472 415 0 435.147 0 460H10ZM45 425C64.33 425 80 440.67 80 460H90C90 435.147 69.8528 415 45 415V425ZM30 430L30 430H20C20 435.523 24.4772 440 30 440V430ZM60 430V430V440C65.5228 440 70 435.523 70 430H60ZM60 405V405H70C70 399.477 65.5228 395 60 395V405ZM30 395C24.4772 395 20 399.477 20 405H30V405V395Z" fill="#16161D" mask="url(#path-2-outside-1)"/>
+    </svg>
+        
+    <svg id="lightpull" width="30" height="485" viewBox="0 0 30 485" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M15 0V400" stroke="#16161D" stroke-width="5"/>
+      <rect x="2.5" y="397.5" width="25" height="85" rx="5.5" fill="#16161D" stroke="#16161D" stroke-width="5"/>
+    </svg>
 
+    <script>
+      document.getElementById("lightpull").addEventListener("mouseup", function(e) {
+        const html = document.querySelector("html");
+        document.querySelector("html").classList.toggle("dark-mode");
+        localStorage.darkMode = html.classList.contains("dark-mode");
+      });
+
+      if (localStorage.darkMode === "true") {
+        document.querySelector("html").classList.add("dark-mode");
+      }
+    </script>
+  </body>
 </html>

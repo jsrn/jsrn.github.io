@@ -49,7 +49,6 @@ header .secondary {
 
 body {
 	font-size: 16pt;
-	color: #333;
 }
 
 .starmilk {
@@ -112,10 +111,6 @@ img {
 	right: 10px;
 }
 
-.face-bullet {
-	list-style-image: url('/assets/me-bullet.jpg');
-}
-
 .post-link:after {
 	content: attr(data-date);
 	font-size: 0.7em;
@@ -152,4 +147,37 @@ img {
 	header img {
 		display: none;
 	}
+}
+
+#lightbulb {
+	height: 200px;
+	position: fixed;
+	top: -50px;
+	right: 30px;
+}
+
+#lightpull {
+	height: 200px;
+	position: fixed;
+	top: -100px;
+	right: 20px;
+	cursor: pointer;
+}
+
+#lightpull:active {
+	top: 0;
+	transition: .1s;
+}
+
+.dark-mode body {
+	background: #16161d;
+	color: #fdfdfd;
+}
+
+.dark-mode code {
+	color: #111;
+}
+
+.dark-mode a:hover {
+	color: hsl(1, 100%, 80%);
 }
