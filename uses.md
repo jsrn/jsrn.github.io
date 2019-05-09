@@ -11,5 +11,6 @@ layout: page
 
 ## Software
 
-* [JetBrains RubyMine](https://www.jetbrains.com/ruby/)
-* [Visual Studio Code](https://code.visualstudio.com/)
+* [JetBrains RubyMine](https://www.jetbrains.com/ruby/) for ruby development.
+* [Visual Studio Code](https://code.visualstudio.com/) for everything else.
+* [Figma](https://www.figma.com/) for design work.
