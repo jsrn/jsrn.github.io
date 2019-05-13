@@ -11,6 +11,7 @@ layout: page
 
 ## Software
 
+* I use Windows 10 as my daily OS, with a heavy dose of [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/faq).
 * [JetBrains RubyMine](https://www.jetbrains.com/ruby/) for Ruby development.
 * [Visual Studio Code](https://code.visualstudio.com/) for everything else.
 * [Figma](https://www.figma.com/) for design work.
