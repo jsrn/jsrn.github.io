@@ -5,6 +5,10 @@
 - name: Uses
   url: /uses
   description: My tools of the trade.
+  
+- name: Library
+  url: /library
+  description: Every book I remember having read.
 
 - name: DailyUI
   url: /daily-ui
