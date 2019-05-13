@@ -9,6 +9,8 @@ layout: page
 
 ## Software
 
-* [JetBrains RubyMine](https://www.jetbrains.com/ruby/) for ruby development.
+* [JetBrains RubyMine](https://www.jetbrains.com/ruby/) for Ruby development.
 * [Visual Studio Code](https://code.visualstudio.com/) for everything else.
 * [Figma](https://www.figma.com/) for design work.
+* [Notion](https://notion.so) for taking notes.
+* [Todoist](https://todoist.com) for holding chaos at bay. 
