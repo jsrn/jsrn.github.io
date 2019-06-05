@@ -60,7 +60,7 @@ class Item
 end
 ```
 
-In the above code, we're just defining a module and a class. No instance of the class is ever created. However, when we execute _just this code_ in an IRB session, you will see "I belong to jim!" as the output. Why? Because the code we write while defining a class is executed as that class definition is being interpreted.
+In the above code, we're just defining a module and a class. No instance of the class is ever created. However, when we execute _just this code_ in an IRB session, you will see "I belong to overlord!" as the output. Why? Because the code we write while defining a class is executed as that class definition is being interpreted.
 
 What if we re-write our module to define a method using Ruby's [define_method](https://apidock.com/ruby/Module/define_method)?
 
