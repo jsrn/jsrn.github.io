@@ -16,9 +16,9 @@ end
 
 This snippet of code implies three things:
 
-1) We have a table of comments.
-2) We have a table of articles.
-3) Each comment is related to an article by some ID.
+1. We have a table of comments.
+2. We have a table of articles.
+3. Each comment is related to an article by some ID.
 
 Rails users will take for granted that if they have an instance of the Comment class, they will be able to execute `some_comment.article` to obtain the article that the comment is related to.
 
@@ -98,9 +98,9 @@ end
 
 Our Rails-like system could make some assumptions about this.
 
-1) There is a table in the database called `players`.
-2) There is a column in our `items` table called `player_id`.
-3) The player model is represented by the class `Player`.
+1. There is a table in the database called `players`.
+2. There is a column in our `items` table called `player_id`.
+3. The player model is represented by the class `Player`.
 
 Let's return to our module and tweak it based on these assumptions.
 
