@@ -38,9 +38,9 @@ end
 
 In the above example:
 
-* Methods from `Wheels` will be created as *instance methods* and *override* instance methods from `Car`.
-* Methods from `Engine` will be created as *instance methods* but *not override* methods from `Car`.
-* Methods from `Spoiler` will be added as *class methods* on `Car`.
+* Methods from `Wheels` will be created as **instance methods** and **override** instance methods from `Car`.
+* Methods from `Engine` will be created as **instance methods** but **not override** methods from `Car`.
+* Methods from `Spoiler` will be added as **class methods** on `Car`.
 
 We can do fun things with `extend`.
 
@@ -62,7 +62,7 @@ end
 
 In the above code, we're just defining a module and a class. No instance of the class is ever created. However, when we execute _just this code_ in an IRB session, you will see "I belong to jim!" as the output. Why? Because the code we write while defining a class is executed as that class definition is being interpreted.
 
-What if we rew-rite our module to define a method using Ruby's [define_method](https://apidock.com/ruby/Module/define_method)?
+What if we re-write our module to define a method using Ruby's [define_method](https://apidock.com/ruby/Module/define_method)?
 
 ```ruby
 module Ownable
