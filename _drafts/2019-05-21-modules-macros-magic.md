@@ -77,7 +77,7 @@ end
 Whatever we passed as the argument to `belongs_to` will become a method on instances of our `Item` class.
 
 ```ruby
-our_item = Item.new
+our_item = Item.first
 our_item.overlord
 #  => 70368441222580
 ```
@@ -108,9 +108,24 @@ module Ownable
     define_method(owner.to_sym) do
       # We need to get `Player` out of `:player`
       klass = owner.to_s.capitalize.constantize
-      klass.find_by(id: self.send("#{owner_id}.to_sym"))
+      # We need to turn `:player` into `:player_id`
+      foreign_key = "#{owner}_id".to_sym
+      # We need to execute the actual query
+      klass.find_by(id: self.send(foreign_key))
       # SELECT * FROM players WHERE id = :player_id LIMIT 1
     end
   end
 end
+
+class Item
+  extend Ownable
+  belongs_to :player
+end
+
+my_item = Item.first
+my_item.player
+# SELECT * FROM players WHERE id = 1 LIMIT 1
+# => #<Player id: 12>
 ```
+
+Neat.
