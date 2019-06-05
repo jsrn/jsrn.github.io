@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Modules, Macros, and Magic"
+title: "Modules, Macros, Metaprogramming and Magic"
 description: "Implementing simplified ActiveRecord relations using macros."
 category: programming
 tags: [ruby, rails, modules, macros, relations]
@@ -29,18 +29,18 @@ This post will give you an extremely simplified look at how something like Rails
 Modules in Ruby can be used to extend the behaviour of a class, and there are three ways in which they can do this: `include`, `prepend`, and `extend`. The difference between the three? Where they fall in the method lookup chain.
 
 ```ruby
-class Car
-  prepend Wheels
-  include Engine
-  extend Spoiler
+class MyClass
+  prepend PrependingModule
+  include IncludingModule
+  extend ExtendingModule
 end
 ```
 
 In the above example:
 
-* Methods from `Wheels` will be created as **instance methods** and **override** instance methods from `Car`.
-* Methods from `Engine` will be created as **instance methods** but **not override** methods from `Car`.
-* Methods from `Spoiler` will be added as **class methods** on `Car`.
+* Methods from `PrependingModule` will be created as **instance methods** and **override** instance methods from `MyClass`.
+* Methods from `IncludingModule` will be created as **instance methods** but **not override** methods from `MyClass`.
+* Methods from `ExtendingModule` will be added as **class methods** on `MyClass`.
 
 We can do fun things with `extend`.
 
@@ -56,7 +56,7 @@ end
 class Item
   extend Ownable
 
-  belongs_to :jim
+  belongs_to :overlord
 end
 ```
 
@@ -72,11 +72,45 @@ module Ownable
     end
   end
 end
-
-my_item = Item.new
-my_item.jim
-# some_jim
 ```
 
-Excellent.
+Whatever we passed as the argument to `belongs_to` will become a method on instances of our `Item` class.
 
+```ruby
+our_item = Item.new
+our_item.overlord
+#  => 70368441222580
+```
+
+Excellent. You may have heard this term before, but this is "metaprogramming". Writing code that writes code. You just metaprogrammed.
+
+You might also notice that we're getting closer to the behaviour that we would expect from Rails.
+
+So let's say we have our `Item` class, and we're making a videogame, so we're going to say that our item belongs to a player.
+
+```ruby
+class Item
+  belongs_to :player
+end
+```
+
+Our Rails-like system could make some assumptions about this.
+
+1) There is a table in the database called `players`.
+2) There is a column in our `items` table called `player_id`.
+3) The player model is represented by the class `Player`.
+
+Let's return to our module and tweak it based on these assumptions.
+
+```ruby
+module Ownable
+  def belongs_to(owner)
+    define_method(owner.to_sym) do
+      # We need to get `Player` out of `:player`
+      klass = owner.to_s.capitalize.constantize
+      klass.find_by(id: self.send("#{owner_id}.to_sym"))
+      # SELECT * FROM players WHERE id = :player_id LIMIT 1
+    end
+  end
+end
+```
