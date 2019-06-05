@@ -55,7 +55,6 @@ end
 
 class Item
   extend Ownable
-
   belongs_to :overlord
 end
 ```
@@ -92,6 +91,7 @@ So let's say we have our `Item` class, and we're making a videogame, so we're go
 
 ```ruby
 class Item
+  extend Ownable
   belongs_to :player
 end
 ```
