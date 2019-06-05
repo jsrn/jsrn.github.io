@@ -84,6 +84,8 @@ our_item.overlord
 
 Excellent. You may have heard this term before, but this is "metaprogramming". Writing code that writes code. You just metaprogrammed.
 
+# Tying It Together
+
 You might also notice that we're getting closer to the behaviour that we would expect from Rails.
 
 So let's say we have our `Item` class, and we're making a videogame, so we're going to say that our item belongs to a player.
