@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "July Catchup"
-description: "What I've been up to"
+description: "It's been a wild couple months. Here's a few of the things I've been up to."
 category: miscellaneous
 tags: [personal]
 ---
 
 # New Job
 
-I started a new job. While my responsibilities and skills have changed a lot since 2011 when I started my career, this is actually the first time I have moved company. Just shy of eight years in the same place. That's basically a millennium in tech years. Long enough that I felt I was long overdue a change. A big change, with lots of big emotions attached.
+I started a new job. While my responsibilities and skills have changed a lot since I started my career in 2011, this is actually the first time I have moved company. Just shy of eight years in the same place. That's basically a millennium in tech years. Long enough that I felt I was long overdue a change. A big change, with lots of big emotions attached.
 
 While it had been on the cards for a fair while, the decision to pull the trigger on switching jobs ended up being something of an impulse. A friend prodded me about the opening on Slack, reckoning I might be a good fit, and the time between applying and signing the contract was really short. Short enough that it hadn't really hit me until a good week or so afterwards what I had done.
 
