@@ -4,16 +4,15 @@ layout: page
 
 ## Hardware
 
-* [Dell Latitude 5591](https://www.dell.com/en-uk/work/shop/laptops/latitude-5591/spd/latitude-15-5591-laptop), provided by my company. I like it.
-* [WASD 104 Key Mechanical Keyboard](http://www.wasdkeyboards.com/index.php/products/mechanical-keyboard/wasd-v3-104-key-custom-mechanical-keyboard.html) with a custom colour scheme. I paid way too much to get this thing through customs, but it's served me well.
+* 13" MacBook Pro (2018) that my company got for me to work with. It's the first time I've used an Apple laptop for more than 10 minutes at a time, so there's been a learning curve. The keyboard still works.
 * For a second screen, I will use whatever I can scrounge from the office.
 * Squared or dotted paper and a black gel ink ballpoint or fineliner. I'm not picky about the brand, so long as it doesn't scratch on the paper too much.
 
 ## Software
 
-* I use Windows 10 as my daily OS, with a heavy dose of [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/faq).
+* [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/faq) whenever I've doing web development on a Windows machine.
 * [JetBrains RubyMine](https://www.jetbrains.com/ruby/) for Ruby development.
 * [Visual Studio Code](https://code.visualstudio.com/) for everything else.
 * [Figma](https://www.figma.com/) for design work.
-* [Notion](https://notion.so) for taking notes.
+* Alternating between [Notion](https://notion.so) and [Bear](https://bear.app/) for taking notes while I figure out which I like more. Notion is very visually appealing, but I love how fast Bear is.
 * [Todoist](https://todoist.com) for holding chaos at bay. 
