@@ -6,13 +6,13 @@ category: programming
 tags: [git]
 ---
 
-My company does some cool stuff with our CI pipeline. When someone submits a merge request, we know that this branch may require some manual testing before it gets merged. We do this by spinning up a docker container on demand on our kubernetes cluster running the proposed change, and we point a URL at it.
+My company does some cool stuff with our CI pipeline. When someone submits a merge request, we know that this branch may require some manual testing before it gets merged. We enable this with a button on the merge request that lets people spin up a docker container running the proposed change, whacking it on our kubernetes cluster, and pointing a URL to it.
 
 If your branch is called `new-feature`, you'll get a shiny copy of the app running just for you at `https://new-feature.review.example.com`.
 
 If your branch is called `super-amazing-cool-new-feature-that-i-love-and-you-will-too`, you would expect to be able to test your feature at `https://super-amazing-cool-new-feature-that-i-love-and-you-will-too.review.example.com`
 
-So, we ping off a request to AWS Certificate Manager and... it tell us off.
+So, we hit the button. Things begin to churn. We ping off a request to AWS Certificate Manager and... it tell us off.
 
 Oh.
 
