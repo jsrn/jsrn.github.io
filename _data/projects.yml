@@ -22,10 +22,6 @@
   url: /sudo
   description: I made a terrible band with my friend <a href="https://twitter.com/gregjwww">Greg</a>.
 
-- name: Links
-  url: /links
-  description: Websites I enjoy or check regularly.
-
 - name: Taste In Ten
   url: /taste-in-ten
   description: Ten songs that I like.
