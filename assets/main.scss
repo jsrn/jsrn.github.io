@@ -197,19 +197,21 @@ section {
 	margin-top: 4em;
 }
 
-.dark-mode body {
-	background: #16161d;
-	color: #fdfdfd;
-}
+@media (prefers-color-scheme: dark) {
+	body {
+		background: #16161d;
+		color: #fdfdfd;
+	}
 
-.dark-mode code {
-	color: #111;
-}
+	code {
+		color: #111;
+	}
 
-.dark-mode a:hover {
-	color: hsl(1, 100%, 80%);
-}
+	a:hover {
+		color: hsl(1, 100%, 80%);
+	}
 
-.dark-mode .project-box {
-	color: #16161d;
+	.project-box {
+		color: #16161d;
+	}
 }
