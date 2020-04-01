@@ -4,12 +4,14 @@
 
 @import "minima";
 
+$jamesorange: #D1442F;
+
 .parent {
 	width: 100%;
 }
 
 a {
-	color: #D1442F;
+	color: $jamesorange;
 }
 
 header {
@@ -178,9 +180,9 @@ img {
 
 .project-box {
 	padding: 10px;
-	box-shadow: 0px 0px 3px 1px hsla(0, 0, 0, .3);
+	box-shadow: 1px 1px 1px 1px hsla(1, 20%, 20%, .3);
 	border-radius: 3px;
-	background: hsl(1, 40%, 95%);
+	background: hsl(1, 20%, 95%);
 
 	> a:first-child {
 		display: block;
