@@ -1,7 +1,3 @@
-- name: Blog
-  url: /writing
-  description: More of my writing.
-
 - name: Uses
   url: /uses
   description: My tools of the trade.
@@ -9,6 +5,18 @@
 - name: Library
   url: /library
   description: Every book I remember having read.
+
+- name: How old is it?
+  url: https://howoldisit.glitch.me
+  description: You want *how* many years of experience?!
+
+- name: Handholding Simulator
+  url: https://handholding-simulator.glitch.me
+  description: For the lonely times.
+
+- name: Doctor's Note
+  url: https://doctorsnote.jsrn.net
+  description: A random FHIR formatted excuse not to go to work.
 
 - name: DailyUI
   url: /daily-ui
