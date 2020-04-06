@@ -94,7 +94,7 @@ layout: page
 <span class='thing-i-like'>zombie movies</span>
 
 <style>
-  span:nth-child(even) {
+  .thing-i-like:nth-child(even) {
     color: #666666;
   }
 </style>
