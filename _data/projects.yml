@@ -18,6 +18,10 @@
   url: https://doctorsnote.jsrn.net
   description: A random FHIR formatted excuse not to go to work.
 
+- name: Stuff That I Like
+  url: /stuffthatilike
+  description: A list of things that make me happy
+
 - name: DailyUI
   url: /daily-ui
   description: The results of my ongoing work on the <a href="https://www.dailyui.co/">DailyUI</a> challenges.
