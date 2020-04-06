@@ -20,7 +20,11 @@
 
 - name: Stuff That I Like
   url: /stuffthatilike
-  description: A list of things that make me happy
+  description: A list of things that make me happy.
+
+- name: Movie Sets
+  url: /moviesets
+  description: Themed sets of movies for any serious movie night.
 
 - name: DailyUI
   url: /daily-ui
