@@ -12,7 +12,7 @@ Themed sets of movies for movie nights.
 
 ### The Elements
 
-[Tremors](https://www.imdb.com/title/tt0100814/) & [Up](https://www.imdb.com/title/tt1049413/) & [All Is Lost](https://www.imdb.com/title/tt2017038/) & [Polar](https://www.imdb.com/title/tt4139588/) & [The Fifth Element](https://www.imdb.com/title/tt0119116/)
+[Tremors](https://www.imdb.com/title/tt0100814/) & [Up](https://www.imdb.com/title/tt1049413/) & [All Is Lost](https://www.imdb.com/title/tt2017038/) & [Dante's Peak](https://www.imdb.com/title/tt0118928/) & [The Fifth Element](https://www.imdb.com/title/tt0119116/)
 
 ### Class Struggle XY
 
