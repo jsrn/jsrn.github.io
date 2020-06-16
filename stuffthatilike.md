@@ -33,6 +33,7 @@ layout: page
 <span class='thing-i-like'>fog</span> &bull;
 <span class='thing-i-like'>fresh bedding</span> &bull;
 <span class='thing-i-like'>friends</span> &bull;
+<span class='thing-i-like'>gardening</span> &bull;
 <span class='thing-i-like'>goats</span> &bull;
 <span class='thing-i-like'>haircuts</span> &bull;
 <span class='thing-i-like'>historians</span> &bull;
@@ -55,7 +56,9 @@ layout: page
 <span class='thing-i-like'>packed lunches</span> &bull;
 <span class='thing-i-like'>pens</span> &bull;
 <span class='thing-i-like'>people talking about things they love</span> &bull;
+<span class='thing-i-like'>pigeons</span> &bull;
 <span class='thing-i-like'>planes</span> &bull;
+<span class='thing-i-like'>plants</span> &bull;
 <span class='thing-i-like'>podcasts</span> &bull;
 <span class='thing-i-like'>programming</span> &bull;
 <span class='thing-i-like'>puns</span> &bull;
