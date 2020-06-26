@@ -87,7 +87,7 @@ body {
 		display: grid;
 		grid-template-columns: 1fr;
 	}
-	
+
 	.zine-container img {
 		width: 100%;
 	}
@@ -175,12 +175,11 @@ img {
 .project-container {
 	display: grid;
 	grid-template-columns: repeat(2, 1fr);
-	grid-gap: 10px;
+	grid-gap: 5px;
 }
 
 .project-box {
 	padding: 10px;
-	box-shadow: 1px 1px 1px 1px hsla(1, 20%, 20%, .3);
 	border-radius: 3px;
 	background: hsl(1, 20%, 95%);
 
