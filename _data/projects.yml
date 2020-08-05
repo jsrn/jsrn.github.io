@@ -2,6 +2,10 @@
   url: /uses
   description: My tools of the trade.
   
+- name: Ruby Patterns
+  url: https://rubypatterns.dev
+  description: Code and design patterns for Ruby programmers.
+  
 - name: Library
   url: /library
   description: Every book I remember having read.
