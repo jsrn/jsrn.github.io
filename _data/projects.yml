@@ -1,17 +1,17 @@
 - name: Uses
   url: /uses
   description: My tools of the trade.
-  
+
 - name: Ruby Patterns
   url: https://rubypatterns.dev
   description: Code and design patterns for Ruby programmers.
-  
+
 - name: Library
   url: /library
   description: Every book I remember having read.
 
 - name: How old is it?
-  url: https://howoldisit.glitch.me
+  url: /howoldisit
   description: You want *how* many years of experience?!
 
 - name: Handholding Simulator
