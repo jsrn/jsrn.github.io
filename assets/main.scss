@@ -174,8 +174,7 @@ img {
 
 .project-container {
 	display: grid;
-	grid-template-columns: repeat(2, 1fr);
-	grid-gap: 5px;
+	grid-gap: 20px;
 }
 
 .project-box {
@@ -189,7 +188,7 @@ img {
 		margin-bottom: .5em;
 	}
 
-	p:last-child {
+	p:last-of-type {
 		margin-bottom: 0;
 	}
 }

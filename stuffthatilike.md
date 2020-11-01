@@ -71,8 +71,10 @@ layout: page
 <span class='thing-i-like'>running</span> &bull;
 <span class='thing-i-like'>running water</span> &bull;
 <span class='thing-i-like'>sandwiches</span> &bull;
+<span class='thing-i-like'>snails</span> &bull;
 <span class='thing-i-like'>skateboarding</span> &bull;
 <span class='thing-i-like'>sleeping in late</span> &bull;
+<span class='thing-i-like'>slugs</span> &bull;
 <span class='thing-i-like'>smiles</span> &bull;
 <span class='thing-i-like'>solving problems</span> &bull;
 <span class='thing-i-like'>spiders</span> &bull;

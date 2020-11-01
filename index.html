@@ -6,7 +6,7 @@ layout: page
   <p>James is a software developer from the United Kingdom who has been making web applications since 2011.</p>
 
   <p>He cares about using clean, robust code to build software that works.</p>
-  
+
   <p>He likes movies and pretending that someone else wrote his professional bio.</p>
 </section>
 
@@ -15,11 +15,11 @@ layout: page
     {%- for post in site.posts limit: 5 -%}
     <li>
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      
+
         <a class="post-link" data-date=" &bull; {{ post.date | date: date_format }}" href="{{ post.url | relative_url }}">
           {{ post.title | escape }}
         </a>
-      
+
       {%- if post.description -%}
         <p class="post-description">{{ post.description }}</p>
       {%- endif -%}
@@ -38,6 +38,9 @@ layout: page
     <div class="project-box">
       <a href="{{ project.url }}">{{ project.name }}</a>
       <p>{{ project.description }}</p>
+      {% for tag in project.tags %}
+      <code>{{ tag }}</code>
+      {% endfor %}
     </div>
     {% endfor %}
   </div>

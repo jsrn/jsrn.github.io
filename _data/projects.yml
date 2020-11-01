@@ -1,38 +1,71 @@
 - name: Uses
   url: /uses
   description: My tools of the trade.
+  tags:
+  - personal
 
 - name: Ruby Patterns
   url: https://rubypatterns.dev
   description: Code and design patterns for Ruby programmers.
+  tags:
+  - ruby
+  - education
+  - patterns
 
 - name: Rails Test Assistant
   url: https://github.com/jsrn/rails_test_assistant
   description: A VSCode extension for navigating to and executing tests in a Rails application.
+  tags:
+  - ruby
+  - testing
+  - vscode
+  - javascript
+  - typescript
 
 - name: Library
   url: /library
   description: Every book I remember having read.
+  tags:
+  - personal
+  - html
+  - css
+  - lazy loading
 
 - name: How old is it?
   url: /howoldisit
   description: You want *how* many years of experience?!
+  tags:
+  - react
+  - javascript
+  - html
+  - css
 
 - name: Handholding Simulator
   url: https://handholding-simulator.glitch.me
   description: For the lonely times.
+  tags:
+  - html
+  - javascript
 
 - name: Doctor's Note
   url: https://doctorsnote.jsrn.net
   description: A random FHIR formatted excuse not to go to work.
+  tags:
+  - serverless
+  - node
+  - fhir
 
 - name: Stuff That I Like
   url: /stuffthatilike
   description: A list of things that make me happy.
+  tags:
+  - personal
 
 - name: Movie Sets
   url: /moviesets
   description: Themed sets of movies for any serious movie night.
+  tags:
+  - personal
 
 - name: DailyUI
   url: /daily-ui
@@ -45,7 +78,11 @@
 - name: sudo
   url: /sudo
   description: I made a terrible band with my friend <a href="https://twitter.com/gregjwww">Greg</a>.
+  tags:
+  - personal
 
 - name: Taste In Ten
   url: /taste-in-ten
   description: Ten songs that I like.
+  tags:
+  - personal
