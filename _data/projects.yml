@@ -6,6 +6,10 @@
   url: https://rubypatterns.dev
   description: Code and design patterns for Ruby programmers.
 
+- name: Rails Test Assistant
+  url: https://github.com/jsrn/rails_test_assistant
+  description: A VSCode extension for navigating to and executing tests in a Rails application.
+
 - name: Library
   url: /library
   description: Every book I remember having read.
