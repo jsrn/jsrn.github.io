@@ -48,3 +48,7 @@ task :draft_post, [:title] do |_t, args|
     file.write(template)
   end
 end
+
+task :serve do
+  system 'jekyll serve --drafts --future'
+end
