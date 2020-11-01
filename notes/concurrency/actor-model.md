@@ -23,6 +23,7 @@ When an actor receives a message, it can:
 
 ## Links
 
+* https://en.wikipedia.org/wiki/Actor_model
 * https://www.brianstorti.com/the-actor-model/
 * https://github.com/ruby/ruby/blob/master/doc/ractor.md
 
