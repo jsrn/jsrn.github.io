@@ -11,6 +11,7 @@ layout: page
 
 ## Rails
 
+* [Devise](/notes/rails/devise)
 * [Upgrades](/notes/rails/upgrades)
 
 ## Ruby
