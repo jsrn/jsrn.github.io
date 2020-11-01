@@ -26,6 +26,7 @@ def draft_post_path(name)
   "_drafts/#{current_timestamp}-#{formatted_name}.md"
 end
 
+desc 'Create a new empty month note'
 task :draft_notes do
   puts '🌝 Generating empty monthnotes.'
   template = File.read('_drafts/monthnotes_template.md')
@@ -37,6 +38,7 @@ task :draft_notes do
   end
 end
 
+desc 'Create a new draft blog post'
 task :draft_post, [:title] do |_t, args|
   puts '🌝 Generating empty blog post.'
   args.with_defaults(title: 'Empty Post')
@@ -49,6 +51,7 @@ task :draft_post, [:title] do |_t, args|
   end
 end
 
+desc 'Start the jekyll server'
 task :serve do
   system 'jekyll serve --drafts --future'
 end
