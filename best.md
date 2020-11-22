@@ -23,7 +23,7 @@ The rules:
 1. PG Tips
 1. Tetleys
 
-## Final Fantasy
+## Final Fantasies
 
 1. VIII (eight)
 1. IX (nine)
