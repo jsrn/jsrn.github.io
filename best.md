@@ -15,6 +15,7 @@ The rules:
 
 ## Teas
 
+1. Teh tarik
 1. Yorkshire
 1. "Tea Pigs" Darjeeling & Earl Grey
 1. Peppermint
@@ -22,8 +23,7 @@ The rules:
 1. Camomile
 1. Assam
 1. Earl Grey
-1. PG Tips
-1. Tetleys
+1. Masala chai
 
 ## Final Fantasies
 
