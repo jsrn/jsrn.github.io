@@ -45,13 +45,13 @@ The rules:
 
 ## Zombie Movies
 
-1. One Cut Of The Dead
-1. Dawn of the Dead (2004)
-1. 28 Days Later
-1. Død snø
-1. Train to Busan
-1. Braindead
-1. #Alive
-1. Zombie Flesh Eaters 2
-1. Shaun Of The Dead
-1. Overlord
+1. [One Cut Of The Dead](https://www.imdb.com/title/tt7914416/)
+1. [Dawn of the Dead (2004)](https://www.imdb.com/title/tt0363547/)
+1. [28 Days Later](https://www.imdb.com/title/tt0289043/)
+1. [Død snø](https://www.imdb.com/title/tt1278340/)
+1. [Train to Busan](https://www.imdb.com/title/tt5700672/)
+1. [Braindead](https://www.imdb.com/title/tt0103873/)
+1. [#Alive](https://www.imdb.com/title/tt10620868/)
+1. [Zombie Flesh Eaters 2](https://www.imdb.com/title/tt0096511/)
+1. [Shaun Of The Dead](https://www.imdb.com/title/tt0365748/)
+1. [Overlord](https://www.imdb.com/title/tt4530422/)
