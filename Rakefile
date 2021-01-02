@@ -1,5 +1,5 @@
 require 'date'
-require 'active_support/core_ext'
+require 'active_support'
 
 def end_of_month_timestamp
   Time.now.end_of_month.strftime('%Y-%m-%d')
