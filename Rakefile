@@ -1,5 +1,6 @@
 require 'date'
 require 'active_support'
+require 'active_support/core_ext'
 
 def end_of_month_timestamp
   Time.now.end_of_month.strftime('%Y-%m-%d')
@@ -27,7 +28,7 @@ def draft_post_path(name)
 end
 
 desc 'Create a new empty month note'
-task :draft_notes do
+task :notes do
   puts '🌝 Generating empty monthnotes.'
   template = File.read('_drafts/monthnotes_template.md')
   template.gsub!('MONTH', month_name)
@@ -39,7 +40,7 @@ task :draft_notes do
 end
 
 desc 'Create a new draft blog post'
-task :draft_post, [:title] do |_t, args|
+task :post, [:title] do |_t, args|
   puts '🌝 Generating empty blog post.'
   args.with_defaults(title: 'Empty Post')
 
