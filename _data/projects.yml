@@ -67,10 +67,6 @@
   tags:
   - personal
 
-- name: DailyUI
-  url: /daily-ui
-  description: The results of my ongoing work on the <a href="https://www.dailyui.co/">DailyUI</a> challenges.
-
 - name: Zines
   url: /zines
   description: Sometimes I produce content in zine form.
