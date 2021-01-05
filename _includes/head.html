@@ -1,6 +1,10 @@
 <head>
-    <title>jsrn - software developer, rubyist, friend</title>
-    <link type="image/png" href="/assets/images/icon16.png" rel="icon">
+  {% if page.title %}
+  <title>{{ page.title }} - jsrn.net</title>
+  {% else %}
+  <title>jsrn - software developer, rubyist, friend</title>
+  {% endif %}
+  <link type="image/png" href="/assets/images/icon16.png" rel="icon">
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -15,7 +19,7 @@
   <meta name="twitter:site"    content="@jsrndoftime">
   <meta name="twitter:creator" content="@jsrndoftime">
   {% if page.title %}
-  <meta name="twitter:title"   content="{{ page.title }} - James Nutt">
+  <meta name="twitter:title"   content="{{ page.title }} - jsrn.net">
   {% else %}
   <meta name="twitter:title"   content="jsrn - software developer, rubyist, friend">
   {% endif %}
