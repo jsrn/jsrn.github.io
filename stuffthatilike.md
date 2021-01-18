@@ -1,5 +1,6 @@
 ---
 layout: page
+description: There's plenty to be grateful for.
 ---
 
 # Stuff That I Like
@@ -13,6 +14,7 @@ layout: page
 <span class='thing-i-like'>being inside when it's raining</span> &bull;
 <span class='thing-i-like'>being outside when it's snowing</span> &bull;
 <span class='thing-i-like'>binge-watching tv</span> &bull;
+<span class='thing-i-like'>bird feeders</span> &bull;
 <span class='thing-i-like'>birds</span> &bull;
 <span class='thing-i-like'>camping</span> &bull;
 <span class='thing-i-like'>caterpillars</span> &bull;
@@ -22,6 +24,7 @@ layout: page
 <span class='thing-i-like'>coffee</span> &bull;
 <span class='thing-i-like'>cold showers on hot days</span> &bull;
 <span class='thing-i-like'>cold side of the pillow</span> &bull;
+<span class='thing-i-like'>comics</span> &bull;
 <span class='thing-i-like'>computers even though I don't understand them</span> &bull;
 <span class='thing-i-like'>dogs</span> &bull;
 <span class='thing-i-like'>drawing</span> &bull;
@@ -49,7 +52,9 @@ layout: page
 <span class='thing-i-like'>kindness</span> &bull;
 <span class='thing-i-like'>learning</span> &bull;
 <span class='thing-i-like'>letters (sending &amp; receiving)</span> &bull;
+<span class='thing-i-like'>libraries</span> &bull;
 <span class='thing-i-like'>medical science</span> &bull;
+<span class='thing-i-like'>music</span> &bull;
 <span class='thing-i-like'>my wife</span> &bull;
 <span class='thing-i-like'>next day delivery</span> &bull;
 <span class='thing-i-like'>oranges</span> &bull;
