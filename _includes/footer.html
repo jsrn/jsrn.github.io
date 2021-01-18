@@ -6,16 +6,14 @@
   <div class="wrapper">
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-6">
-        {%- include social.html -%}
-      </div>
+        <p>Thanks for reading this far. If you like you can follow me on <a href="https://twitter.com/jsrndoftime">Twitter</a>  or email me at <a href="mailto:jsrn@hey.com">jsrn@hey.com</a>. We can be pals or you can tell me how bad my opinions are or both.</p>
 
-      <div class="footer-col footer-col-6">
         <p>{{- site.description | escape -}}</p>
 
-        {%- if site.rss -%}<p><a href="{{ 'feed.xml' | relative_url }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#rss' | relative_url }}"></use></svg> <span>{{ site.rss | escape }}</span></a></p>{%- endif -%}
+        <p>
+          <a href="https://twitter.com/jsrndoftime">Twitter</a> &bull; <a href="https://github.com/jsrn">GitHub</a> &bull; <a href="https://codepen.io/jsrn">CodePen</a> &bull; <a href="{{ 'feed.xml' | relative_url }}">RSS</a>
+        </p>
       </div>
     </div>
-
   </div>
-
 </footer>
