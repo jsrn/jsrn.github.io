@@ -12,6 +12,13 @@
   - education
   - patterns
 
+- name: Talks
+  url: https://jsrn.net/talks/index.html
+  description: Slides and demo code for some of my previous talks.
+  tags:
+  - ruby
+  - education
+
 - name: Rails Test Assistant
   url: https://github.com/jsrn/rails_test_assistant
   description: A VSCode extension for navigating to and executing tests in a Rails application.
