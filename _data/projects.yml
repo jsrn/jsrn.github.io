@@ -1,6 +1,6 @@
 - name: Blog
   url: /writing
-  description: My older blog posts
+  description: My older blog posts.
 
 - name: Uses
   url: /uses
