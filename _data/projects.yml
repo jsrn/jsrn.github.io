@@ -1,3 +1,7 @@
+- name: Blog
+  url: /writing
+  description: My older blog posts
+
 - name: Uses
   url: /uses
   description: My tools of the trade.
