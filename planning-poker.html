@@ -25,6 +25,9 @@
       width: 100%;
       font-size: 50vh;
       line-height: 95vh;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center;
     }
 
     input[type=range] {
@@ -45,20 +48,35 @@
   </main>
 
   <div class="slider">
-    <input id="range" type="range" min="0" max="9" step="1" value="0">
+    <input id="range" type="range" min="0" max="9" step="1" value="0" autofocus>
   </div>
 
   <script>
     let index = 0;
     const cards = [
-      '?', '½', '1', '2', '3', '5', '8', '13', '25', '50'
+      { card: '?', color: '#efefef', backgroundColor: '' },
+      { card: '½', color: '#efefef', backgroundColor: '#4caf50' },
+      { card: '1', color: '#efefef', backgroundColor: '#388e3c' },
+      { card: '2', color: '#efefef', backgroundColor: '#1b5e20' },
+      { card: '3', color: '#efefef', backgroundColor: '#aeea00' },
+      { card: '5', color: '#efefef', backgroundColor: '#ffd600' },
+      { card: '8', color: '#efefef', backgroundColor: '#f57f17' },
+      { card: '13', color: '#efefef', backgroundColor: '#e65100' },
+      { card: '25', color: '#efefef', backgroundColor: '#d50000' },
+      { card: '50', color: '#efefef', backgroundImage: `url('/assets/images/poker/50.jpg')` }
     ];
 
     let main = document.getElementById('main');
     let range = document.getElementById('range');
 
     range.addEventListener('change', function(e) {
-      main.innerText = cards[e.target.value];
+      const index = e.target.value;
+      const card = cards[index];
+
+      main.innerText = cards[index].card;
+      main.style.backgroundImage = cards[index].backgroundImage || null;
+      main.style.backgroundColor = cards[index].backgroundColor;
+      main.style.color = cards[index].color;
     })
   </script>
 </body>
