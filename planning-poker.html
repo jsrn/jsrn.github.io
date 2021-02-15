@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Planning Poker</title>
+  <style>
+    * { box-sizing: border-box; }
+
+    html, body {
+      margin: 0;
+      padding: 0;
+      font-family: sans-serif;
+    }
+
+    nav {
+      display: flex;
+      height: 5vh;
+    }
+
+    nav button {
+      flex-grow: 1;
+      border: 0;
+      height: 100%;
+    }
+
+    main {
+      text-align: center;
+      width: 100vw;
+      font-size: 50vh;
+      line-height: 95vh;
+    }
+  </style>
+</head>
+<body>
+  <nav>
+    <button id="easier" type="button">Easier</button>
+    <button id="harder" type="button">Harder</button>
+  </nav>
+
+  <main id='main'>
+    ?
+  </main>
+
+  <script>
+    let index = 0;
+    const cards = [
+      '?', '½', '1', '2', '3', '5', '8', '13', '25', '50'
+    ];
+    let easier = document.getElementById('easier');
+    let harder = document.getElementById('harder');
+    let main = document.getElementById('main');
+
+    easier.addEventListener('click', function() {
+      index = index - 1;
+      if (index < 0) { index = 0 };
+
+      main.innerText = cards[index];
+    });
+
+    harder.addEventListener('click', function() {
+      index = index + 1;
+      if (index > cards.length - 1) { index = cards.length - 1 };
+
+      main.innerText = cards[index];
+    });
+  </script>
+</body>
+</html>
