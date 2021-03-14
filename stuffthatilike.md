@@ -8,6 +8,7 @@ description: There's plenty to be grateful for.
 <span class='thing-i-like'>a tidy house</span> &bull;
 <span class='thing-i-like'>alone time</span> &bull;
 <span class='thing-i-like'>anything with carbohydrates</span> &bull;
+<span class='thing-i-like'>apples</span> &bull;
 <span class='thing-i-like'>attention to detial</span> &bull;
 <span class='thing-i-like'>bananas</span> &bull;
 <span class='thing-i-like'>bees (not wasps)</span> &bull;
@@ -16,6 +17,7 @@ description: There's plenty to be grateful for.
 <span class='thing-i-like'>binge-watching tv</span> &bull;
 <span class='thing-i-like'>bird feeders</span> &bull;
 <span class='thing-i-like'>birds</span> &bull;
+<span class='thing-i-like'>books</span> &bull;
 <span class='thing-i-like'>camping</span> &bull;
 <span class='thing-i-like'>caterpillars</span> &bull;
 <span class='thing-i-like'>chocolate</span> &bull;
@@ -37,6 +39,7 @@ description: There's plenty to be grateful for.
 <span class='thing-i-like'>fresh bedding</span> &bull;
 <span class='thing-i-like'>friends</span> &bull;
 <span class='thing-i-like'>gardening</span> &bull;
+<span class='thing-i-like'>gas stoves</span> &bull;
 <span class='thing-i-like'>goats</span> &bull;
 <span class='thing-i-like'>haircuts</span> &bull;
 <span class='thing-i-like'>historians</span> &bull;
@@ -56,6 +59,7 @@ description: There's plenty to be grateful for.
 <span class='thing-i-like'>medical science</span> &bull;
 <span class='thing-i-like'>music</span> &bull;
 <span class='thing-i-like'>my wife</span> &bull;
+<span class='thing-i-like'>mythology</span> &bull;
 <span class='thing-i-like'>next day delivery</span> &bull;
 <span class='thing-i-like'>oranges</span> &bull;
 <span class='thing-i-like'>packed lunches</span> &bull;
