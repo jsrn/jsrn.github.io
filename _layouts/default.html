@@ -8,7 +8,11 @@
     <img src="/{{ page.header_image }}" alt="" class="header-image">
     {% endif %}
     <div class="main-content-container">
-        {%- include header.html -%}
+      <header>
+        <h1 style="margin-bottom: 1rem;">
+          <a href="/">JSRN<span class="secondary">.NET</span></a>
+        </h1>
+      </header>
 
         {{ content }}
     </div>

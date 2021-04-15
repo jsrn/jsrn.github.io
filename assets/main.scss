@@ -53,14 +53,6 @@ body {
 	font-size: 16pt;
 }
 
-.starmilk {
-	position: fixed;
-	bottom: -50px;
-	opacity: .5;
-	z-index: -1;
-	pointer-events: none;
-}
-
 .zine-container {
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr;
@@ -77,11 +69,6 @@ body {
 		margin: 0 10px;
 		flex: none;
 		max-width: 100%;
-	}
-
-	.starmilk {
-		opacity: .1;
-		z-index: -1;
 	}
 
 	.zine-container {
