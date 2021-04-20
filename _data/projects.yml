@@ -93,3 +93,9 @@
   description: Ten songs that I like.
   tags:
   - personal
+
+- name: Universal Statistics
+  url: /universal_statistics
+  description: Stats I'd like to know about the Universe.
+  tags:
+  - personal
