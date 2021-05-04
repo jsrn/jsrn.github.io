@@ -28,7 +28,13 @@ The rules:
 
 ## Flowers
 
+1. Foxglove
+1. Dahlia
+1. Red rose
+1. Orchid
 1. Sunflowers
+1. Tulip
+1. Bluebell
 
 ## Teas
 
