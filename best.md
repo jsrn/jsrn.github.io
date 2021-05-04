@@ -13,7 +13,15 @@ The rules:
 * Totally arbitrary.
 * I'm right.
 
-## Final Fantasies
+<h2>Contents</h2>
+
+* [Final Fantasies](#final_fantasies)
+* [Flowers](#flowers)
+* [Smells](#smells)
+* [Teas](#teas)
+* [Zombie Movies](#zombie_movies)
+
+<h2 id="final_fantasies">Final Fantasies</h2>
 
 1. VIII (eight)
 1. IX (nine)
@@ -26,7 +34,7 @@ The rules:
 1. XIII (thirteen)
 1. XII (twelve)
 
-## Flowers
+<h2 id="flowers">Flowers</h2>
 
 1. Foxglove
 1. Dahlia
@@ -46,7 +54,7 @@ The rules:
 1. Fresh bread
 1. Coffee beans
 
-## Teas
+<h2 id="teas">Teas</h2>
 
 1. Teh tarik
 1. Yorkshire
@@ -59,7 +67,7 @@ The rules:
 1. Masala chai
 1. PG Tips
 
-## Zombie Movies
+<h2 id="zombie_movies">Zombie Movies</h2>
 
 1. [One Cut Of The Dead](https://www.imdb.com/title/tt7914416/)
 1. [Dawn of the Dead (2004)](https://www.imdb.com/title/tt0363547/)
