@@ -36,6 +36,16 @@ The rules:
 1. Tulip
 1. Bluebell
 
+
+<h2 id="smells">Smells</h2>
+
+1. Frying garlic
+1. Frying bacon
+1. Frying onions
+1. Nail polish remover
+1. Fresh bread
+1. Coffee beans
+
 ## Teas
 
 1. Teh tarik
