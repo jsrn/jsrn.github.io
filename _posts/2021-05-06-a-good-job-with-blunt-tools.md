@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Good Job With Blunt Tools"
-description: A local newsletter
+description: A local newsletter that doesn't worry about the future.
 category: misc
 tags: [tooling, lowtech]
 ---
