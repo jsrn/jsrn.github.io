@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+    {{ content }}
+  </body>
+
+  <style>
+    body {
+      font-family: 'Comic Sans MS', cursive;
+      background-image: url('/assets/images/space.gif');
+    }
+
+    .thing-i-like {
+      color: silver;
+    }
+
+    h1,
+    .thing-i-like:nth-child(2n) {
+      color: white;
+    }
+
+    body {
+      width: 70ch;
+      margin: 0 auto;
+    }
+  </style>
+</html>

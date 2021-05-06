@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: space
 description: There's plenty to be grateful for.
 ---
 
