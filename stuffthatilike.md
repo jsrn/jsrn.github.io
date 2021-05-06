@@ -3,7 +3,8 @@ layout: space
 description: There's plenty to be grateful for.
 ---
 
-# Stuff That I Like
+
+<h1><img src="/assets/images/globe.gif" alt="" height="60"> Stuff That I Like <img src="/assets/images/globe.gif" alt="" height="60"></h1>
 
 <span class='thing-i-like'>a tidy house</span> &bull;
 <span class='thing-i-like'>alone time</span> &bull;
@@ -117,5 +118,10 @@ description: There's plenty to be grateful for.
 <style>
   .thing-i-like:nth-child(even) {
     color: #666666;
+  }
+
+  h1 {
+    height: 60px;
+    line-height: 60px;
   }
 </style>
