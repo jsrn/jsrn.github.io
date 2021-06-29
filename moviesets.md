@@ -25,3 +25,7 @@ Themed sets of movies for movie nights.
 ### Limited Elbow Room
 
 [Devil](https://www.imdb.com/title/tt1314655/) & [Locke](https://www.imdb.com/title/tt2692904/) & [Phone Booth](https://www.imdb.com/title/tt0183649/)
+
+### I Just Wanted To Buy A Coke
+
+[Splinter](https://www.imdb.com/title/tt1031280/) & [The Mist](https://www.imdb.com/title/tt0884328/)
