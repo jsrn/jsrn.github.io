@@ -18,6 +18,7 @@ The rules:
 * [Final Fantasies](#final_fantasies)
 * [Flowers](#flowers)
 * [Smells](#smells)
+* [Spiders](#spiders)
 * [Teas](#teas)
 * [Zombie Movies](#zombie_movies)
 
@@ -53,6 +54,11 @@ The rules:
 1. Nail polish remover
 1. Fresh bread
 1. Coffee beans
+
+
+<h2 id="spiders">Spiders</h2>
+
+1. European garden spider
 
 <h2 id="teas">Teas</h2>
 
