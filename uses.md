@@ -19,3 +19,4 @@ layout: page
 * [Todoist](https://todoist.com) for holding chaos at bay.
 * [Visual Studio Code](https://code.visualstudio.com/) for editing code and other text files.
 * [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/faq) whenever I've doing web development on a Windows machine. I spent a long time rotating through various Linux distributions, but these days I don't have the patience or skill to babysit them. And I like video games too much.
+* [TechSmith's SnagIt](https://www.techsmith.com/screen-capture.html) is brilliant for capturing screen recordings and annotating screenshots. It's not cheap, but it is good.
