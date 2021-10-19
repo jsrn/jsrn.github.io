@@ -102,6 +102,8 @@ description: There's plenty to be grateful for.
 <span class='thing-i-like'>tea</span> &bull;
 <span class='thing-i-like'>the green man coming on as soon as you get to the crossing</span> &bull;
 <span class='thing-i-like'>travel documentaries</span> &bull;
+<span class='thing-i-like'>tv (good)</span> &bull;
+<span class='thing-i-like'>tv (trash)</span> &bull;
 <span class='thing-i-like'>umbrellas</span> &bull;
 <span class='thing-i-like'>videogames</span> &bull;
 <span class='thing-i-like'>visual novels</span> &bull;
