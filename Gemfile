@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'jekyll'
+gem 'jekyll', '3.9.0'
 gem 'minima'
-gem 'activesupport'
 gem 'rake'
+gem 'kramdown-parser-gfm'
