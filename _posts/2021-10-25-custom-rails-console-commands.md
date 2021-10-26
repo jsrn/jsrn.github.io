@@ -9,7 +9,7 @@ updated: Oct 26, 2021
 
 If you're like me, you probably spend a lot of time in the Rails console interrogating objects and fiddling with data to debug your application. As I work on a project, I end up with a growing list of useful snippets to lightly modify and paste into the console to complete common tasks.
 
-A [tweet](https://twitter.com/websebdev/status/1451897969276604424?s=20) by [Sebastian Auriault](https://twitter.com/websebdev) showed me that you can define methods that will be directly accessible in your Rails console without necessarily affecting your production code.
+A [tweet](https://twitter.com/websebdev/status/1451897969276604424?s=20) by [Sebastien Auriault](https://twitter.com/websebdev) showed me that you can define methods that will be directly accessible in your Rails console without necessarily affecting your production code.
 
 # How?
 
