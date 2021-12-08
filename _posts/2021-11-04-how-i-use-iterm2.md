@@ -4,6 +4,7 @@ title: "How I use iTerm2"
 description: I use a pretty standard terminal configuration, but there are a couple things I like about it.
 category: programming
 tags: []
+updated: Dec 8, 2021
 ---
 
 I use [iTerm2](https://iterm2.com/) instead of the default MacOS terminal, and here's how I have it set up:
@@ -21,3 +22,6 @@ I use [iTerm2](https://iterm2.com/) instead of the default MacOS terminal, and h
 ![Terminal bindings for skipping to word boundaries](/assets/images/option-left-binding.png)
 
 * Silence terminal bell because **I hate it**.
+* Enable tab icons for running apps.
+
+![iTerm2 with tab icons enabled](/assets/images/iterm-tab-icons.png)
