@@ -7,3 +7,4 @@ title: My brilliant ideas at no cost to you, the reader
 2. [caniuse.com](https://caniuse.com) but for markdown variants
 3. Powerful ancient Romans would have servants follow them, whispering reminders of their own mortality. For just £4 per month, I will provide this service to you via email or Twitter DM.
 4. AWS feature request: a big red button I can press that just deletes anything that’s going to rack up a bill just by existing.
+5. "HTTP 209 k." Like 200 OK but it’s kinda mad at you.
