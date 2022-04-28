@@ -1,13 +1,3 @@
-- name: Blog
-  url: /writing
-  description: My older blog posts.
-
-- name: Uses
-  url: /uses
-  description: My tools of the trade.
-  tags:
-  - personal
-
 - name: Ruby Patterns
   url: https://rubypatterns.dev
   description: Code and design patterns for Ruby programmers.
@@ -15,13 +5,6 @@
   - ruby
   - education
   - patterns
-
-- name: Talks
-  url: https://jsrn.net/talks/
-  description: Slides and demo code for some of my previous talks.
-  tags:
-  - ruby
-  - education
 
 - name: Rails Test Assistant
   url: https://github.com/jsrn/rails_test_assistant
