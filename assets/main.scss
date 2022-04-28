@@ -101,11 +101,6 @@ img {
 	right: 10px;
 }
 
-.post-link:after {
-	content: attr(data-date);
-	color: hsl(1, 43%, 65%);
-}
-
 .post-link {
 	line-height: 1.2;
 }

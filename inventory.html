@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      background-image: url('/assets/images/uses/bg.png');
+      background-size: 128px;
+      cursor: url('/assets/images/uses/dwarven_gauntlet.png'), pointer;
+    }
+
+    #inventory {
+      display: grid;
+      grid-template-columns: repeat(3, 128px);
+      width: calc(3 * 128px);
+      margin: 0 auto;
+    }
+
+    #item-text {
+      width: calc(3 * 128px);
+      margin: 0 auto;
+      margin-top: 1em;
+      font-family: 'Cinzel Decorative', cursive;
+      font-size: 2em;
+      color: #333;
+      text-shadow:
+      -1px -1px 1px #000,
+        1px -1px 1px #000,
+        -1px 1px 1px #000,
+        1px 1px 1px #000;
+    }
+
+    footer {
+      width: calc(3 * 128px);
+      margin: 0 auto;
+      margin-top: 2em;
+    }
+
+    .item {
+      background-image: url('/assets/images/uses/tile.png');
+      background-size: cover;
+      width: 128px;
+      height: 128px;
+    }
+
+    .item:hover {
+      filter: brightness(1.5);
+    }
+
+    .icon {
+      background-size: cover;
+      width: 128px;
+      height: 128px;
+    }
+
+    .ruby {
+      background-image: url('/assets/images/uses/ruby.png');
+    }
+
+    .obsidian {
+      background-image: url('/assets/images/uses/obsidian.png');
+    }
+
+    .todoist {
+      background-image: url('/assets/images/uses/todoist.png');
+    }
+
+    .macbook {
+      background-image: url('/assets/images/uses/macbook.png');
+    }
+
+    .ruby:active:after {
+      content: 'lol';
+      position: absolute;
+      right: 10px;
+      top: -400px;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <div id="inventory">
+      <div class="item">
+        <div class="icon macbook" onclick="setItemText('macbook')"></div>
+      </div>
+
+      <div class="item">
+        <div class="icon ruby" onclick="setItemText('rubyMine')"></div>
+      </div>
+
+      <div class="item">
+        <div class="icon obsidian" onclick="setItemText('obsidian')"></div>
+      </div>
+
+      <div class="item">
+        <div class="icon todoist" onclick="setItemText('todoist')"></div>
+      </div>
+    </div>
+
+    <div id="item-text"></div>
+  </main>
+
+  <footer>
+    <small>Cursor by <a href="https://www.indiedb.com/games/wyrmsun">Wyrmsun</a> and released under <a href="https://opengameart.org/content/dwarven-cursor">CC-BY-SA 3.0</a>. Item icons by <a href="https://twitter.com/JoeCreates">@JoeCreates</a>. Background tiles by <a href="https://opengameart.org/content/denzis-gui-artwork">Denzi</a>.</small>
+  </footer>
+
+  <script>
+    function setItemText(label) {
+      document.getElementById('item-text').innerText = itemText[label];
+    }
+
+    const itemText = {
+      rubyMine: 'A permit to a RubyMine. Allows our adventurer write high quality Ruby code.',
+      obsidian: 'A lump of magical Obsidian. Hums with deep veins of knowledge.',
+      todoist: '"Memoirs of a Todoist." Full of useful tips on GTD.',
+      macbook: 'The Mac Book. Quality gear for any adventurer.'
+    }
+  </script>
+</body>
+</html>
