@@ -22,5 +22,11 @@ layout: default
     {{ content }}
   </div>
 
+  <span><img src="/assets/images/icon32.png"></span>
+
+  <div class="post-content e-content" itemprop="articleBody" style="margin-top: 1em;">
+    <small>Respond to this post <a href="mailto:jsrn@hey.com?subject=Re: {{ page.title | escape }}">via e-mail</a></small>
+  </div>
+
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
