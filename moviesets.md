@@ -29,3 +29,7 @@ Themed sets of movies for movie nights.
 ### I Just Wanted To Buy A Coke
 
 [Splinter](https://www.imdb.com/title/tt1031280/) & [The Mist](https://www.imdb.com/title/tt0884328/)
+
+### The Perils of Waste Disposal in Japan
+
+[The Happiness of the Katakuris](https://www.imdb.com/title/tt0304262/) & [Gozu](https://www.imdb.com/title/tt0361668/) & [Survive Style 5+](https://www.imdb.com/title/tt0430651/)
