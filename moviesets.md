@@ -33,3 +33,20 @@ Themed sets of movies for movie nights.
 ### The Perils of Waste Disposal in Japan
 
 [The Happiness of the Katakuris](https://www.imdb.com/title/tt0304262/) & [Gozu](https://www.imdb.com/title/tt0361668/) & [Survive Style 5+](https://www.imdb.com/title/tt0430651/)
+
+
+### "Now What?"
+
+[Locke](https://www.imdb.com/title/tt2692904/) & [Boiling Point](https://www.imdb.com/title/tt11127680/) & [Uncut Gems](https://www.imdb.com/title/tt5727208/) & [Deep Rising](https://www.imdb.com/title/tt0118956/)
+
+{% comment %}
+### Senses set
+
+Sight: sightless
+Smell:
+Taste:
+Hearing: hush
+Touch: Casper?
+ESPN: something mundane, not sure what. Goodfellas?
+
+{% endcomment %}
