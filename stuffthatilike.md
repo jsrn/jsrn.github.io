@@ -8,6 +8,7 @@ description: There's plenty to be grateful for.
 
 <span class='thing-i-like'>a tidy house</span> &bull;
 <span class='thing-i-like'>alone time</span> &bull;
+<span class='thing-i-like'>animals trying not to fall asleep</span> &bull;
 <span class='thing-i-like'>anything with carbohydrates</span> &bull;
 <span class='thing-i-like'>apples</span> &bull;
 <span class='thing-i-like'>attention to detial</span> &bull;
