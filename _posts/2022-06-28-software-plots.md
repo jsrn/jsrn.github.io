@@ -4,6 +4,7 @@ title: "Software plots"
 description: On the narrative forms of software
 category: programming
 permalink: /software-plots
+updated: Jun 29, 2022
 ---
 
 There are [seven basic story plots](https://en.wikipedia.org/wiki/The_Seven_Basic_Plots):
