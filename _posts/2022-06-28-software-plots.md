@@ -22,5 +22,8 @@ How many distinct software "plots" are there?
 2. Automating or eliminating a manual thing
 3. Making a slow thing faster[^1]
 4. Making a manual thing easier - inline definitions/translations, note-taking software that allows you to easily group related notes
+5. Entertaining the user
+
+Let me know if you can think of any more.
 
 [^1]: This is particularly powerful when you transition between orders of magnitude and facilitate a positive feedback loop. Make my test suite 15% faster and I'll thank you kindly. Make it 10x faster and I'll love you forever.
