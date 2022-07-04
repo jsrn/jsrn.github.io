@@ -38,3 +38,25 @@ c.tax
 c.house
 # undefined method `house' for #<Citizen:0x00007fc342a866c0>
 ```
+
+## Excitability
+
+Write your code like you write your emails when you're trying a little too hard to come across as friendly.
+
+```ruby
+klasses = ObjectSpace.each_object(Class)
+klasses.each do |klass|
+  next if klass.frozen?
+
+  klass.instance_methods.each do |meth|
+    next if meth.to_s.end_with?('!')
+
+    klass.class_eval do
+      alias_method "#{meth}!".to_sym, meth
+    end
+  end
+end
+
+[1, 3, 2].max!
+# 3
+```
