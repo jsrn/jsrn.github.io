@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Terrible Ruby
+title: Questionable Ruby
 description: Just because you can, doesn't mean you should. Misadventures in Ruby programming.
 category: programming
-permalink: /terrible-ruby
+permalink: /questionable-ruby
 ---
 
 There's a lot you can do with Ruby's concepts of object individuation. A lot you probably shouldn't do.
@@ -59,4 +59,33 @@ end
 
 [1, 3, 2].max!
 # 3
+```
+
+
+## Finite resources
+
+Budgeting is important.
+
+```ruby
+$availableCalls = 1000
+
+trace = TracePoint.new(:call) do |tp|
+  if tp.defined_class.ancestors.include?(Unsustainable)
+    raise StandardError.new, 'No more method calls. Go outside and play.' if $availableCalls.zero?
+
+    $availableCalls -= 1
+  end
+end
+trace.enable
+
+module Unsustainable; end
+
+class EndlessGrowth
+  include Unsustainable
+
+  def grow; end
+end
+
+1001.times { EndlessGrowth.new.grow }
+# No more method calls. Go outside and play. (StandardError)
 ```
