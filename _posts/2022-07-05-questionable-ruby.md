@@ -62,6 +62,22 @@ end
 ```
 
 
+## Where's Wally?
+
+A fun game to play with your friends. Hides Wally in a randomly selected method, and you get to look for him!
+
+```ruby
+klasses = ObjectSpace.each_object(Class)
+klass = klasses.to_a.sample
+method = klass.instance_methods.sample
+
+klass.instance_eval do
+   define_method(method) do |*args|
+     puts "You found Wally!"
+   end
+end
+```
+
 ## Finite resources
 
 Budgeting is important.
