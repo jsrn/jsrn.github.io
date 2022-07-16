@@ -193,9 +193,13 @@ section {
 }
 
 @media (prefers-color-scheme: dark) {
-	body {
+	body, .main-content-container, footer {
 		background: #16161d;
 		color: #fdfdfd;
+	}
+
+	.main-content-container, footer {
+		border-width: 0;
 	}
 
 	code {
