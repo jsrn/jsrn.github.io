@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Watering a flower - Haruomi Hosono
+title: Watering a Flower - Haruomi Hosono
 description: "\"This is the warmest shade of grey I've ever felt.\""
 category: misc
 permalink: /watering-a-flower
