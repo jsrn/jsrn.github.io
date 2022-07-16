@@ -34,6 +34,7 @@ description: There's plenty to be grateful for.
 <span class='thing-i-like'>cold side of the pillow</span> &bull;
 <span class='thing-i-like'>comics</span> &bull;
 <span class='thing-i-like'>computers even though I don't understand them</span> &bull;
+<span class='thing-i-like'>dark souls</span> &bull;
 <span class='thing-i-like'>dogs</span> &bull;
 <span class='thing-i-like'>drawing</span> &bull;
 <span class='thing-i-like'>electricity</span> &bull;
@@ -116,6 +117,7 @@ description: There's plenty to be grateful for.
 <span class='thing-i-like'>visual novels</span> &bull;
 <span class='thing-i-like'>waking up early</span> &bull;
 <span class='thing-i-like'>webcomics</span> &bull;
+<span class='thing-i-like'>web revival</span> &bull;
 <span class='thing-i-like'>whisk(e)y</span> &bull;
 <span class='thing-i-like'>windy days</span> &bull;
 <span class='thing-i-like'>wool</span> &bull;
