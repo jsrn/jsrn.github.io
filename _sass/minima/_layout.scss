@@ -100,12 +100,14 @@
 }
 
 footer {
+  box-sizing: border-box;
   padding: $spacing-unit 0;
   @include relative-font-size(0.9375);
   @extend %clearfix;
   @include orange-double-border;
   background-color: darkseagreen;
   width: 32em;
+  max-width: calc(100vw - 2em);
   margin: 2em auto;
   padding: 1em;
 

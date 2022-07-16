@@ -23,6 +23,12 @@ header {
 	margin-top: 20px;
 }
 
+.header-link {
+	display: inline-block;
+	max-width: min(310px, 90vw);
+	margin: 1em auto;
+}
+
 header h1 a{
 	font-weight: bold;
 	display: flex;
@@ -108,7 +114,8 @@ img {
 }
 
 .main-content-container {
-	width: 30em;
+	max-width: 30em;
+	box-sizing: border-box;
 	margin: 0 auto;
 	background: rgba(225, 255, 225, 0.9);
 	padding: 1em;
@@ -207,4 +214,16 @@ section {
 
 .footnotes {
 	font-size: 12pt;
+}
+
+section.link-box {
+	font-family: monospace;
+
+	a {
+		@include orange-double-border;
+		display: inline-block;
+		padding: 5px;
+		background: darkseagreen;
+		text-align: center;
+	}
 }
