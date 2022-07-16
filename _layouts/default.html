@@ -7,13 +7,12 @@
     {% if page.header_image %}
     <img src="/{{ page.header_image }}" alt="" class="header-image">
     {% endif %}
-    <div class="main-content-container">
-      <header>
-        <h1 style="margin-bottom: 1rem;">
-          <a href="/">JSRN<span class="secondary">.NET</span></a>
-        </h1>
-      </header>
 
+    <a href="/" class="header-link">
+      <img src="/assets/images/jsrnnet.png" alt="JSRN.NET" width="310" height="75" style="margin-bottom: 1rem;" class="jsrn-net-logo">
+    </a>
+
+    <div class="main-content-container">
         {{ content }}
     </div>
 
