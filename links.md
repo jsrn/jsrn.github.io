@@ -11,3 +11,9 @@ title: Links to other places around the web
 <a href="https://www.ruby-lang.org"><img src="/assets/images/badges/ruby.png" alt="The Ruby programming language"></a>
 <a href="https://indieweb.org/"><img src="/assets/images/badges/iwc.png" alt="IndieWeb Camp"></a>
 </div>
+
+<div class="webrings">
+  <p>
+    <a href="https://hotlinewebring.club/jsrn/previous">←</a> <a href="https://hotlinewebring.club/">hotline webring</a> <a href="https://hotlinewebring.club/jsrn/next">→</a>
+  </p>
+</div>
