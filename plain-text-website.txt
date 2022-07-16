@@ -1,0 +1,23 @@
+********************************************************************************
+*                            THE PLAIN TEXT WEBSITE                            *
+*                                   by jsrn                                    *
+********************************************************************************
+
+|----------------------------------------------------------------------------\
+| WELCOME                                                                     \
+|==============================================================================\
+
+Welcome to my plain text website. There's not a lot on here, as you can see! I
+bet it loads pretty fast, though.
+
+
+|----------------------------------------------------------------------------\
+| WHY?                                                                        \
+|==============================================================================\
+
+I made this to illustrate a point: if you have something to say, you don't need
+a lot of fancy tech to say it. People will tell you that you don't need to learn
+all of the latest and greatest frameworks to make a personal web page, you can
+just use HTML and CSS.
+
+I say: not even that.
