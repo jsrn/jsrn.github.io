@@ -7,7 +7,7 @@ title: Why do I maintain this website?
 
 I maintain this site because I believe self-publishing on the web is the only viable long term way to maintain control of your own stuff.
 
-I'm interested in the [IndieWeb](https://indieweb.org/) movement and the concept of [digital gardens](https://joelhooks.com/digital-garden) and I hope that the care put into creating and maintaining these spaces online leads to more meaningful connections with both ideas and people. I've previously stated that [it's time for link pages](/miscellaneous/2019/02/27/its-time-for-link-pages.html) to make a comeback and I stand by that.
+I'm interested in the [IndieWeb](https://indieweb.org/) movement and the concept of [digital gardens](https://joelhooks.com/digital-garden) and I hope that the care put into creating and maintaining these spaces online leads to more meaningful connections with both ideas and people. I've previously stated that [it's time for link pages](/time-for-link-pages) to make a comeback and I stand by that.
 
 This website is statically generated using [jekyll](https://jekyllrb.com/) because when the output is a folder of HTML files, I can take it pretty much anywhere.
 
