@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "A Good Job With Blunt Tools"
+title: A good job with blunt tools
 description: A local newsletter that doesn't worry about the future.
 category: misc
 tags: [tooling, lowtech]
+permalink: /a-good-job-with-blunt-tools
 ---
 
 I'm signed up to the e-mail newsletter of a local walkway.
