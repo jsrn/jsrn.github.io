@@ -4,14 +4,19 @@
 
 @import "minima";
 
-$jamesorange: #D1442F;
-
 .parent {
 	width: 100%;
 }
 
 a {
-	color: $jamesorange;
+	color: $jorange;
+}
+
+body {
+	background: url('/assets/images/garden.png');
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
 }
 
 header {
@@ -39,7 +44,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 header .secondary {
-	color: #D1442F;
+	color: $jorange;
 }
 
 body {
@@ -107,10 +112,7 @@ img {
 	margin: 0 auto;
 	background: rgba(225, 255, 225, 0.9);
 	padding: 1em;
-	border-color: #D1442F;
-	border-style: double;
-	border-width: 5px;
-	border-radius: 2px;
+	@include orange-double-border;
 }
 
 .main-content-container > *:first-child {

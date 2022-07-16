@@ -26,6 +26,8 @@ $content-width:    800px !default;
 $on-palm:          600px !default;
 $on-laptop:        800px !default;
 
+$jorange: #D1442F;
+
 // Use media queries like this:
 // @include media-query($on-palm) {
 //   .wrapper {
@@ -41,6 +43,13 @@ $on-laptop:        800px !default;
 
 @mixin relative-font-size($ratio) {
   font-size: $base-font-size * $ratio;
+}
+
+@mixin orange-double-border {
+  border-color: $jorange;
+  border-style: double;
+  border-width: 5px;
+  border-radius: 2px;
 }
 
 // Import partials.
