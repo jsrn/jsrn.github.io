@@ -105,6 +105,16 @@ img {
 .main-content-container {
 	width: 30em;
 	margin: 0 auto;
+	background: rgba(225, 255, 225, 0.9);
+	padding: 1em;
+	border-color: #D1442F;
+	border-style: double;
+	border-width: 5px;
+	border-radius: 2px;
+}
+
+.main-content-container > *:first-child {
+		margin-top: 0;
 }
 
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
