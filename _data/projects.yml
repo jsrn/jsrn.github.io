@@ -1,3 +1,12 @@
+- name: How old is it?
+  url: /howoldisit
+  description: You want *how* many years of experience?!
+  tags:
+  - react
+  - javascript
+  - html
+  - css
+
 - name: Ruby Patterns
   url: https://rubypatterns.dev
   description: Code and design patterns for Ruby programmers.
@@ -25,29 +34,12 @@
   - css
   - lazy loading
 
-- name: How old is it?
-  url: /howoldisit
-  description: You want *how* many years of experience?!
-  tags:
-  - react
-  - javascript
-  - html
-  - css
-
 - name: Handholding Simulator
   url: https://handholding-simulator.glitch.me
   description: For the lonely times.
   tags:
   - html
   - javascript
-
-- name: Doctor's Note
-  url: https://doctorsnote.jsrn.net
-  description: A random FHIR formatted excuse not to go to work.
-  tags:
-  - serverless
-  - node
-  - fhir
 
 - name: Stuff That I Like
   url: /stuffthatilike
