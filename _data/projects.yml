@@ -67,7 +67,7 @@
 
 - name: sudo
   url: /sudo
-  description: I made a terrible band with my friend <a href="https://twitter.com/gregjwww">Greg</a>.
+  description: I made a terrible band with my friend Greg.
   tags:
   - personal
 
