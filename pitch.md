@@ -13,3 +13,5 @@ title: My brilliant ideas at no cost to you, the reader
 8. A Pez dispenser but for socks.
 9. Pass the parcel but with wasps.
 10. Code minification to be renamed to "debigging."
+11. Code challenges like https://exercism.org where you have to make all the tests pass, but you *start with* a passing solution and have to refactor it until it passes certain code quality metrics
+12. Dating sim where all of the romantic interests have STRONG OPINIONS about web dev and you have to woo them by navigating the thorny field of tabs vs. spaces, vim vs. vscode, etc.
