@@ -20,6 +20,10 @@ Here are some pages that are important to me, have a cool design, or simply brin
 
 <div class="webrings">
   <p>
-    <a href="https://hotlinewebring.club/jsrn/previous">←</a> <a href="https://hotlinewebring.club/">hotline webring</a> <a href="https://hotlinewebring.club/jsrn/next">→</a>
+    <a href="https://hotlinewebring.club/jsrn/previous">←</a> <a href="https://hotlinewebring.club">hotline webring</a> <a href="https://hotlinewebring.club/jsrn/next">→</a>
+  </p>
+
+  <p>
+    <a href='https://webring.dinhe.net/prev/https://jsrn.net'>←</a> <a href="https://webring.dinhe.net">retronaut webring</a> <a href='https://webring.dinhe.net/next/https://jsrn.net'>→</a>
   </p>
 </div>
