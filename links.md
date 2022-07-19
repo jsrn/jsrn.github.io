@@ -24,7 +24,7 @@ Here are some pages that are important to me, have a cool design, or simply brin
 <a href="/"><img src="/assets/images/badge.png" alt="jsrn.net"></a>
 </div>
 
-<div class="webrings">
+<div class="webrings" style="margin-bottom: 1em;">
   <p>
     <a href="https://hotlinewebring.club/jsrn/previous">←</a> <a href="https://hotlinewebring.club">hotline webring</a> <a href="https://hotlinewebring.club/jsrn/next">→</a>
   </p>
@@ -33,3 +33,7 @@ Here are some pages that are important to me, have a cool design, or simply brin
     <a href='https://webring.dinhe.net/prev/https://jsrn.net'>←</a> <a href="https://webring.dinhe.net">retronaut webring</a> <a href='https://webring.dinhe.net/next/https://jsrn.net'>→</a>
   </p>
 </div>
+
+## Other links
+
+- [Death Generator](https://deathgenerator.com) - generate dialogue/death screens from classic videogames
