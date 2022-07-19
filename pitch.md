@@ -18,3 +18,5 @@ title: My brilliant ideas at no cost to you, the reader
 13. Storing all your company’s HR stuff in private git repos and firing people by making them review & merge the PR
 14. `prefers-reduced-nazis` media query to opt into regional restrictions around hate speech (e.g. Twitter hiding certain content in Germany.)
 15. Convenient recycling/bulky waste disposal as an office perk.
+16. Browser extension for reddit that only shows you the top 10 replies to threads.
+17. Browser extension that detects when a site is doing an april fools prank and replaces the content with the internet archive version from march 31st.
