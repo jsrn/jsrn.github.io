@@ -32,6 +32,10 @@ Here are some pages that are important to me, have a cool design, or simply brin
   <p>
     <a href='https://webring.dinhe.net/prev/https://jsrn.net'>←</a> <a href="https://webring.dinhe.net">retronaut webring</a> <a href='https://webring.dinhe.net/next/https://jsrn.net'>→</a>
   </p>
+
+  <p>
+    <a href="https://webring.yesterweb.org/noJS/index.php?d=prev&url=https://jsrn.net">←</a> <a href="https://yesterweb.org/">yesterweb</a> <a href="https://webring.yesterweb.org/noJS/index.php?d=next&url=https://jsrn.net">→</a>
+  </p>
 </div>
 
 ## Other links
