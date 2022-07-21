@@ -38,6 +38,8 @@ Here are some pages that are important to me, have a cool design, or simply brin
   </p>
 </div>
 
+<small style="margin-bottom: 1em;">Note that I have no direct control over my webring neighbours. Webring proximity is not an endorsement.</small>
+
 ## Other links
 
 - [Death Generator](https://deathgenerator.com) - generate dialogue/death screens from classic videogames
