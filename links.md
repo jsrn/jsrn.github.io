@@ -34,7 +34,7 @@ Here are some pages that are important to me, have a cool design, or simply brin
   </p>
 
   <p>
-    <a href="https://webring.yesterweb.org/noJS/index.php?d=prev&url=https://jsrn.net">←</a> <a href="https://yesterweb.org/">yesterweb</a> <a href="https://webring.yesterweb.org/noJS/index.php?d=next&url=https://jsrn.net">→</a>
+    <a href="https://webring.yesterweb.org/noJS/index.php?d=prev&url=https://jsrn.net/">←</a> <a href="https://yesterweb.org/">yesterweb</a> <a href="https://webring.yesterweb.org/noJS/index.php?d=next&url=https://jsrn.net/">→</a>
   </p>
 </div>
 
