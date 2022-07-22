@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>WEBJAMMING 2022</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Carter+One&display=swap" rel="stylesheet">
+    <style>
+      html, body {
+        padding: 0; margin: 0;
+      }
+
+      * { box-sizing: border-box; }
+
+      body {
+        background: rgb(135,255,42);
+        background: linear-gradient(0deg, rgba(255,56,85,1) 0%, rgba(135,255,42,1)  100%);
+        min-height: 100vh;
+      }
+
+      @keyframes wobble {
+        0% { transform: rotate(0); }
+        25% { transform: rotate(-2deg); }
+        75% { transform: rotate(2deg); }
+        100% { transform:  rotate(0); }
+      }
+
+      header {
+        display: flex;
+        flex-direction: row;
+        gap: 1ch;
+        font-size: 4rem;
+        margin-top: 1rem;
+        align-content: center;
+        font-family: 'Carter One', cursive;
+        color: #E936A7;
+        justify-content: center;
+      }
+
+      header rt {
+        color: #FF007C;
+      }
+
+      header div {
+        display: block;
+      }
+      header div:nth-child(1) {
+        animation: wobble 1s cubic-bezier(1,0,0,1) infinite;
+      }
+
+      header div:nth-child(2) {
+        animation: wobble 1s cubic-bezier(1,0,0,1) infinite reverse;
+      }
+
+      header div:nth-child(3) {
+        animation: wobble 1s cubic-bezier(1,0,0,1) infinite;
+      }
+
+      header div:nth-child(4) {
+        animation: wobble 1s cubic-bezier(1,0,0,1) infinite reverse;
+      }
+
+      section.marky {
+        font-size: 1.5em;
+      }
+
+      section.marky marquee:first-child {
+        background: #FF3855;
+        color: #87FF2A;
+        padding: 5px;
+      }
+
+      section.marky marquee:last-child {
+        color: #FF3855;
+        background: #87FF2A;
+        margin-top: -2px;
+        padding: 5px;
+      }
+
+      section.tiles {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 20px;
+        margin: 20px;
+        align-items: center;
+        justify-items: center;
+      }
+
+      #my-site-iframe {
+        width: 100vw;
+        height: 300px;
+      }
+
+      .overlapping {
+        line-height: 0.6em;
+        font-style: italic;
+        font-size: 2em;
+        font-weight: bold;
+        text-decoration: green wavy underline;
+        text-decoration-thickness: 4px;
+        color: lightgreen;
+      }
+
+      #merge {
+        position: fixed;
+        top: 4px;
+        left: 4px;
+      }
+    </style>
+  </head>
+  <body>
+    <button id="merge" type="button">modern web vision</button>
+
+    <header>
+      <div>
+        <ruby>
+          WEB <rp>(</rp><rt>ウェブ</rt><rp>)</rp>
+        </ruby>
+
+      </div>
+        <div>
+          <ruby>
+            JAMMING <rp>(</rp><rt>ジャミング</rt><rp>)</rp>
+          </ruby>
+        </div>
+        <div>
+          <ruby>
+            ２０ <rp>(</rp><rt>二十</rt><rp>)</rp>
+          </ruby>
+        </div>
+        <div>
+          <ruby>
+            ２２ <rp>(</rp><rt>二十二</rt><rp>)</rp>
+          </ruby>
+        </div>
+    </header>
+
+    <section class="marky">
+      <marquee direction="right">
+        ¡WEB=TRASH! ¡WEB=TRASH! ¡WEB=TRASH! ¡WEB=TRASH! ¡WEB=TRASH! ¡WEB=TRASH! ¡WEB=TRASH! ¡WEB=TRASH! ¡WEB=TRASH! ¡WEB=TRASH! ¡WEB=TRASH! ¡WEB=TRASH! ¡WEB=TRASH! ¡WEB=TRASH! ¡ME=TRASH! ¡WEB=TRASH! ¡WEB=TRASH! ¡WEB=TRASH! ¡WEB=TRASH! ¡WEB=TRASH! ¡WEB=TRASH! ¡WEB=TRASH! ¡WEB=TRASH! ¡WEB=TRASH! ¡WEB=TRASH! ¡WEB=TRASH!
+      </marquee>
+
+      <marquee direction="left">
+        ¡MORE=MORE! ¡MORE=MORE! ¡MORE=MORE! ¡MORE=MORE! ¡MORE=MORE! ¡MORE=MORE! ¡MORE=MORE! ¡MORE=MORE! ¡MORE=MORE! ¡MORE=MORE! ¡MORE=MORE! ¡MORE=MORE! ¡MORE=MORE! ¡MORE=MORE! ¡MORE=MORE! ¡MORE=MORE! ¡MORE=MORE! ¡MORE=MORE! ¡ME=MORE! ¡MORE=MORE! ¡MORE=MORE! ¡MORE=MORE! ¡MORE=MORE! ¡MORE=MORE! ¡MORE=MORE! ¡MORE=MORE!
+      </marquee>
+    </section>
+
+    <section class="tiles">
+      <div>
+        <h2>MUSIC? IN <em>YOUR</em> EARS?</h2>
+        <iframe width="280" height="157" src="https://www.youtube-nocookie.com/embed/yGS4zZnKWQs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+
+      <img src="diver.gif" alt="">
+
+      <iframe src="pride.txt" frameborder="0" style="height: 100%; width: 100%;"></iframe>
+
+      <div style="color: red; font-weight: bold;">
+        <img src="wayne.jpg" alt="">
+
+        How am I meant to "party on" under these conditions, Garth? Do you have the slightest idea of what you're asking of me? Do you have the slightest inkling of the p̶̡̡͍̘̱̋̓͛͝r̷̳̫̀ę̵̜͘̚s̷͚͓̤͊͊̎s̶̱͕͍̑̊́̓͘u̵̧̨̦̫͈͛̈́͘͘r̸͚̘̜͂̋̐ȩ̶̩̥̘̂̓ I'm under?
+      </div>
+
+      <div class="overlapping">STOLEN AESTHETIC<br>NO ORIGINALITY<br>THEFT AS A DEFENSE MECHANISM<br>CLUB</div>
+
+      <iframe src="https://forum.melonking.net" frameborder="0"></iframe>
+    </section>
+
+    <h2 style="color: cyan;">NO SOCIAL NO ALGORITHM SHILL YOUR OWN CONTENT. EVERY OPPORTUNITY YOU GET SHILL YOUR OWN CONTENT. IF THEY ASK FOR IT OR NOT SHILL YOUR OWN CONTENT.</h2>
+
+    <iframe src="https://jsrn.net" frameborder="0" id="my-site-iframe"></iframe>
+
+    <script>
+      document.getElementById('merge').addEventListener('click', function() {
+        alert(1);
+      });
+    </script>
+  </body>
+</html>
