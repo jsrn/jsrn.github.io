@@ -4,6 +4,7 @@ title: Questionable Ruby
 description: Just because you can, doesn't mean you should. Misadventures in Ruby programming.
 category: programming
 permalink: /questionable-ruby
+updated: Jul 29, 2022
 ---
 
 There's a lot you can do with Ruby's concepts of object individuation. A lot you probably shouldn't do.
@@ -104,4 +105,18 @@ end
 
 1001.times { EndlessGrowth.new.grow }
 # No more method calls. Go outside and play. (StandardError)
+```
+
+## Ruby for anarchists
+
+```ruby
+class Object
+  def self.inherited(subclass)
+    return if %w[Object].include?(self.name)
+    raise StandardError.new, '🏴'
+  end
+end
+
+class RulingClass; end
+class UnderClass < RulingClass; end # raises StandardError
 ```
