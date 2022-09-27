@@ -12,6 +12,7 @@ A handful of places to look for Ruby jobs.
 - [jobs.gorails.com](https://jobs.gorails.com/) - US-centric
 - [rubyjobs.com](https://rubyjobs.com)
 - [rubyjobs.net](https://rubyjobs.net) - German-centric
+- [Ruby on Remote](https://rubyonremote.com/)
 
 
 ## Companies that use Ruby
