@@ -9,7 +9,8 @@ A handful of places to look for Ruby jobs.
 
 ## Job boards
 
-- [jobs.gorails.com](https://jobs.gorails.com/) - US-centric
+- [GoRails job board](https://jobs.gorails.com/) - US-centric
+- [LinkedIn](https://www.linkedin.com/jobs/search/?keywords=ruby&refresh=true)
 - [rubyjobs.com](https://rubyjobs.com)
 - [rubyjobs.net](https://rubyjobs.net) - German-centric
 - [Ruby on Remote](https://rubyonremote.com/)
@@ -20,6 +21,7 @@ A handful of places to look for Ruby jobs.
 These aren't job boards, but it's worth looking at the careers pages of companies that are known to be heavily involved with Ruby.
 
 - [Top Ruby Companies](https://toprubycompanies.info/) maintain a list of companies
+- [37signals](https://37signals.com/jobs/) - [Project management, email]
 - [Cleo](https://web.meetcleo.com/careers) [Fintech / UK]
 - [Consonance](https://www.consonance.app/jobs/) [Publishing / UK]
 - [Cookpad](https://careers.cookpad.com/) [Recipes / UK]
