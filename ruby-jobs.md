@@ -11,6 +11,7 @@ A handful of places to look for Ruby jobs.
 
 - [GoRails job board](https://jobs.gorails.com/) - US-centric
 - [LinkedIn](https://www.linkedin.com/jobs/search/?keywords=ruby&refresh=true)
+- [r/rubyonrails job posts](https://www.reddit.com/r/rubyonrails/?f=flair_name%3A%22Jobs%22)
 - [rubyjobs.com](https://rubyjobs.com)
 - [rubyjobs.net](https://rubyjobs.net) - German-centric
 - [Ruby on Remote](https://rubyonremote.com/)
