@@ -6,7 +6,7 @@ category: misc
 permalink: /curation-over-creation
 ---
 
-I went to [TechMids](https://conf.techmids.io) the last week. One of the talks that had the most immediate impact on me was the talk from Jen Lambourne, one of the primary contributors to [Docs for Developers](https://docsfordevelopers.com).
+I went to [TechMids](https://conf.techmids.io) the last week. One of the talks that had the most immediate impact on me was the talk from Jen Lambourne, one of the authors of [Docs for Developers](https://docsfordevelopers.com).
 
 One of the ideas contained in the talk was the following:
 
@@ -14,7 +14,7 @@ One of the ideas contained in the talk was the following:
 
 Like a lot of people, when I started getting into technical writing, I started with a lot of entry level content. Stuff like _Ten Tips for a Healthy Codebase_ and _The Early Return Pattern and You_. Consequently, there's a proliferation of 101 level content on blogs like mine, often only lightly re-hashing the source documentation. This isn't necessarily a bad thing, and I'm definitely not saying that people shouldn't be writing these articles. You absolutely _should_ be writing this sort of thing if you're trying to get better at technical writing, and even if there are 100,000 articles on which HTTP verb to use for what, yours could be the one to make it click for someone.
 
-But, I should be asking myself what my actual goal is. If my main priority is to become a better writer with helping people learn being a close second, then I ought to crack on with writing that 100,001<sup>th</sup> article. If I'm focused specifically on having an impact on learning outcomes, I should consider curating rather than creating.
+But, I should be asking myself what my actual goal is. If my main priority is to become a better writer with helping people learn being a close second, then I ought to crack on with writing that 100,001<sup>st</sup> article. If I'm focused specifically on having an impact on learning outcomes, I should consider curating rather than creating.
 
 Maybe the following would be a good start:
 
