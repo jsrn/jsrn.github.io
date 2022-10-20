@@ -9,7 +9,8 @@ title: The things I use
 * Apple [Magic Keyboard](https://www.apple.com/uk/shop/product/MLA22B/A/magic-keyboard-british-english), also provided by my company. I used to use a mechanical keyboard, but now it feels intolerably thick. Maybe I'll buy one of those fancy wrist pads and try again some day.
 * I used my beloved [Anker Gaming Mouse](https://www.anker.com/es/products/variant/8200-dpi-highprecision-laser-gaming-mouse/98ANDS2368-BA) until it broke and I discovered they'd discontinued that model. I splashed out for a [Logitech G502 Hero](https://www.logitechg.com/en-gb/products/gaming-mice/g502-hero-gaming-mouse.910-005471.html). I'm sure it's a great mouse, but honestly I'm not good enough at videogames for my mouse to have ever been the bottleneck.
 * An MSI gaming laptop at home. It's some years old now, but still a thing of beauty.
-* Squared or dotted paper and a black gel ink ballpoint or fineliner. I'm not picky about the brand, so long as it doesn't scratch on the paper too much. I always wanted to be the kind of person who has a favourite pen and just stockpiles them, but I'm not there yet.
+* A notebook with squared or dotted paper. Those diddly little ones are too small and A4 is too big. Roughly A5 size is perfect. Ideally nothing _so_ nice that I'll feel bad eventually recycling it. The problem with beautiful notebooks is that you want your scribblings to be deserving. That can be stifling.
+* A black fineliner or gel ink pen. I'm not picky about the brand, so long as it doesn't scratch on the paper too much. I always wanted to be the kind of person who has a favourite pen and just stockpiles them, but I'm not there yet.
 
 ## Software
 
