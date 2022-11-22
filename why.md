@@ -11,4 +11,4 @@ I'm interested in personal websites and [digital gardens](https://joelhooks.com/
 
 This website is statically generated using [jekyll](https://jekyllrb.com/) because when the output is a folder of HTML files, I can take it pretty much anywhere.
 
-I do my best to avoid unecessary JavaScript, and there are no analytics on this site. Consequently, if you want to give me a little buzz of endorphins about anything on this site, reach out by <a href="mailto:jsrn@hey.com?subject=Let's be friends">email</a>.
+I do my best to avoid unecessary JavaScript, and there are no analytics on this site. Consequently, if you want to give me a little buzz of endorphins about anything on this site, reach out by <a href="mailto:james@jsrn.net?subject=Let's be friends">email</a>.
