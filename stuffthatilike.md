@@ -11,7 +11,7 @@ description: There's plenty to be grateful for.
 <span class='thing-i-like'>animals trying not to fall asleep</span> &bull;
 <span class='thing-i-like'>anything with carbohydrates</span> &bull;
 <span class='thing-i-like'>apples</span> &bull;
-<span class='thing-i-like'>attention to detial</span> &bull;
+<span class='thing-i-like'>attention to detail</span> &bull;
 <span class='thing-i-like'>bananas</span> &bull;
 <span class='thing-i-like'>bees (not wasps)</span> &bull;
 <span class='thing-i-like'>being inside when it's raining</span> &bull;
@@ -19,6 +19,7 @@ description: There's plenty to be grateful for.
 <span class='thing-i-like'>binge-watching tv</span> &bull;
 <span class='thing-i-like'>bird feeders</span> &bull;
 <span class='thing-i-like'>birds</span> &bull;
+<span class='thing-i-like'>blogs</span> &bull;
 <span class='thing-i-like'>boats</span> &bull;
 <span class='thing-i-like'>books</span> &bull;
 <span class='thing-i-like'>burritos</span> &bull;
@@ -68,7 +69,10 @@ description: There's plenty to be grateful for.
 <span class='thing-i-like'>learning</span> &bull;
 <span class='thing-i-like'>letters (sending &amp; receiving)</span> &bull;
 <span class='thing-i-like'>libraries</span> &bull;
+<span class='thing-i-like'>log fires</span> &bull;
 <span class='thing-i-like'>medical science</span> &bull;
+<span class='thing-i-like'>mushrooms (food)</span> &bull;
+<span class='thing-i-like'>mushrooms (not food!)</span> &bull;
 <span class='thing-i-like'>music</span> &bull;
 <span class='thing-i-like'>my wife</span> &bull;
 <span class='thing-i-like'>mythology</span> &bull;
@@ -91,6 +95,7 @@ description: There's plenty to be grateful for.
 <span class='thing-i-like'>recipes</span> &bull;
 <span class='thing-i-like'>refactoring code</span> &bull;
 <span class='thing-i-like'>remembering old bands to listen to</span> &bull;
+<span class='thing-i-like'>RSS</span> &bull;
 <span class='thing-i-like'>ruby</span> &bull;
 <span class='thing-i-like'>running</span> &bull;
 <span class='thing-i-like'>running water</span> &bull;
