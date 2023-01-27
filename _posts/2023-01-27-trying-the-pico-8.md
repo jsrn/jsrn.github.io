@@ -22,7 +22,7 @@ It also comes with a pretty strict set of constraints in which to work your magi
 
 The constraints are appealing. Modern development at big companies sometimes seems like being at an all-you-can-eat buffet with the company credit card. Run out of CPU? Your boss can fix that with whatever the best new MacBook is. Webserver process eating RAM like candy? Doesn't matter, that's what automatic load balancers and infinite horizontally scaling is for.
 
-With the PICO-8, there appears to be no such negotiation.
+With the PICO-8, there appears to be no such negotiation. There's something liberating about this. By putting firm limits on the scope of what you can create, you know when to stop. If you hit the limit, you know you have to either admit that the project is as done as it's going to get, or you need to refine or remove something that's already there. Infinite potential is both a luxury and a curse.
 
 What you get is what you get, and what you get is enough for a wide community of enthusiasts to create some beautiful and entertaining games that you can play directly in the browser, in your own copy of PICO-8, or on one of several fan-made hardware solutions.
 
