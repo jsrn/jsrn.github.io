@@ -9,20 +9,20 @@ The (up to) top ten hall of fame for anything I can think of.
 
 The rules:
 
-* Reflects only what I can think of off the top of my head.
-* Totally arbitrary.
-* I'm right.
+- Reflects only what I can think of off the top of my head.
+- Totally arbitrary.
+- I'm right.
 
 <h2>Contents</h2>
 
-* [Cheeses](#cheeses)
-* [Final Fantasies](#final_fantasies)
-* [Flowers](#flowers)
-* [Smells](#smells)
-* [Spiders](#spiders)
-* [Teas](#teas)
-* [Woods](#woods)
-* [Zombie Movies](#zombie_movies)
+- [Cheeses](#cheeses)
+- [Final Fantasies](#final_fantasies)
+- [Flowers](#flowers)
+- [Smells](#smells)
+- [Spiders](#spiders)
+- [Teas](#teas)
+- [Woods](#woods)
+- [Zombie Movies](#zombie_movies)
 
 <h2 id="cheeses">Cheeses</h2>
 
@@ -32,7 +32,6 @@ The rules:
 1. Cheddar
 1. Goats cheese
 1. Wensleydale
-
 
 <h2 id="final_fantasies">Final Fantasies</h2>
 
@@ -57,7 +56,6 @@ The rules:
 1. Tulip
 1. Bluebell
 
-
 <h2 id="smells">Smells</h2>
 
 1. Frying garlic
@@ -66,7 +64,6 @@ The rules:
 1. Nail polish remover
 1. Fresh bread
 1. Coffee beans
-
 
 <h2 id="spiders">Spiders</h2>
 
@@ -88,7 +85,8 @@ The rules:
 <h2 id="woods">Woods</h2>
 
 1. Black walnut
-2. Teak
+1. Balsa wood
+1. Teak
 
 <h2 id="zombie_movies">Zombie Movies</h2>
 
