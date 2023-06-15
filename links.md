@@ -13,6 +13,7 @@ Here are some pages that are important to me, have a cool design, or simply brin
 <a href="https://forum.melonland.net"><img src="/assets/images/badges/melonland-forum.gif" alt="MelonLand Forum"></a>
 <a href="https://neocities.org"><img src="/assets/images/badges/neocities.gif" alt="Neocities"></a>
 <a href="https://www.ruby-lang.org"><img src="/assets/images/badges/ruby.png" alt="The Ruby programming language"></a>
+<a href="https://ruby.social"><img src="/assets/images/badges/ruby-social.png" alt="Ruby Social"></a>
 <a href="https://sadgrl.online"><img src="/assets/images/badges/sadgrl.gif" alt="sadgrl.online"></a>
 <a href="https://yesterweb.org"><img src="/assets/images/badges/yesterweb.png" alt="Yesterweb.org"></a>
 </div>
