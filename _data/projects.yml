@@ -2,56 +2,47 @@
   url: /howoldisit
   description: You want *how* many years of experience?!
   tags:
-  - react
-  - javascript
-  - html
-  - css
+    - react
+    - javascript
+    - html
+    - css
 
 - name: Ruby Patterns
   url: https://rubypatterns.dev
   description: Code and design patterns for Ruby programmers.
   tags:
-  - ruby
-  - education
-  - patterns
+    - ruby
+    - education
+    - patterns
 
 - name: Rails Test Assistant
   url: https://github.com/jsrn/rails_test_assistant
   description: A VSCode extension for navigating to and executing tests in a Rails application.
   tags:
-  - ruby
-  - testing
-  - vscode
-  - javascript
-  - typescript
-
-- name: Library
-  url: /library
-  description: Every book I remember having read.
-  tags:
-  - personal
-  - html
-  - css
-  - lazy loading
+    - ruby
+    - testing
+    - vscode
+    - javascript
+    - typescript
 
 - name: Handholding Simulator
   url: https://handholding-simulator.glitch.me
   description: For the lonely times.
   tags:
-  - html
-  - javascript
+    - html
+    - javascript
 
 - name: Stuff That I Like
   url: /stuffthatilike
   description: A list of things that make me happy.
   tags:
-  - personal
+    - personal
 
 - name: Movie Sets
   url: /moviesets
   description: Themed sets of movies for any serious movie night.
   tags:
-  - personal
+    - personal
 
 - name: Zines
   url: /zines
@@ -61,16 +52,16 @@
   url: /sudo
   description: I made a terrible band with my friend Greg.
   tags:
-  - personal
+    - personal
 
 - name: Taste In Ten
   url: /taste-in-ten
   description: Ten songs that I like.
   tags:
-  - personal
+    - personal
 
 - name: Universal Statistics
   url: /universal_statistics
   description: Stats I'd like to know about the Universe.
   tags:
-  - personal
+    - personal
