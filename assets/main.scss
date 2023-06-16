@@ -132,27 +132,6 @@ img {
   margin-top: 0;
 }
 
-@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
-  .main-content-container {
-    width: calc(100vw - 20px);
-    margin: 0 10px;
-  }
-
-  header {
-    margin-top: 0;
-  }
-
-  header h1 {
-    margin: 0;
-  }
-
-  #lightbulb,
-  #lightpull,
-  header img {
-    display: none;
-  }
-}
-
 #lightbulb {
   height: 200px;
   position: fixed;
@@ -230,14 +209,20 @@ section {
 
 section.link-box {
   font-family: monospace;
+  // width: 500px;
+  max-width: calc(100vw - 20px);
+  margin: 0 auto 1em;
+  background: url("/assets/images/menu/wood-bg.jpg") repeat;
+  padding: 10px;
 
-  a.text-link {
-    @include orange-double-border;
+  > div {
+    justify-items: center;
+  }
 
-    display: inline-block;
-    padding: 5px;
-    background: darkseagreen;
-    text-align: center;
+  @include orange-double-border;
+
+  a:hover {
+    filter: brightness(110%);
   }
 }
 
@@ -252,4 +237,25 @@ div.badge-list {
 div.webrings {
   margin-top: 2em;
   text-align: center;
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+  .main-content-container {
+    width: calc(100vw - 20px);
+    margin: 0 10px;
+  }
+
+  header {
+    margin-top: 0;
+  }
+
+  header h1 {
+    margin: 0;
+  }
+
+  #lightbulb,
+  #lightpull,
+  header img {
+    display: none;
+  }
 }
