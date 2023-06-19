@@ -16,6 +16,7 @@ Here are some pages that are important to me, have a cool design, or simply brin
 <a href="https://ruby.social"><img src="/assets/images/badges/ruby-social.png" alt="Ruby Social"></a>
 <a href="https://sadgrl.online"><img src="/assets/images/badges/sadgrl.gif" alt="sadgrl.online"></a>
 <a href="https://yesterweb.org"><img src="/assets/images/badges/yesterweb.png" alt="Yesterweb.org"></a>
+<a href="https://32bit.cafe"><img src="/assets/images/badges/32b.gif" alt="32-bit café"></a>
 </div>
 
 <p>My badges:</p>
