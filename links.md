@@ -19,12 +19,6 @@ Here are some pages that are important to me, have a cool design, or simply brin
 <a href="https://32bit.cafe"><img src="/assets/images/badges/32b.gif" alt="32-bit café"></a>
 </div>
 
-<p>Link to my site!</p>
-
-<div class="badge-list">
-<a href="/"><img src="/assets/images/badges/jsrnnet.gif" alt="jsrn.net"></a>
-</div>
-
 <div class="webrings" style="margin-bottom: 1em;">
   <p>
     <a href="https://hotlinewebring.club/jsrn/previous">←</a> <a href="https://hotlinewebring.club">hotline webring</a> <a href="https://hotlinewebring.club/jsrn/next">→</a>
@@ -133,3 +127,11 @@ Some of these are sites I visit often, some are people I interacted with once or
 - [The Frugal Blog](https://www.thefrugalgamer.net)
 - [The Neglected Books Page](https://neglectedbooks.com)
 - [Uses This](https://usesthis.com) - If you're nosy like me, this is a delightful peek into people's tools and workflows.
+
+---
+
+<p>Link to my site!</p>
+
+<div class="badge-list">
+<a href="/"><img src="/assets/images/badges/jsrnnet.gif" alt="jsrn.net"></a>
+</div>
