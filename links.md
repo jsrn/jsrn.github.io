@@ -51,7 +51,7 @@ Some of these are sites I visit often, some are people I interacted with once or
 - [Accidentally in Code](https://cate.blog)
 - [Alvaro Montoro](http://alvaromontoro.com)
 - [Anil Dash](https://anildash.com)
-- [avdi.codes](https://avdi.codes/blog/)
+- [Avdi Grimm](https://avdi.codes/) - A great teacher of Ruby programming and more.
 - [Billy Ruffian](https://www.billy-ruffian.co.uk)
 - [bnijenhuis](https://bnijenhuis.nl)
 - [Brad Frost](https://bradfrost.com/blog/)
@@ -69,14 +69,13 @@ Some of these are sites I visit often, some are people I interacted with once or
 - [Etsy Engineering](http://codeascraft.com)
 - [Faraaz's Blog](https://faraazahmad.github.io)
 - [furbo.org](https://furbo.org)
-- [Go Make Things](https://gomakethings.com/)
+- [Go Make Things](https://gomakethings.com/) - Advocate for simple, resilient JavaScript programming that works for everybody.
 - [Gusto Engineering](https://engineering.gusto.com)
-- [Honest Work](https://blog.honest.work)
-- [Honeycomb](https://www.honeycomb.io)
+- [Honeycomb](https://www.honeycomb.io/blog) - The engineering blog of the observability platform.
 - [House of van Schneider](https://vanschneider.com)
 - [inessential](https://inessential.com)
 - [interblah.net](https://interblah.net/)
-- [Julia Evans](https://jvns.ca)
+- [Julia Evans](https://jvns.ca) - Maker of excellent and informative zines and blog posts.
 - [jvt.me](https://www.jvt.me)
 - [Keenan Payne](https://keenanpayne.com/archive/)
 - [Kev Quirk](https://kevquirk.com)
@@ -87,7 +86,7 @@ Some of these are sites I visit often, some are people I interacted with once or
 - [Marc Jenkins](https://marcjenkins.co.uk)
 - [Medium Engineering](https://medium.engineering)
 - [Michiel Sikkes](https://www.michielsikkes.com)
-- [Mike Perham](https://www.mikeperham.com)
+- [Mike Perham](https://www.mikeperham.com) - The creator of sidekiq, a background task processor for Ruby.
 - [naildrivin5.com](https://naildrivin5.com)
 - [Netflix Engineering](https://netflixtechblog.com)
 - [Nishiki Liu](https://nshki.com)
@@ -101,6 +100,7 @@ Some of these are sites I visit often, some are people I interacted with once or
 - [Seaside Testing](https://seasidetesting.com)
 - [Schneems](https://schneems.com)
 - [sfcgeorge](https://www.sfcgeorge.co.uk)
+- [Simpler Machines](https://www.simplermachines.com) - About writing software, mostly.
 - [Sonnie's Edge](https://www.sonniesedge.net)
 - [Smashing Magazine](https://www.smashingmagazine.com)
 - [swyx.io](https://www.swyx.io)
@@ -111,7 +111,6 @@ Some of these are sites I visit often, some are people I interacted with once or
 - [Tim Riley](https://timriley.info)
 - [The Code Gardener](https://the.codegardener.com)
 - [The Guardian Engineering](https://www.theguardian.com/info/series/engineering-blog)
-- [Tom Large](https://medium.com)
 - [tumblr Engineering](http://engineering.tumblr.com)
 - [Tyler Cipriani](https://tylercipriani.com)
 - [wasabigeek](https://wasabigeek.com)
@@ -120,10 +119,10 @@ Some of these are sites I visit often, some are people I interacted with once or
 
 - [Cal Newport](https://calnewport.com)
 - [Daring Fireball](https://daringfireball.net)
-- [Death Generator](https://deathgenerator.com) - generate dialogue/death screens from classic videogames
-- [heronebag.com](https://heronebag.com)
+- [Death Generator](https://deathgenerator.com) - Generate dialogue/death screens from classic videogames.
+- [heronebag.com](https://heronebag.com) - One-bag travel and digital nomadding.
 - [housingsklave.at](https://housingsklave.at)
-- [kottke.org](http://kottke.org)
+- [kottke.org](http://kottke.org) - Home of fine hypertext products.
 - [Marc Littlemore](https://www.marclittlemore.com)
 - [Melon's Thoughts](https://thoughts.melonking.net)
 - [Minutes to Midnight](https://minutestomidnight.co.uk)
@@ -133,4 +132,4 @@ Some of these are sites I visit often, some are people I interacted with once or
 - [starbreaker.org](https://starbreaker.org)
 - [The Frugal Blog](https://www.thefrugalgamer.net)
 - [The Neglected Books Page](https://neglectedbooks.com)
-- [Uses This](https://usesthis.com)
+- [Uses This](https://usesthis.com) - If you're nosy like me, this is a delightful peek into people's tools and workflows.
