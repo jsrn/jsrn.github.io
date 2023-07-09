@@ -35,46 +35,93 @@ Here are some pages that are important to me, have a cool design, or simply brin
   </p>
 </div>
 
-## Blog roll
-
 Some of these are sites I visit often, some are people I interacted with once or twice on social media. If you notice a link is dead or the author has started posting hate speech or something, please be a good egg and let me know.
 
 <small>(updated 09/07/2023)</small>
 
-### Comics
+## Comics
 
 - [MonkeyUser](https://www.monkeyuser.com)
 - [xkcd](https://xkcd.com)
 
-### Company Engineering Blogs
-
-- [Cookpad](https://sourcediving.com)
-- [Deliveroo](https://deliveroo.engineering)
-- [Etsy](http://codeascraft.com)
-- [Gusto](https://engineering.gusto.com)
-- [Medium](https://medium.engineering)
-- [Netflix](https://netflixtechblog.com)
-- [Talis](https://engineering.talis.com)
-- [The Guardian](https://www.theguardian.com)
-- [tumblr](http://engineering.tumblr.com)
-
-### Front-end / Design
-
-- [CSS-Tricks](https://css-tricks.com)
-- [House of van Schneider](https://vanschneider.com)
-- [Smashing Magazine](https://www.smashingmagazine.com)
-
-### Misc
+## Technology and programming
 
 - [Accessabilly](https://accessabilly.com)
+- [A List Apart](https://alistapart.com)
+- [Accidentally in Code](https://cate.blog)
+- [Alvaro Montoro](http://alvaromontoro.com)
+- [Anil Dash](https://anildash.com)
+- [avdi.codes](https://avdi.codes/blog/)
+- [Billy Ruffian](https://www.billy-ruffian.co.uk)
+- [bnijenhuis](https://bnijenhuis.nl)
+- [Brad Frost](https://bradfrost.com/blog/)
+- [Cheapskates Guide](https://cheapskatesguide.org)
+- [Code with Jason](https://www.codewithjason.com)
+- [Collin Donnell](https://collindonnell.com)
+- [Cookpad Engineering](https://sourcediving.com)
+- [CSS-Tricks](https://css-tricks.com)
+- [David Peach](https://blog.davidpeach.me)
+- [Deliveroo Engineering](https://deliveroo.engineering)
+- [dnsmichi.at](https://dnsmichi.at)
+- [esparta.co](https://esparta.co)
+- [Etsy Engineering](http://codeascraft.com)
+- [Faraaz's Blog](https://faraazahmad.github.io)
+- [furbo.org](https://furbo.org)
+- [Go Make Things](https://gomakethings.com/)
+- [Gusto Engineering](https://engineering.gusto.com)
+- [Honest Work](https://blog.honest.work)
+- [Honeycomb](https://www.honeycomb.io)
+- [House of van Schneider](https://vanschneider.com)
+- [inessential](https://inessential.com)
+- [interblah.net](https://interblah.net/)
+- [Julia Evans](https://jvns.ca)
+- [jvt.me](https://www.jvt.me)
+- [Keenan Payne](https://keenanpayne.com/archive/)
+- [Kev Quirk](https://kevquirk.com)
+- [Kevin Murphy](https://kevinjmurphy.com)
+- [Kevin Newton](https://kddnewton.com)
+- [Know Your Team](https://blog.knowyourcompany.com)
+- [Laura Kalbag](https://laurakalbag.com)
+- [Marc Jenkins](https://marcjenkins.co.uk)
+- [Medium Engineering](https://medium.engineering)
+- [Michiel Sikkes](https://www.michielsikkes.com)
+- [Mike Perham](https://www.mikeperham.com)
+- [naildrivin5.com](https://naildrivin5.com)
+- [Netflix Engineering](https://netflixtechblog.com)
+- [Nishiki Liu](https://nshki.com)
+- [Paul Mucur](https://mudge.name)
+- [ppinera.es](https://ppinera.es)
+- [ReverentGeek](http://reverentgeek.com)
+- [samwho.dev](https://samwho.dev)
+- [Saturn Flyer](https://www.saturnflyer.com)
+- [Seaside Testing](https://seasidetesting.com)
+- [Schneems](https://schneems.com)
+- [sfcgeorge](https://www.sfcgeorge.co.uk)
+- [Sonnie's Edge](https://www.sonniesedge.net)
+- [Smashing Magazine](https://www.smashingmagazine.com)
+- [swyx.io](https://www.swyx.io)
+- [Talis Engineering](https://engineering.talis.com)
+- [Tatiana Mac](https://www.tatianamac.com)
+- [Terence Eden](https://shkspr.mobi)
+- [thoughtbot](https://thoughtbot.com/blog)
+- [Tim Riley](https://timriley.info)
+- [The Code Gardener](https://the.codegardener.com)
+- [The Guardian Engineering](https://www.theguardian.com/info/series/engineering-blog)
+- [Tom Large](https://medium.com)
+- [tumblr Engineering](http://engineering.tumblr.com)
+- [Tyler Cipriani](https://tylercipriani.com)
+- [wasabigeek](https://wasabigeek.com)
+
+### Other interesting things & people
+
 - [Cal Newport](https://calnewport.com)
 - [Cassidy James Blaede](https://cassidyjames.com)
 - [Daring Fireball](https://daringfireball.net)
+- [Death Generator](https://deathgenerator.com) - generate dialogue/death screens from classic videogames
 - [Erica Sadun](https://ericasadun.com)
 - [heronebag.com](https://heronebag.com)
 - [housingsklave.at](https://housingsklave.at)
-- [Keenan Payne](http://keenanpayne.com)
-- [kottke.org](http://feeds.kottke.org)
+- [kottke.org](http://kottke.org)
 - [Marc Littlemore](https://www.marclittlemore.com)
 - [Melon's Thoughts](https://thoughts.melonking.net)
 - [Minutes to Midnight](https://minutestomidnight.co.uk)
@@ -87,64 +134,3 @@ Some of these are sites I visit often, some are people I interacted with once or
 - [The Frugal Blog](https://www.thefrugalgamer.net)
 - [The Neglected Books Page](https://neglectedbooks.com)
 - [Uses This](https://usesthis.com)
-
-### Ruby
-
-- [Billy Ruffian](https://www.billy-ruffian.co.uk)
-- [Code with Jason](https://www.codewithjason.com)
-- [esparta.co](https://esparta.co)
-- [interblah.net](https://interblah.net/)
-- [Kevin Murphy](https://kevinjmurphy.com)
-- [Kevin Newton](https://kddnewton.com)
-- [Michiel Sikkes](https://www.michielsikkes.com)
-- [naildrivin5.com](https://naildrivin5.com)
-- [Nishiki Liu](https://nshki.com)
-- [Schneems](https://schneems.com)
-- [thoughtbot](https://thoughtbot.com/blog)
-- [Tim Riley](https://timriley.info)
-
-### Tech
-
-- [A List Apart](https://alistapart.com)
-- [Accidentally in Code](https://cate.blog)
-- [Alvaro Montoro](http://alvaromontoro.com)
-- [Anil Dash](https://anildash.com)
-- [avdi.codes](https://avdi.codes/blog/)
-- [bnijenhuis](https://bnijenhuis.nl)
-- [Brad Frost](https://bradfrost.com/blog/)
-- [Cheapskates Guide](https://cheapskatesguide.org)
-- [Collin Donnell](https://collindonnell.com)
-- [David Peach](https://blog.davidpeach.me)
-- [dnsmichi.at](https://dnsmichi.at)
-- [Faraaz's Blog](https://faraazahmad.github.io)
-- [furbo.org](https://furbo.org)
-- [Go Make Things](https://gomakethings.com/)
-- [Honest Work](https://blog.honest.work)
-- [Honeycomb](https://www.honeycomb.io)
-- [inessential](https://inessential.com)
-- [Julia Evans](https://jvns.ca)
-- [jvt.me](https://www.jvt.me)
-- [Kev Quirk](https://kevquirk.com)
-- [Know Your Team](https://blog.knowyourcompany.com)
-- [Laura Kalbag](https://laurakalbag.com)
-- [Marc Jenkins](https://marcjenkins.co.uk)
-- [Mike Perham](https://www.mikeperham.com)
-- [Paul Mucur](https://mudge.name)
-- [ppinera.es](https://ppinera.es)
-- [ReverentGeek](http://reverentgeek.com)
-- [samwho.dev](https://samwho.dev)
-- [Saturn Flyer](https://www.saturnflyer.com)
-- [Seaside Testing](https://seasidetesting.com)
-- [sfcgeorge](https://www.sfcgeorge.co.uk)
-- [Sonnie's Edge](https://www.sonniesedge.net)
-- [swyx.io](https://www.swyx.io)
-- [Tatiana Mac](https://www.tatianamac.com)
-- [Terence Eden](https://shkspr.mobi)
-- [The Code Gardener](https://the.codegardener.com)
-- [Tom Large](https://medium.com)
-- [Tyler Cipriani](https://tylercipriani.com)
-- [wasabigeek](https://wasabigeek.com)
-
-## Other links
-
-- [Death Generator](https://deathgenerator.com) - generate dialogue/death screens from classic videogames
