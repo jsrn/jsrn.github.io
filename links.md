@@ -37,7 +37,7 @@ Here are some pages that are important to me, have a cool design, or simply brin
 
 ## Blog roll
 
-This list is automatically generated from my RSS feed subscriptions. Some are sites I visit often, some are people I interacted with once or twice on social media. If you notice a link is dead or the author has started posting hate speech or something, please be a good egg and let me know.
+Some of these are sites I visit often, some are people I interacted with once or twice on social media. If you notice a link is dead or the author has started posting hate speech or something, please be a good egg and let me know.
 
 <small>(updated 09/07/2023)</small>
 
@@ -48,10 +48,10 @@ This list is automatically generated from my RSS feed subscriptions. Some are si
 
 ### Company Engineering Blogs
 
-- [cookpad](https://sourcediving.com)
+- [Cookpad](https://sourcediving.com)
 - [Deliveroo](https://deliveroo.engineering)
 - [Etsy](http://codeascraft.com)
-- [Gusto Engineering](https://engineering.gusto.com)
+- [Gusto](https://engineering.gusto.com)
 - [Medium](https://medium.engineering)
 - [Netflix](https://netflixtechblog.com)
 - [Talis](https://engineering.talis.com)
@@ -82,8 +82,7 @@ This list is automatically generated from my RSS feed subscriptions. Some are si
 - [Protean Magazine](https://proteanmag.com)
 - [Qubyte Codes](https://qubyte.codes)
 - [sadgrl.online](https://sadgrl.online)
-- [sondering heights](https://buttondown.email)
-- [sondering.blog](https://sondering.blog)
+- [sondering heights](https://buttondown.email/sondering)
 - [starbreaker.org](https://starbreaker.org)
 - [The Frugal Blog](https://www.thefrugalgamer.net)
 - [The Neglected Books Page](https://neglectedbooks.com)
@@ -94,14 +93,14 @@ This list is automatically generated from my RSS feed subscriptions. Some are si
 - [Billy Ruffian](https://www.billy-ruffian.co.uk)
 - [Code with Jason](https://www.codewithjason.com)
 - [esparta.co](https://esparta.co)
-- [interblah.net](http://feeds.feedburner.com)
+- [interblah.net](https://interblah.net/)
 - [Kevin Murphy](https://kevinjmurphy.com)
 - [Kevin Newton](https://kddnewton.com)
 - [Michiel Sikkes](https://www.michielsikkes.com)
 - [naildrivin5.com](https://naildrivin5.com)
 - [Nishiki Liu](https://nshki.com)
 - [Schneems](https://schneems.com)
-- [thoughtbot](http://feeds.feedburner.com)
+- [thoughtbot](https://thoughtbot.com/blog)
 - [Tim Riley](https://timriley.info)
 
 ### Tech
@@ -110,16 +109,16 @@ This list is automatically generated from my RSS feed subscriptions. Some are si
 - [Accidentally in Code](https://cate.blog)
 - [Alvaro Montoro](http://alvaromontoro.com)
 - [Anil Dash](https://anildash.com)
-- [avdi.codes](http://feeds.feedburner.com)
+- [avdi.codes](https://avdi.codes/blog/)
 - [bnijenhuis](https://bnijenhuis.nl)
-- [Brad Frost](http://feeds.feedburner.com)
+- [Brad Frost](https://bradfrost.com/blog/)
 - [Cheapskates Guide](https://cheapskatesguide.org)
 - [Collin Donnell](https://collindonnell.com)
 - [David Peach](https://blog.davidpeach.me)
 - [dnsmichi.at](https://dnsmichi.at)
 - [Faraaz's Blog](https://faraazahmad.github.io)
 - [furbo.org](https://furbo.org)
-- [Go Make Things](http://feeds.feedburner.com)
+- [Go Make Things](https://gomakethings.com/)
 - [Honest Work](https://blog.honest.work)
 - [Honeycomb](https://www.honeycomb.io)
 - [inessential](https://inessential.com)
@@ -137,15 +136,14 @@ This list is automatically generated from my RSS feed subscriptions. Some are si
 - [Saturn Flyer](https://www.saturnflyer.com)
 - [Seaside Testing](https://seasidetesting.com)
 - [sfcgeorge](https://www.sfcgeorge.co.uk)
-- [Signal v. Noise](http://feeds.feedburner.com)
 - [Sonnie's Edge](https://www.sonniesedge.net)
-- [swyx.io blog](https://www.swyx.io)
+- [swyx.io](https://www.swyx.io)
 - [Tatiana Mac](https://www.tatianamac.com)
 - [Terence Eden](https://shkspr.mobi)
 - [The Code Gardener](https://the.codegardener.com)
 - [Tom Large](https://medium.com)
 - [Tyler Cipriani](https://tylercipriani.com)
-- [wasabigeek's blog](https://wasabigeek.com)
+- [wasabigeek](https://wasabigeek.com)
 
 ## Other links
 
