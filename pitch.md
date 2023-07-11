@@ -20,3 +20,4 @@ title: My brilliant ideas at no cost to you, the reader
 15. Convenient recycling/bulky waste disposal as an office perk.
 16. Browser extension for reddit that only shows you the top 10 replies to threads.
 17. Browser extension that detects when a site is doing an april fools prank and replaces the content with the internet archive version from march 31st.
+18. Full-size [Wound Man](https://en.wikipedia.org/wiki/Wound_Man) (CW: medical diagram) knife block.
