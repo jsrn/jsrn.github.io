@@ -44,6 +44,10 @@
   url: /moviesets
   description: Themed sets of movies for any serious movie night.
 
+- name: Best
+  url: /best
+  description: The best things, as voted by me.
+
 - name: Zines
   url: /zines
   description: Some awkwardly formatted zines I made.
