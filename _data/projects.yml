@@ -48,6 +48,10 @@
   url: /best
   description: The best things, as voted by me.
 
+- name: Internet lore
+  url: /internet-lore
+  description: A collection of stories from around the net that I found interesting.
+
 - name: Zines
   url: /zines
   description: Some awkwardly formatted zines I made.
