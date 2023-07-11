@@ -7,6 +7,10 @@
     - html
     - css
 
+- name: Pitch
+  url: /pitch
+  description: A collection of my magnificent ideas.
+
 - name: Ruby Patterns
   url: https://rubypatterns.dev
   description: Code and design patterns for Ruby programmers.
@@ -32,36 +36,26 @@
     - html
     - javascript
 
-- name: Stuff That I Like
+- name: Stuff that I like
   url: /stuffthatilike
   description: A list of things that make me happy.
-  tags:
-    - personal
 
-- name: Movie Sets
+- name: Movie sets
   url: /moviesets
   description: Themed sets of movies for any serious movie night.
-  tags:
-    - personal
 
 - name: Zines
   url: /zines
-  description: Sometimes I produce content in zine form.
+  description: Some awkwardly formatted zines I made.
 
 - name: sudo
   url: /sudo
   description: I made a terrible band with my friend Greg.
-  tags:
-    - personal
 
-- name: Taste In Ten
+- name: Taste in ten
   url: /taste-in-ten
   description: Ten songs that I like.
-  tags:
-    - personal
 
-- name: Universal Statistics
+- name: Universal statistics
   url: /universal_statistics
   description: Stats I'd like to know about the Universe.
-  tags:
-    - personal
