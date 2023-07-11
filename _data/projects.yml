@@ -11,6 +11,10 @@
   url: /pitch
   description: A collection of my magnificent ideas.
 
+- name: Tablecloth
+  url: /tablecloth
+  description: A collection of recipes and cooking tips.
+
 - name: Ruby Patterns
   url: https://rubypatterns.dev
   description: Code and design patterns for Ruby programmers.
