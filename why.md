@@ -5,7 +5,7 @@ title: Why do I maintain this website?
 
 # Why do I maintain this website?
 
-I maintain this site because I believe self-publishing on the web is the only viable long term way to maintain control of your own stuff.
+I maintain this site because I believe [self-publishing](/make-your-own-website) on the web is the only viable long term way to maintain control of your own stuff.
 
 I'm interested in personal websites and [digital gardens](https://joelhooks.com/digital-garden) and I think that the care put into creating and maintaining these spaces online leads to more meaningful connections with both ideas and people. I've previously stated that [it's time](/time-for-link-pages) for [link pages](/links) to make a comeback and I stand by that.
 
