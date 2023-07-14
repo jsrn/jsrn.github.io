@@ -15,7 +15,7 @@ title: The things I use
 ## Software
 
 - [RubyMine](https://www.jetbrains.com/ruby/) for serious Ruby work. [Visual Studio Code](https://code.visualstudio.com/) for all other text and code editing.
-- I went though various note-taking apps before settling on [Obsidian](https://obsidian.md/), which I'm obsessed with.
+- The majority of my note-taking and journaling is done in [Obsidian](https://obsidian.md/). For all its wonderful features, it's essentially a layer on top of a soup of version controlled markdown files. As with this website, it's important to me that so much of my important data isn't locked in to a particular vendor or platform.
 - [Todoist](https://todoist.com) for holding chaos at bay.
 - [NetNewsWire](https://netnewswire.com/) for subscribing to RSS feeds. It's pretty much entirely replaced my habit of scrolling through Twitter and I'm happier for it.
 - [iTerm2](https://iterm2.com/) with [Oh My Zsh](https://ohmyz.sh/). I wrote a little more about this in a [blog post about how I use iTerm2](/programming/2021/11/04/how-i-use-iterm2.html).
