@@ -41,6 +41,7 @@ Some of these are sites I visit often, some are people I interacted with once or
 ## Technology and programming
 
 - [Accessabilly](https://accessabilly.com)
+- [Addy Osmani](https://addyosmani.com) - Software Engineer and leader currently working on the Google Chrome web browser.
 - [A List Apart](https://alistapart.com)
 - [Accidentally in Code](https://cate.blog)
 - [Alvaro Montoro](http://alvaromontoro.com)
@@ -55,7 +56,7 @@ Some of these are sites I visit often, some are people I interacted with once or
 - [Collin Donnell](https://collindonnell.com)
 - [Cookpad Engineering](https://sourcediving.com)
 - [CSS-Tricks](https://css-tricks.com)
-- [David Peach](https://blog.davidpeach.me)
+- [David Peach](https://blog.davidpeach.me) - Laravel & neovim.
 - [Deliveroo Engineering](https://deliveroo.engineering)
 - [dnsmichi.at](https://dnsmichi.at)
 - [esparta.co](https://esparta.co)
@@ -111,7 +112,7 @@ Some of these are sites I visit often, some are people I interacted with once or
 
 ### Other interesting things & people
 
-- [Cal Newport](https://calnewport.com)
+- [Cal Newport](https://calnewport.com) - Author of books including _Deep Work_ and _A World Without E-mail_.
 - [Daring Fireball](https://daringfireball.net)
 - [Death Generator](https://deathgenerator.com) - Generate dialogue/death screens from classic videogames.
 - [heronebag.com](https://heronebag.com) - One-bag travel and digital nomadding.
