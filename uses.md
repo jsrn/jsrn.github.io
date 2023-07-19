@@ -14,7 +14,7 @@ title: The things I use
 
 ## Software
 
-- [RubyMine](https://www.jetbrains.com/ruby/) for serious Ruby work. [Visual Studio Code](https://code.visualstudio.com/) for all other text and code editing.
+- [RubyMine](https://www.jetbrains.com/ruby/) for serious Ruby work. [Visual Studio Code](https://code.visualstudio.com/) for all other text and code editing. I try to get into neovim once a year or so. It sticks a little more each time.
 - The majority of my note-taking and journaling is done in [Obsidian](https://obsidian.md/). For all its wonderful features, it's essentially a layer on top of a soup of version controlled markdown files. As with this website, it's important to me that so much of my important data isn't locked in to a particular vendor or platform.
 - [Todoist](https://todoist.com) for holding chaos at bay.
 - [NetNewsWire](https://netnewswire.com/) for subscribing to RSS feeds. It's pretty much entirely replaced my habit of scrolling through Twitter and I'm happier for it.
@@ -24,6 +24,6 @@ title: The things I use
 - [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/faq) whenever I've doing web development on a Windows machine. I spent a long time rotating through various Linux distributions, but these days I don't have the patience or skill to babysit them. And I like video games too much.
 - [TechSmith's SnagIt](https://www.techsmith.com/screen-capture.html) is brilliant for capturing screen recordings and annotating screenshots. It's not cheap, but it is good.
 - I have a [dotfiles repo](https://github.com/jsrn/dotfiles) to make my configuration as consistent as possible between systems.
-- [Rectangle](https://rectangleapp.com/) for arranging my windows on MacOS.
+- [Rectangle](https://rectangleapp.com/) for arranging my windows on MacOS. I like to use the "Almost Maximise" feature to give myself a little border of desktop wallpaper. I didn't agonise over choosing pretty pictures just to hide them forever.
 
 List too boring? Check out <a href="/inventory">the inventory</a>.
