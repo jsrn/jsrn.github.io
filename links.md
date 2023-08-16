@@ -99,6 +99,7 @@ Some of these are sites I visit often, some are people I interacted with once or
 - [Sonnie's Edge](https://www.sonniesedge.net)
 - [Smashing Magazine](https://www.smashingmagazine.com)
 - [swyx.io](https://www.swyx.io)
+- [surma.dev](https://surma.dev/) - Personal site of Surma, DX at Shopify.
 - [Talis Engineering](https://engineering.talis.com)
 - [Tatiana Mac](https://www.tatianamac.com)
 - [Terence Eden](https://shkspr.mobi)
