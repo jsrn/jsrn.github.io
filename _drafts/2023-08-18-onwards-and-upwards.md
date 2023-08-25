@@ -10,7 +10,7 @@ Four years in the making, today is my last day at my job. I've met lots of wonde
 
 Looking backwards, what are a few things I learned or re-learned over the past four years?
 
-- Your network is worth its weight in gold. There are people I haven't worked with for years that I still keep in touch with. They're good friends, and they were critical in helping me find the clarity and confidence to think seriously about my career progression.
+- Your network is worth its weight in gold. There are people I haven't worked with for years that I still keep in touch with. They're good friends, and they were critical in helping me find the clarity and confidence to think seriously about my career progression. There are several people at the job I'm leaving now that I hope I'll still be in touch with years from now.
 - If you focus on too many things at once, you might do a bad job at all of them. Some of the most frustrating projects I've worked on where where we put important work on the back-burner to chase an opportunity, missed it, and ended up behind on everything. Of course, hind-sight is 20/20.
 - Documentation is one of the best ways to scale yourself. "Handing over" a project by linking to a document you wrote a year ago is a nice feeling.
 - I really like remote work. I worked mostly in-office until 2019, 90% in-office until 2020 and fully remote since then. It would take a lot to give up the flexibility and freedom that remote work affords. Remote work isn't easy, and you have to take it seriously, but it's worth it.
