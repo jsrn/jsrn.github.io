@@ -177,32 +177,6 @@ section {
   margin-top: 2em;
 }
 
-@media (prefers-color-scheme: dark) {
-  body,
-  .main-content-container,
-  footer {
-    background: #16161d;
-    color: #fdfdfd;
-  }
-
-  .main-content-container,
-  footer {
-    border-width: 0;
-  }
-
-  code {
-    color: #111;
-  }
-
-  a:hover {
-    color: hsl(1, 100%, 80%);
-  }
-
-  .project-box {
-    color: #16161d;
-  }
-}
-
 .footnotes {
   font-size: 12pt;
 }
