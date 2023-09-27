@@ -17,10 +17,10 @@ In want of a better way to handle JSON output on the command line, my own resear
   - Pros: Super powerful. Lets you do cool stuff like displaying and searching at the same time.
   - Cons: Just JSON. Very arguably not a flaw, if you're an adherent of the Unix philosophy.
 - [jless](https://jless.io/)
-  - Pros: The coolest of the bunch. Lets you interactively whip through JSON data. Very cute mascot.
+  - Pros: The coolest of the bunch. Lets you interactively whip through JSON data. Very cute mascot. Handles YAML, too.
   - Cons: Not well suited to streaming data, e.g. following log output.
 - `python -m json.tool`
   - Pros: Pretty-prints output and doesn't require installing a third party tool (unless you count Python.)
-  - Cons: Not well suited to streaming data, pretty-prints but doesn't add colour.
+  - Cons: Not well suited to streaming data. Pretty-prints but doesn't add colour.
 
 Of the bunch, I think `jless` will become my go-to. Such a cute mascot.
