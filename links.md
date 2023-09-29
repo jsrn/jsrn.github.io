@@ -119,13 +119,16 @@ Some of these are sites I visit often, some are people I interacted with once or
 - [heronebag.com](https://heronebag.com) - One-bag travel and digital nomadding.
 - [housingsklave.at](https://housingsklave.at)
 - [kottke.org](http://kottke.org) - Home of fine hypertext products.
+- [Low Tech Directory](https://emreed.net/LowTech_Directory)
 - [Marc Littlemore](https://www.marclittlemore.com)
 - [Melon's Thoughts](https://thoughts.melonking.net)
 - [Minutes to Midnight](https://minutestomidnight.co.uk)
+- [Osric University](https://osric.com/university/index.html)
 - [Protean Magazine](https://proteanmag.com)
 - [sadgrl.online](https://sadgrl.online)
 - [sondering heights](https://buttondown.email/sondering)
 - [starbreaker.org](https://starbreaker.org)
+- [Suricrasia Online](https://suricrasia.online/)
 - [The Frugal Blog](https://www.thefrugalgamer.net)
 - [The Neglected Books Page](https://neglectedbooks.com)
 - [Uses This](https://usesthis.com) - If you're nosy like me, this is a delightful peek into people's tools and workflows.
