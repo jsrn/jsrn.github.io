@@ -31,7 +31,7 @@ Here are some pages that are important to me, have a cool design, or simply brin
 
 Some of these are sites I visit often, some are people I interacted with once or twice on social media. If you notice a link is dead or the author has started posting hate speech or something, please be a good egg and let me know.
 
-<small>(updated 09/07/2023)</small>
+<small>(updated 29/09/2023)</small>
 
 ## Comics
 
