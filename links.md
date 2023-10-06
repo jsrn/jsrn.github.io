@@ -131,6 +131,7 @@ Some of these are sites I visit often, some are people I interacted with once or
 - [starbreaker.org](https://starbreaker.org)
 - [Suricrasia Online](https://suricrasia.online/)
 - [RavensBlight](http://ravensblight.com/)
+- [textfiles.com](http://textfiles.com)
 - [The Frugal Blog](https://www.thefrugalgamer.net)
 - [The Neglected Books Page](https://neglectedbooks.com)
 - [Uses This](https://usesthis.com) - If you're nosy like me, this is a delightful peek into people's tools and workflows.
