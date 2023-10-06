@@ -63,6 +63,7 @@ Some of these are sites I visit often, some are people I interacted with once or
 - [Erica Sadun](https://ericasadun.com)
 - [Etsy Engineering](http://codeascraft.com)
 - [Faraaz's Blog](https://faraazahmad.github.io)
+- [flower.codes](http://flower.codes/) - Personal site of Zach.
 - [furbo.org](https://furbo.org)
 - [Go Make Things](https://gomakethings.com/) - Advocate for simple, resilient JavaScript programming that works for everybody.
 - [Gusto Engineering](https://engineering.gusto.com)
