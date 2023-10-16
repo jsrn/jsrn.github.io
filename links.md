@@ -63,6 +63,7 @@ Some of these are sites I visit often, some are people I interacted with once or
 - [Erica Sadun](https://ericasadun.com)
 - [Etsy Engineering](http://codeascraft.com)
 - [Faraaz's Blog](https://faraazahmad.github.io)
+- [flower.codes](http://flower.codes/) - Personal site of Zach.
 - [furbo.org](https://furbo.org)
 - [Go Make Things](https://gomakethings.com/) - Advocate for simple, resilient JavaScript programming that works for everybody.
 - [Gusto Engineering](https://engineering.gusto.com)
@@ -129,6 +130,8 @@ Some of these are sites I visit often, some are people I interacted with once or
 - [sondering heights](https://buttondown.email/sondering)
 - [starbreaker.org](https://starbreaker.org)
 - [Suricrasia Online](https://suricrasia.online/)
+- [RavensBlight](http://ravensblight.com/)
+- [textfiles.com](http://textfiles.com)
 - [The Frugal Blog](https://www.thefrugalgamer.net)
 - [The Neglected Books Page](https://neglectedbooks.com)
 - [Uses This](https://usesthis.com) - If you're nosy like me, this is a delightful peek into people's tools and workflows.
