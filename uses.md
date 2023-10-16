@@ -22,8 +22,9 @@ title: The things I use
 - [Figma](https://www.figma.com/) for design work. I'm not a designer, and Figma makes it super easy to put together at least basic wireframes and prototypes without really needing to know what you're doing.
 - While a lot of people dig Postman, I use [RapidAPI](https://paw.cloud/) to interact with and test APIs. It's feature-rich and works almost exactly the way I want it to.
 - [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/faq) whenever I've doing web development on a Windows machine. I spent a long time rotating through various Linux distributions, but these days I don't have the patience or skill to babysit them. And I like video games too much.
-- [TechSmith's SnagIt](https://www.techsmith.com/screen-capture.html) is brilliant for capturing screen recordings and annotating screenshots. It's not cheap, but it is good.
+- [CleanShot](https://cleanshot.com/) for screenshots and screen recordings. It's super easy to use and makes capturing quick gifs a breeze.
 - I have a [dotfiles repo](https://github.com/jsrn/dotfiles) to make my configuration as consistent as possible between systems.
 - [Rectangle](https://rectangleapp.com/) for arranging my windows on MacOS. I like to use the "Almost Maximise" feature to give myself a little border of desktop wallpaper. I didn't agonise over choosing pretty pictures just to hide them forever.
+- [jq](https://jqlang.github.io/jq/) and [jless](https://jless.io/) for wrangling JSON data on the command line.
 
 List too boring? Check out <a href="/inventory">the inventory</a>.
