@@ -137,6 +137,12 @@ Some of these are sites I visit often, some are people I interacted with once or
 - [The Neglected Books Page](https://neglectedbooks.com)
 - [Uses This](https://usesthis.com) - If you're nosy like me, this is a delightful peek into people's tools and workflows.
 
+
+### Work beats
+
+- [lofi air traffic control](https://www.lofiatc.com/?icao=RJAA)
+- [Watering a flower Haruomi Hosono 1984 cassette (花に水)](https://www.youtube.com/watch?v=34UutDrXV2Q)
+
 ---
 
 <p>Link to my site!</p>
