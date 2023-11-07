@@ -124,6 +124,7 @@ Some of these are sites I visit often, some are people I interacted with once or
 - [Marc Littlemore](https://www.marclittlemore.com)
 - [Melon's Thoughts](https://thoughts.melonking.net)
 - [Minutes to Midnight](https://minutestomidnight.co.uk)
+- [Mythic Computer Co.](https://www.mythic.computer/) - Mythic Computer Co. is a one-man atelier. He makes beautiful, serene computers by hand.
 - [Osric University](https://osric.com/university/index.html)
 - [Protean Magazine](https://proteanmag.com)
 - [sadgrl.online](https://sadgrl.online)
