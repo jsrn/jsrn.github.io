@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Harsh on organisations, soft on people
-description: I was at a book club yesterday and the topic of AI calendar assistants came up. I feel vaguely cold towards them and couldn't articulate why, but here are some loose thoughts.
+description: Ted Gioia, in his post My 12 Favorite Problems
 category: misc
 ---
 
