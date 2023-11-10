@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tumblr is taking a hit, again
-description: Ted Gioia, in his post My 12 Favorite Problems
+description: Tumblr is downscaling its ambitions after failing to reach goals for a new audience, aiming to move some staff members to other divisions of parent company Automattic.
 category: misc
 ---
 
