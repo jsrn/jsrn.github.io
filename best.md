@@ -15,6 +15,10 @@ The rules:
 
 <h2>Contents</h2>
 
+- [Books (Fantasy)](#fantasy)
+- [Books (General Fiction)](#general-fiction)
+- [Books (Non-fiction)](#non-fiction)
+- [Books (Science Fiction)](#science-fiction)
 - [Cheeses](#cheeses)
 - [Final Fantasies](#final_fantasies)
 - [Flowers](#flowers)
@@ -23,6 +27,29 @@ The rules:
 - [Teas](#teas)
 - [Woods](#woods)
 - [Zombie Movies](#zombie_movies)
+
+<h2 id="fantasy">Books (Fantasy)</h2>
+
+1. The Lies of Locke Lamora - Rip-roaring fantasy adventure
+1. The Song of Achilles - Madeleine Miller (MY HEART)
+1. Magician - Raymond Feist (dunno if it's that good, but it was the right book at the right time, and sent me down a long path of reading most of the series)
+
+<h2 id="general-fiction">Books (General Fiction)</h2>
+
+1. Down the Garden Path - Beverly Nichols (semi-fictionalised gardening memoir)
+1. The Piano Tuner - Daniel Mason (general fiction)
+1. Out - Natsuo Kirino (thriller)
+1. The Kite Runner - Khaled Hosseini
+1. Shōgun - James Clavell (epic in scope, great story)
+
+<h2 id="non-fiction">Books (Non-fiction)</h2>
+
+1. Deep Work - Cal Newport (another 'right book at the right time' for me)
+
+<h2 id="science-fiction">Books (Science Fiction)</h2>
+
+1. Oryx and Crake - Margaret Atwood (dystopian sci-fi)
+1. Snow Crash - Neal Stephenson (where we got the word 'metaverse')
 
 <h2 id="cheeses">Cheeses</h2>
 
