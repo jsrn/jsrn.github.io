@@ -115,6 +115,7 @@ Some of these are sites I visit often, some are people I interacted with once or
 ### Other interesting things & people
 
 - [Cal Newport](https://calnewport.com) - Author of books including _Deep Work_ and _A World Without E-mail_.
+- [Craig Mod](https://craigmod.com) - Writer + author
 - [Daring Fireball](https://daringfireball.net)
 - [Death Generator](https://deathgenerator.com) - Generate dialogue/death screens from classic videogames.
 - [heronebag.com](https://heronebag.com) - One-bag travel and digital nomadding.
