@@ -143,6 +143,7 @@ Some of these are sites I visit often, some are people I interacted with once or
 
 - [lofi air traffic control](https://www.lofiatc.com/?icao=RJAA)
 - [Watering a flower Haruomi Hosono 1984 cassette (花に水)](https://www.youtube.com/watch?v=34UutDrXV2Q)
+- [Nightwave Plaza](https://plaza.one) - A 24/7 vaporwave radio station.
 
 ---
 
