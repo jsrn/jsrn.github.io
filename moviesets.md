@@ -1,8 +1,7 @@
 ---
 layout: page
+title: Movie sets
 ---
-
-# Movie Sets
 
 Themed sets of movies for movie nights.
 

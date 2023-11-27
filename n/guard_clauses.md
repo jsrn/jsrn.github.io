@@ -1,10 +1,8 @@
 ---
-title: Guard clauses
 layout: page
+title: Guard clauses
 description: Guard clauses are a valuable tool for keeping your methods easy to understand.
 ---
-
-# Guard Clauses
 
 Guard clauses are a valuable tool for keeping your methods easy to understand. The idea is simple: return early from a method in order to
 

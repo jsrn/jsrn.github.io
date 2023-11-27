@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Universal Statistics
+title: Universal statistics
 description: If I were omniscient and could build a list of interesting statistics about the universe, here's what I'd like to know.
 ---
-
-# Universal Statistics
 
 If I were omniscient and could build a list of interesting statistics about the universe, here's what I'd like to know.
 

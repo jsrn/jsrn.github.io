@@ -4,8 +4,6 @@ title: The Spaceship Test
 description: The Spaceship Test is an informal measure of code quality based around the very scientific metric "does the outline of my code look kinda like a spaceship if I squint at it?"
 ---
 
-# Spaceship Test
-
 The Spaceship Test is an informal measure of code quality based around the very scientific metric "does the outline of my code look kinda like a spaceship if I squint at it?"
 
 Here's a slightly contrived example with some deliberately messy code.

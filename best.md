@@ -1,9 +1,8 @@
 ---
 layout: page
+title: Best
 description: The (up to) top ten hall of fame for anything I can think of.
 ---
-
-# Best
 
 The (up to) top ten hall of fame for anything I can think of.
 

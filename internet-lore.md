@@ -3,8 +3,6 @@ layout: page
 title: Internet lore
 ---
 
-# Internet lore
-
 A collection of stories from around the 'net that I found enjoyable.
 
 1. [ZZZZ Best](http://www.wirm.net/nightfreeze/part1.html)

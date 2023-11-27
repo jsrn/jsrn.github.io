@@ -3,8 +3,6 @@ layout: page
 title: Where to find Ruby jobs
 ---
 
-# Where to find Ruby jobs
-
 A handful of places to look for Ruby jobs.
 
 ## Job boards

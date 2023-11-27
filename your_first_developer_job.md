@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Your First Developer Job
+title: Your first developer job
 description: How to make the most of your first few weeks as a professional software developer.
 ---
-
-# Your First Developer Job
 
 [Welcome](#welcome)  \
 [Setting Expectations](#expectations)  \

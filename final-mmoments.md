@@ -3,8 +3,6 @@ layout: page
 title: Final MMOments
 ---
 
-# Final MMOments
-
 The final moments of MMOs before being shut down. Images gathered from [this Twitter thread](https://twitter.com/voidshroud/status/1272978041019432960?s=20&t=NQVMTyzDslcARbsFRHyK9g) and archived here for posterity.
 
 As someone who spent a heck of a lot of time on different MMOs, this is some tear-jerky stuff.
