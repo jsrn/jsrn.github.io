@@ -122,6 +122,7 @@ Some of these are sites I visit often, some are people I interacted with once or
 - [housingsklave.at](https://housingsklave.at)
 - [kottke.org](http://kottke.org) - Home of fine hypertext products.
 - [Low Tech Directory](https://emreed.net/LowTech_Directory)
+- [Manu's blog](https://manuelmoreale.com) - Interesting thoughts on internet culture and human connectedness.
 - [Marc Littlemore](https://www.marclittlemore.com)
 - [Melon's Thoughts](https://thoughts.melonking.net)
 - [Minutes to Midnight](https://minutestomidnight.co.uk)
