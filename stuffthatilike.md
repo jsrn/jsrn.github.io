@@ -71,6 +71,7 @@ description: There's plenty to be grateful for.
 <span class='thing-i-like'>libraries</span> &bull;
 <span class='thing-i-like'>log fires</span> &bull;
 <span class='thing-i-like'>medical science</span> &bull;
+<span class='thing-i-like'>moonlit clouds</span> &bull;
 <span class='thing-i-like'>mushrooms (food)</span> &bull;
 <span class='thing-i-like'>mushrooms (not food!)</span> &bull;
 <span class='thing-i-like'>music</span> &bull;
