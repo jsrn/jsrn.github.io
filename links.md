@@ -114,6 +114,7 @@ Some of these are sites I visit often, some are people I interacted with once or
 
 ### Other interesting things & people
 
+- [brr.fyi](https://brr.fyi) - An incredibly interesting blog by someone at an antarctic research site.
 - [Cal Newport](https://calnewport.com) - Author of books including _Deep Work_ and _A World Without E-mail_.
 - [Craig Mod](https://craigmod.com) - Writer + author
 - [Daring Fireball](https://daringfireball.net)
