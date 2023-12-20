@@ -14,7 +14,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Dagstuhl):
 >
 > The ruins of the 13th-century Dagstuhl Castle are nearby, a short walk up a hill from the Schloss.
 
-A lot of people find environment to be an important factor in how effectively they can work -- the right desk chair, the right ambient noise, the right pre-work coffee ritual. Other people aren't so bothered. For some others, it's not so critical. Stardew Valley creator Eric Barone somewhat famously did a lot of work with computer equipment perched on speakers and a cardboard box, and if such a setup can produce a masterpiece like Stardew Valley, there must be something to it.
+A lot of people find environment to be an important factor in how effectively they can work -- the right desk chair, the right ambient noise, the right pre-work coffee ritual. Other people aren't so bothered. Stardew Valley creator Eric Barone somewhat famously did a lot of work with computer equipment perched on speakers and a cardboard box, and if such a setup can produce a masterpiece like Stardew Valley, there must be something to it.
 
 I'm somewhere in the middle. I like a clean desk and a quiet room. Beyond that, I'm not too choosy.
 
