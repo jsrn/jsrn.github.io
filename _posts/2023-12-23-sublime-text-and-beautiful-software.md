@@ -16,7 +16,7 @@ I bought my Sublime Text license on January 31st 2013.
 
 It was the first time in my programming career that I really felt like I had superpowers. It was the first time I'd experienced the feeling that serious vim users describe: ideas going straight from your brain to your editor, with input being frictionless to the point of telepathy.
 
-It's also one of the first pieces of software I remember using that really felt lovingly crafted. As I said, I was using a lot of free software at the time, and a lot it had been created by kind, thoughtful and deeply intelligent people who were very much not experts in UX or visual design.
+It's also one of the first pieces of software I remember using that really felt lovingly crafted. As I said, I was using a lot of free software at the time, and a lot of it had been created by kind, thoughtful and deeply intelligent people who were very much not experts in UX or visual design.
 
 I probably pissed off too many of my friends by harping on about it.
 
