@@ -29,8 +29,9 @@ The rules:
 
 <h2 id="fantasy">Books (Fantasy)</h2>
 
-1. The Lies of Locke Lamora - Rip-roaring fantasy adventure
+1. The Lies of Locke Lamora - Scott Lynch (Rip-roaring fantasy adventure)
 1. The Song of Achilles - Madeleine Miller (MY HEART)
+1. Mistborn (series) - Brandon Sanderson
 1. Magician - Raymond Feist (dunno if it's that good, but it was the right book at the right time, and sent me down a long path of reading most of the series)
 
 <h2 id="general-fiction">Books (General Fiction)</h2>
@@ -49,12 +50,14 @@ The rules:
 
 1. Oryx and Crake - Margaret Atwood (dystopian sci-fi)
 1. Snow Crash - Neal Stephenson (where we got the word 'metaverse')
+1. The Three-Body Problem - Liu Cixin
 
 <h2 id="cheeses">Cheeses</h2>
 
 1. Roquefort
 1. Boursin
 1. Brie
+1. Brunost
 1. Cheddar
 1. Goats cheese
 1. Wensleydale
@@ -90,6 +93,7 @@ The rules:
 1. Nail polish remover
 1. Fresh bread
 1. Coffee beans
+1. The lumber section of a DIY store
 
 <h2 id="spiders">Spiders</h2>
 
