@@ -22,3 +22,4 @@ title: My brilliant ideas at no cost to you, the reader
 17. Browser extension that detects when a site is doing an april fools prank and replaces the content with the internet archive version from march 31st.
 18. Full-size [Wound Man](https://en.wikipedia.org/wiki/Wound_Man) (CW: medical diagram) knife block.
 19. New public utilities such as cycle paths and parks are named after randomly selected citizens, weighted by tax revenue.
+20. An HTML directive to prevent loading of decorative elements on limited connections.
