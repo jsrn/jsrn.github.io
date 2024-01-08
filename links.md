@@ -35,15 +35,15 @@ Some of these are sites I visit often, some are people I interacted with once or
 
 ## Comics
 
-- [MonkeyUser](https://www.monkeyuser.com)
-- [xkcd](https://xkcd.com)
+- [MonkeyUser](https://www.monkeyuser.com) - Comics about the joy of working in tech.
+- [xkcd](https://xkcd.com) - A webcomic of romance, sarcasm, math, and language.
 
 ## Technology and programming
 
-- [Accessabilly](https://accessabilly.com)
+- [Accessabilly](https://accessabilly.com) -  Martin Mengele's blog about accessibility and user experience.
 - [Addy Osmani](https://addyosmani.com) - Software Engineer and leader currently working on the Google Chrome web browser.
-- [A List Apart](https://alistapart.com)
-- [Accidentally in Code](https://cate.blog)
+- [A List Apart](https://alistapart.com) - Interesting blog posts on design.
+- [Accidentally in Code](https://cate.blog) - Cate is an Engineering Director at DuckDuckGo and an advisor at Glowforge.
 - [Alvaro Montoro](http://alvaromontoro.com)
 - [Anil Dash](https://anildash.com)
 - [Avdi Grimm](https://avdi.codes/) - A great teacher of Ruby programming and more.
@@ -54,20 +54,15 @@ Some of these are sites I visit often, some are people I interacted with once or
 - [Cheapskates Guide](https://cheapskatesguide.org)
 - [Code with Jason](https://www.codewithjason.com)
 - [Collin Donnell](https://collindonnell.com)
-- [Cookpad Engineering](https://sourcediving.com)
 - [CSS-Tricks](https://css-tricks.com)
 - [David Peach](https://blog.davidpeach.me) - Laravel & neovim.
-- [Deliveroo Engineering](https://deliveroo.engineering)
 - [dnsmichi.at](https://dnsmichi.at)
 - [esparta.co](https://esparta.co)
 - [Erica Sadun](https://ericasadun.com)
-- [Etsy Engineering](http://codeascraft.com)
 - [Faraaz's Blog](https://faraazahmad.github.io)
 - [flower.codes](http://flower.codes/) - Personal site of Zach.
 - [furbo.org](https://furbo.org)
 - [Go Make Things](https://gomakethings.com/) - Advocate for simple, resilient JavaScript programming that works for everybody.
-- [Gusto Engineering](https://engineering.gusto.com)
-- [Honeycomb](https://www.honeycomb.io/blog) - The engineering blog of the observability platform.
 - [House of van Schneider](https://vanschneider.com)
 - [inessential](https://inessential.com)
 - [interblah.net](https://interblah.net/)
@@ -80,11 +75,9 @@ Some of these are sites I visit often, some are people I interacted with once or
 - [Know Your Team](https://blog.knowyourcompany.com)
 - [Laura Kalbag](https://laurakalbag.com)
 - [Marc Jenkins](https://marcjenkins.co.uk)
-- [Medium Engineering](https://medium.engineering)
 - [Michiel Sikkes](https://www.michielsikkes.com)
 - [Mike Perham](https://www.mikeperham.com) - The creator of sidekiq, a background task processor for Ruby.
 - [naildrivin5.com](https://naildrivin5.com)
-- [Netflix Engineering](https://netflixtechblog.com)
 - [Nishiki Liu](https://nshki.com)
 - [Oh Hello Ana](https://ohhelloana.blog)
 - [Paul Mucur](https://mudge.name)
@@ -101,27 +94,37 @@ Some of these are sites I visit often, some are people I interacted with once or
 - [Smashing Magazine](https://www.smashingmagazine.com)
 - [swyx.io](https://www.swyx.io)
 - [surma.dev](https://surma.dev/) - Personal site of Surma, DX at Shopify.
-- [Talis Engineering](https://engineering.talis.com)
 - [Tatiana Mac](https://www.tatianamac.com)
 - [Terence Eden](https://shkspr.mobi)
-- [thoughtbot](https://thoughtbot.com/blog)
 - [Tim Riley](https://timriley.info)
 - [The Code Gardener](https://the.codegardener.com)
-- [The Guardian Engineering](https://www.theguardian.com/info/series/engineering-blog)
-- [tumblr Engineering](http://engineering.tumblr.com)
 - [Tyler Cipriani](https://tylercipriani.com)
 - [wasabigeek](https://wasabigeek.com)
+
+### Company engineering blogs
+
+- [Cookpad](https://sourcediving.com)
+- [Etsy](http://codeascraft.com)
+- [Deliveroo](https://deliveroo.engineering)
+- [Gusto](https://engineering.gusto.com)
+- [Honeycomb](https://www.honeycomb.io/blog)
+- [Medium](https://medium.engineering)
+- [Netflix](https://netflixtechblog.com)
+- [Talis](https://engineering.talis.com)
+- [thoughtbot](https://thoughtbot.com/blog)
+- [The Guardian](https://www.theguardian.com/info/series/engineering-blog)
+- [tumblr](http://engineering.tumblr.com)
 
 ### Other interesting things & people
 
 - [brr.fyi](https://brr.fyi) - An incredibly interesting blog by someone at an antarctic research site.
 - [Cal Newport](https://calnewport.com) - Author of books including _Deep Work_ and _A World Without E-mail_.
-- [Craig Mod](https://craigmod.com) - Writer + author
-- [Daring Fireball](https://daringfireball.net)
+- [Craig Mod](https://craigmod.com) - Writer and prolific walker. Author of delightful books and newsletters.
+- [Daring Fireball](https://daringfireball.net) - Consistently thoughtful opinions about technology by the person who brought us Markdown.
 - [Death Generator](https://deathgenerator.com) - Generate dialogue/death screens from classic videogames.
 - [heronebag.com](https://heronebag.com) - One-bag travel and digital nomadding.
 - [housingsklave.at](https://housingsklave.at)
-- [kottke.org](http://kottke.org) - Home of fine hypertext products.
+- [kottke.org](http://kottke.org) - Home of fine hypertext products. One of the best blogs around in terms of how consistently varied and interesting it is.
 - [Low Tech Directory](https://emreed.net/LowTech_Directory)
 - [Manu's blog](https://manuelmoreale.com) - Interesting thoughts on internet culture and human connectedness.
 - [Marc Littlemore](https://www.marclittlemore.com)
