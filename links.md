@@ -106,6 +106,7 @@ Some of these are sites I visit often, some are people I interacted with once or
 - [Cookpad](https://sourcediving.com)
 - [Etsy](http://codeascraft.com)
 - [Deliveroo](https://deliveroo.engineering)
+- [GitLab](https://about.gitlab.com/blog/categories/engineering)
 - [Gusto](https://engineering.gusto.com)
 - [Honeycomb](https://www.honeycomb.io/blog)
 - [Medium](https://medium.engineering)
