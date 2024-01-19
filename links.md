@@ -48,7 +48,7 @@ I love a personal blog, although they can be tough to define. These blogs may in
 - [The Frugal Blog](https://www.thefrugalgamer.net) - Personal site of The Frugal Gamer and showcase for their interests. They had me at the incredible Milk OS logo.
 - [housingsklave.at](https://housingsklave.at) - A good egg.
 - [Manuel's blog](https://manuelmoreale.com) - Interesting thoughts on internet culture and human connectedness.
-- [Melon's Thoughts](https://thoughts.melonking.net) - Digital art type person and MelonLand Forum founder.
+- [Melon's Thoughts](https://thoughts.melonking.net) - MelonLand Forum founder and digital arts type person.
 - [Terence Eden](https://shkspr.mobi) - Terence blogs about all sorts of stuff. Technology, policy, and general geekery.
 - [xandra.cc](https://xandra.cc) - The museum of Alexandra.
 
@@ -130,6 +130,7 @@ These get their own section because while they each produce some very interestin
 
 ### Other interesting things & people
 
+- [Boatmurdered](https://lparchive.org/Dwarf-Fortress-Boatmurdered/Introduction/) - A Dwarf Fortress Let's Play that's well worth reading.
 - [brr.fyi](https://brr.fyi) - An incredibly interesting blog by someone at an antarctic research site.
 - [Cal Newport](https://calnewport.com) - Author of books including _Deep Work_ and _A World Without E-mail_.
 - [Daring Fireball](https://daringfireball.net) - Consistently thoughtful opinions about technology by the person who brought us Markdown.
@@ -146,7 +147,7 @@ These get their own section because while they each produce some very interestin
 - [sondering heights](https://buttondown.email/sondering)
 - [starbreaker.org](https://starbreaker.org)
 - [Suricrasia Online](https://suricrasia.online/) - Suricrasia Online is a Toronto-based ISP staffed entirely by anthropomorphic sharks in maid outfits.
-- [RavensBlight](http://ravensblight.com/)
+- [RavensBlight](http://ravensblight.com/) - All things <span style="text-shadow: 0 5px 5px darkred, 0 2.5px 2.5px red;">spooky</span> (why is there no web-safe version of the Chiller font?).
 - [textfiles.com](http://textfiles.com) - Jason Scott is a committed internet archivist.
 - [The Neglected Books Page](https://neglectedbooks.com)
 - [Uses This](https://usesthis.com) - If you're nosy like me, this is a delightful peek into people's tools and workflows.
