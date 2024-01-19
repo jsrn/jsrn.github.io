@@ -38,14 +38,27 @@ Some of these are sites I visit often, some are people I interacted with once or
 - [MonkeyUser](https://www.monkeyuser.com) - Comics about the joy of working in tech.
 - [xkcd](https://xkcd.com) - A webcomic of romance, sarcasm, math, and language.
 
-## Technology and programming
+## Mostly personal
+
+I love a personal blog, although they can be tough to define. These blogs may include technical content, but they also include the whole person. At least the parts they let us see.
+
+- [Anil Dash](https://anildash.com) - Anil Dash blogs about technology and culture. If you don't know his blog, you may know him as ex-CEO of <https://glitch.com>.
+- [Craig Mod](https://craigmod.com) - Writer and prolific walker. Author of delightful books and newsletters.
+- [flower.codes](http://flower.codes/) - Personal site of Zach. I enjoy his perspectives on technology and how we interact with it.
+- [The Frugal Blog](https://www.thefrugalgamer.net) - Personal site of The Frugal Gamer and showcase for their interests. They had me at the incredible Milk OS logo.
+- [housingsklave.at](https://housingsklave.at) - A good egg.
+- [Manuel's blog](https://manuelmoreale.com) - Interesting thoughts on internet culture and human connectedness.
+- [Melon's Thoughts](https://thoughts.melonking.net) - Digital art type person and MelonLand Forum founder.
+- [Terence Eden](https://shkspr.mobi) - Terence blogs about all sorts of stuff. Technology, policy, and general geekery.
+- [xandra.cc](https://xandra.cc) - The museum of Alexandra.
+
+## Mostly programming
 
 - [Accessabilly](https://accessabilly.com) -  Martin Mengele's blog about accessibility and user experience.
 - [Addy Osmani](https://addyosmani.com) - Software Engineer and leader currently working on the Google Chrome web browser.
 - [A List Apart](https://alistapart.com) - Interesting blog posts on design.
 - [Accidentally in Code](https://cate.blog) - Cate is an Engineering Director at DuckDuckGo and an advisor at Glowforge.
 - [Alvaro Montoro](http://alvaromontoro.com)
-- [Anil Dash](https://anildash.com)
 - [Avdi Grimm](https://avdi.codes/) - A great teacher of Ruby programming and more.
 - [Billy Ruffian](https://www.billy-ruffian.co.uk)
 - [bnijenhuis](https://bnijenhuis.nl)
@@ -60,7 +73,6 @@ Some of these are sites I visit often, some are people I interacted with once or
 - [esparta.co](https://esparta.co)
 - [Erica Sadun](https://ericasadun.com)
 - [Faraaz's Blog](https://faraazahmad.github.io)
-- [flower.codes](http://flower.codes/) - Personal site of Zach.
 - [furbo.org](https://furbo.org)
 - [Go Make Things](https://gomakethings.com/) - Advocate for simple, resilient JavaScript programming that works for everybody.
 - [House of van Schneider](https://vanschneider.com)
@@ -90,18 +102,18 @@ Some of these are sites I visit often, some are people I interacted with once or
 - [Schneems](https://schneems.com)
 - [sfcgeorge](https://www.sfcgeorge.co.uk)
 - [Simpler Machines](https://www.simplermachines.com) - About writing software, mostly.
-- [Sonnie's Edge](https://www.sonniesedge.net)
 - [Smashing Magazine](https://www.smashingmagazine.com)
 - [swyx.io](https://www.swyx.io)
 - [surma.dev](https://surma.dev/) - Personal site of Surma, DX at Shopify.
 - [Tatiana Mac](https://www.tatianamac.com)
-- [Terence Eden](https://shkspr.mobi)
 - [Tim Riley](https://timriley.info)
 - [The Code Gardener](https://the.codegardener.com)
 - [Tyler Cipriani](https://tylercipriani.com)
 - [wasabigeek](https://wasabigeek.com)
 
 ### Company engineering blogs
+
+These get their own section because while they each produce some very interesting stuff, you might not care about the specific technical challenges these companies face.
 
 - [Cookpad](https://sourcediving.com)
 - [Etsy](http://codeascraft.com)
@@ -120,16 +132,12 @@ Some of these are sites I visit often, some are people I interacted with once or
 
 - [brr.fyi](https://brr.fyi) - An incredibly interesting blog by someone at an antarctic research site.
 - [Cal Newport](https://calnewport.com) - Author of books including _Deep Work_ and _A World Without E-mail_.
-- [Craig Mod](https://craigmod.com) - Writer and prolific walker. Author of delightful books and newsletters.
 - [Daring Fireball](https://daringfireball.net) - Consistently thoughtful opinions about technology by the person who brought us Markdown.
 - [Death Generator](https://deathgenerator.com) - Generate dialogue/death screens from classic videogames.
 - [heronebag.com](https://heronebag.com) - One-bag travel and digital nomadding.
-- [housingsklave.at](https://housingsklave.at)
 - [kottke.org](http://kottke.org) - Home of fine hypertext products. One of the best blogs around in terms of how consistently varied and interesting it is.
 - [Low Tech Directory](https://emreed.net/LowTech_Directory)
-- [Manu's blog](https://manuelmoreale.com) - Interesting thoughts on internet culture and human connectedness.
 - [Marc Littlemore](https://www.marclittlemore.com)
-- [Melon's Thoughts](https://thoughts.melonking.net)
 - [Minutes to Midnight](https://minutestomidnight.co.uk)
 - [Mythic Computer Co.](https://www.mythic.computer/) - Mythic Computer Co. is a one-man atelier. He makes beautiful, serene computers by hand.
 - [Osric University](https://osric.com/university/index.html)
@@ -137,13 +145,11 @@ Some of these are sites I visit often, some are people I interacted with once or
 - [sadgrl.online](https://sadgrl.online)
 - [sondering heights](https://buttondown.email/sondering)
 - [starbreaker.org](https://starbreaker.org)
-- [Suricrasia Online](https://suricrasia.online/)
+- [Suricrasia Online](https://suricrasia.online/) - Suricrasia Online is a Toronto-based ISP staffed entirely by anthropomorphic sharks in maid outfits.
 - [RavensBlight](http://ravensblight.com/)
-- [textfiles.com](http://textfiles.com)
-- [The Frugal Blog](https://www.thefrugalgamer.net)
+- [textfiles.com](http://textfiles.com) - Jason Scott is a committed internet archivist.
 - [The Neglected Books Page](https://neglectedbooks.com)
 - [Uses This](https://usesthis.com) - If you're nosy like me, this is a delightful peek into people's tools and workflows.
-- [xandra.cc](https://xandra.cc) - The museum of Alexandra.
 
 ### Work beats
 
