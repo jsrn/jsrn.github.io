@@ -71,3 +71,7 @@
 - name: Universal statistics
   url: /universal_statistics
   description: Stats I'd like to know about the Universe.
+
+- name: Talks
+  url: /talks
+  description: The short list of tech talks I've delivered.
