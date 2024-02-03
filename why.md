@@ -7,6 +7,6 @@ I maintain this site because [self-publishing](/make-your-own-website) on the we
 
 I like personal websites, blogs, and [digital gardens](https://joelhooks.com/digital-garden) and I think that the care put into creating and maintaining these spaces online can lead to more lasting [connections](/links) with both ideas and people.
 
-This website is statically generated using [jekyll](https://jekyllrb.com/) because when the output is a folder of HTML files, I can take it pretty much anywhere.
+This website is statically generated using [Jekyll](https://jekyllrb.com/) because when the output is a folder of HTML files, I can take it pretty much anywhere.
 
-I do my best to avoid unecessary JavaScript, and there are no analytics on this site. Consequently, if you want to give me a little buzz of endorphins about anything on this site, reach out by <a href="mailto:james@jsrn.net?subject=Let's be friends">email</a>.
+I do my best to avoid unecessary JavaScript, and there are no analytics on this site. Consequently, if you want to give me a little buzz of endorphins about anything on this site, reach out by <a href="mailto:james@jsrn.net?subject=Let's be friends">e-mail</a>.
