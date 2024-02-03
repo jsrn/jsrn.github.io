@@ -59,13 +59,12 @@ I love a personal blog, although they can be tough to define. These blogs may in
 - [Addy Osmani](https://addyosmani.com) - Software Engineer and leader currently working on the Google Chrome web browser.
 - [A List Apart](https://alistapart.com) - Interesting blog posts on design.
 - [Accidentally in Code](https://cate.blog) - Cate is an Engineering Director at DuckDuckGo and an advisor at Glowforge.
-- [Alvaro Montoro](http://alvaromontoro.com)
+- [Alvaro Montoro](http://alvaromontoro.com) - "CSS Wizard."
 - [Avdi Grimm](https://avdi.codes/) - A great teacher of Ruby programming and more.
-- [Billy Ruffian](https://www.billy-ruffian.co.uk)
-- [bnijenhuis](https://bnijenhuis.nl)
-- [Brad Frost](https://bradfrost.com/blog/)
-- [Cassidy James Blaede](https://cassidyjames.com)
-- [Cheapskates Guide](https://cheapskatesguide.org)
+- [Billy Ruffian](https://www.billy-ruffian.co.uk) - Blogs mostly about Ruby and Rails.
+- [Brad Frost](https://bradfrost.com/blog/) - Design system consultant, web designer, speaker, writer, and musician. Author of _Atomic Design_.
+- [Cassidy James Blaede](https://cassidyjames.com) - "Building useful, usable, delightful products that respect privacy."
+- [Cheapskates Guide](https://cheapskatesguide.org) - "You need not spend large amounts of cash for decent computers and reasonable Internet services. If you know how, you can get them cheaply. This site is dedicated to showing you how."
 - [Code with Jason](https://www.codewithjason.com)
 - [Collin Donnell](https://collindonnell.com)
 - [CSS-Tricks](https://css-tricks.com)
@@ -80,7 +79,7 @@ I love a personal blog, although they can be tough to define. These blogs may in
 - [inessential](https://inessential.com)
 - [interblah.net](https://interblah.net/)
 - [Julia Evans](https://jvns.ca) - Maker of excellent and informative zines and blog posts.
-- [jvt.me](https://www.jvt.me)
+- [jvt.me](https://www.jvt.me) - Jamie Tanna is a software developer, IndieWeb proponent, and blogger.
 - [Keenan Payne](https://keenanpayne.com/archive/)
 - [Kev Quirk](https://kevquirk.com)
 - [Kevin Murphy](https://kevinjmurphy.com)
