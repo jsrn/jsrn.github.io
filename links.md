@@ -65,7 +65,7 @@ I love a personal blog, although they can be tough to define. These blogs may in
 - [Brad Frost](https://bradfrost.com/blog/) - Design system consultant, web designer, speaker, writer, and musician. Author of _Atomic Design_.
 - [Cassidy James Blaede](https://cassidyjames.com) - "Building useful, usable, delightful products that respect privacy."
 - [Cheapskates Guide](https://cheapskatesguide.org) - "You need not spend large amounts of cash for decent computers and reasonable Internet services. If you know how, you can get them cheaply. This site is dedicated to showing you how."
-- [Code with Jason](https://www.codewithjason.com)
+- [Code with Jason](https://www.codewithjason.com) - Blogs, mostly about programming, Ruby, and Rails.
 - [Collin Donnell](https://collindonnell.com)
 - [CSS-Tricks](https://css-tricks.com)
 - [David Peach](https://blog.davidpeach.me) - Laravel & neovim.
