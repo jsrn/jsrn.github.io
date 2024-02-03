@@ -50,6 +50,7 @@ I love a personal blog, although they can be tough to define. These blogs may in
 - [Manuel's blog](https://manuelmoreale.com) - Interesting thoughts on internet culture and human connectedness.
 - [Melon's Thoughts](https://thoughts.melonking.net) - MelonLand Forum founder and digital arts type person.
 - [Terence Eden](https://shkspr.mobi) - Terence blogs about all sorts of stuff. Technology, policy, and general geekery.
+- [V.H. Belvadi](https://vhbelvadi.com/) - Writer and photographer engaged in the history of science.
 - [xandra.cc](https://xandra.cc) - The museum of Alexandra.
 
 ## Mostly programming
