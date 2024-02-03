@@ -10,3 +10,4 @@ A collection of stories from around the 'net that I found enjoyable.
 3. [The 500 mile email](http://web.mit.edu/jemorris/humor/500-miles)
 4. [Magic/more magic](http://catb.org/jargon/html/magic-story.html)
 5. [Final MMOments](/final-mmoments)
+6. [Ted's Caving Page](https://www.angelfire.com/trek/caver/) - An oldie but a goodie. A creepy story from before "creepypasta" was a word.

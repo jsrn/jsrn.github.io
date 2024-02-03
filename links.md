@@ -148,6 +148,7 @@ These get their own section because while they each produce some very interestin
 - [starbreaker.org](https://starbreaker.org)
 - [Suricrasia Online](https://suricrasia.online/) - Suricrasia Online is a Toronto-based ISP staffed entirely by anthropomorphic sharks in maid outfits.
 - [RavensBlight](http://ravensblight.com/) - All things <span style="text-shadow: 0 5px 5px darkred, 0 2.5px 2.5px red;">spooky</span> (why is there no web-safe version of the Chiller font?).
+- [Ted's Caving Page](https://www.angelfire.com/trek/caver/) - An oldie but a goodie. A creepy story from before "creepypasta" was a word.
 - [textfiles.com](http://textfiles.com) - Jason Scott is a committed internet archivist.
 - [The Neglected Books Page](https://neglectedbooks.com)
 - [Uses This](https://usesthis.com) - If you're nosy like me, this is a delightful peek into people's tools and workflows.
