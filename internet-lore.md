@@ -17,3 +17,4 @@ A collection of stories from around the 'net that I found enjoyable.
 - [The 500 mile email](http://web.mit.edu/jemorris/humor/500-miles)
 - [Magic/more magic](http://catb.org/jargon/html/magic-story.html)
 - [The Wi-Fi only works when it's raining](https://predr.ag/blog/wifi-only-works-when-its-raining)
+- [Janet Jackson had the power to crash laptop computers](https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994)
