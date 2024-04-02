@@ -32,6 +32,7 @@ The rules:
 1. The Lies of Locke Lamora - Scott Lynch (Rip-roaring fantasy adventure)
 1. The Song of Achilles - Madeleine Miller (MY HEART)
 1. Mistborn (series) - Brandon Sanderson
+1. The Emperor's Edge - Lindsay Buroker
 1. Magician - Raymond Feist (dunno if it's that good, but it was the right book at the right time, and sent me down a long path of reading most of the series)
 
 <h2 id="general-fiction">Books (General Fiction)</h2>
