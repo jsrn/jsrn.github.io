@@ -43,6 +43,7 @@ Some of these are sites I visit often, some are people I interacted with once or
 I love a personal blog, although they can be tough to define. These blogs may include technical content, but they also include the whole person. At least the parts they let us see.
 
 - [Anil Dash](https://anildash.com) - Anil Dash blogs about technology and culture. If you don't know his blog, you may know him as ex-CEO of <https://glitch.com>.
+- [anhvn](https://anhvn.com/) - Blog and sketches.
 - [Craig Mod](https://craigmod.com) - Writer and prolific walker. Author of delightful books and newsletters.
 - [flower.codes](http://flower.codes/) - Personal site of Zach. I enjoy his perspectives on technology and how we interact with it.
 - [The Frugal Blog](https://www.thefrugalgamer.net) - Personal site of The Frugal Gamer and showcase for their interests. They had me at the incredible Milk OS logo.
