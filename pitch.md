@@ -23,3 +23,4 @@ title: My brilliant ideas at no cost to you, the reader
 18. Full-size [Wound Man](https://en.wikipedia.org/wiki/Wound_Man) (CW: medical diagram) knife block.
 19. New public utilities such as cycle paths and parks are named after randomly selected citizens, weighted by tax revenue.
 20. An HTML directive to prevent loading of decorative elements on limited connections.
+21. A news / article / TV / whatever aggregator app that lets you specify how many minutes per day you have to consume Content. Every day it generates a Content menu for you that fits within this budget. No other Content is surfaced.
