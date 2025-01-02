@@ -1,7 +1,9 @@
 ---
-layout: page
-title: The Spaceship Test
-description: The Spaceship Test is an informal measure of code quality based around the very scientific metric "does the outline of my code look kinda like a spaceship if I squint at it?"
+layout: tcd
+id: "0002"
+title: The spaceship test
+authored: "2021-10-19"
+updated:  "XXXX-XX-XX"
 ---
 
 The Spaceship Test is an informal measure of code quality based around the very scientific metric "does the outline of my code look kinda like a spaceship if I squint at it?"
