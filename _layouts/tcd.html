@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <style>
+    body {
+      font-family: 'TX-02', monospace;
+      font-size: 16px;
+      max-width: 80ch;
+      background-color: antiquewhite;
+      color: #333;
+    }
+
+    #header {
+      text-transform: uppercase;
+    }
+
+    #header h1 {
+      display: inline;
+      font-size: 1em;
+      font-weight: 700;
+    }
+
+    #header .tcd {
+      font-weight: 700;
+    }
+  </style>
+
+  <body>
+    <!-- https://en.wikipedia.org/wiki/Box-drawing_characters -->
+    <!-- https://en.wikipedia.org/wiki/Block_Elements -->
+
+    <section id="header">
+      {% assign ptl = page.title | size %}
+      {% assign right = 69 | minus: ptl %}
+
+      ┌──────┬───────────────────────────────────────────────────────────────────────┐
+      │ {{ page.id }} │ <h1>{{ page.title }}</h1>{% for i in (1..right) %}&nbsp;{% endfor %} │
+      ├──────┴──────────────────────────┬──────────────────────┬─────────────────────┤
+      │ <span class="tcd">TECHNICAL COMMUNICATIONS DESK</span> &nbsp;&nbsp;│ Authored: {{ page.authored }} │ Updated: {{ page.updated }} │
+      └─────────────────────────────────┴──────────────────────┴─────────────────────┘
+    </section>
+
+    {{ content }}
+  </body>
+</html>
