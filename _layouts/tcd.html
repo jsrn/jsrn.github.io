@@ -11,6 +11,7 @@
 
     #header {
       text-transform: uppercase;
+      width: 81ch;
     }
 
     #header h1 {
@@ -32,10 +33,10 @@
       {% assign ptl = page.title | size %}
       {% assign right = 69 | minus: ptl %}
 
-      ┌──────┬───────────────────────────────────────────────────────────────────────┐
-      │ {{ page.id }} │ <h1>{{ page.title }}</h1>{% for i in (1..right) %}&nbsp;{% endfor %} │
-      ├──────┴──────────────────────────┬──────────────────────┬─────────────────────┤
-      │ <a class="tcd" href="/tcd">TECHNICAL COMMUNICATIONS DESK</a> &nbsp;&nbsp;│ Authored: {{ page.authored }} │ Updated: {{ page.updated }} │
+      ┌──────┬───────────────────────────────────────────────────────────────────────┐<br>
+      │ {{ page.id }} │ <h1>{{ page.title }}</h1>{% for i in (1..right) %}&nbsp;{% endfor %} │<br>
+      ├──────┴──────────────────────────┬──────────────────────┬─────────────────────┤<br>
+      │ <a class="tcd" href="/tcd">TECHNICAL COMMUNICATIONS DESK</a> &nbsp;&nbsp;│ Authored: {{ page.authored }} │ Updated: {{ page.updated }} │<br>
       └─────────────────────────────────┴──────────────────────┴─────────────────────┘
     </section>
 
