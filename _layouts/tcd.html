@@ -1,43 +1,81 @@
 <!DOCTYPE html>
 <html lang="en">
-  <style>
-    body {
-      font-family: 'TX-02', monospace;
-      font-size: 16px;
-      max-width: 80ch;
-      background-color: antiquewhite;
-      color: #333;
-    }
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+      * {
+        box-sizing: border-box;
+      }
 
-    #header {
-      text-transform: uppercase;
-      width: 81ch;
-    }
-
-    #header h1 {
-      display: inline;
-      font-size: 1em;
-      font-weight: 700;
-    }
-
-    #header .tcd {
-      font-weight: 700;
-    }
-  </style>
+      body {
+        font-family: 'TX-02', monospace;
+        font-size: 16px;
+        width: 80ch;
+        max-width: 80ch;
+        color: #333;
+        background-color: antiquewhite;
+      }
+  
+      .header {
+        text-transform: uppercase;
+        min-width: 80ch;
+      }
+  
+      .header h1, .header .tcd {
+        display: inline;
+        font-size: 1rem;
+        font-weight: 700;
+      }
+  
+      .header_row {
+        width: 100%;
+        display: flex;
+      }
+  
+      .header_row > div {
+        flex-grow: 0;
+        border-width: 0;
+        padding: 0.5em;
+        border: solid #333 1.5px;
+      }
+  
+      .header_row > div + div {
+        border-left-width: 0;
+      }
+  
+      .header_top-row > div {
+        border-bottom-width: 0;
+      }
+  
+      .header_top-row > div:last-child {
+        flex-grow: 1;
+        font-weight: bold;
+      }
+  
+      .header_bottom-row > div:first-child {
+        flex-grow: 1;
+      }
+    </style>
+  </head>
+  
 
   <body>
     <!-- https://en.wikipedia.org/wiki/Box-drawing_characters -->
     <!-- https://en.wikipedia.org/wiki/Block_Elements -->
 
     <section id="header">
-      {% assign ptl = page.title | size %}
-      {% assign right = 69 | minus: ptl %}
-
-      ┌──────┬───────────────────────────────────────────────────────────────────────┐<br>
-      │ {{ page.id }} │ <h1>{{ page.title }}</h1>{% for i in (1..right) %}&nbsp;{% endfor %} │<br>
-      ├──────┴──────────────────────────┬──────────────────────┬─────────────────────┤<br>
-      │ <a class="tcd" href="/tcd">TECHNICAL COMMUNICATIONS DESK</a> &nbsp;&nbsp;│ Authored: {{ page.authored }} │ Updated: {{ page.updated }} │<br>
-      └─────────────────────────────────┴──────────────────────┴─────────────────────┘
+      <div class="header">
+        <div class="header_row header_top-row">
+          <div>{{ page.id }}</div>
+          <div>{{ page.title }}</div>
+        </div>
+        
+        <div class="header_row header_bottom-row">
+          <div><a class="tcd" href="/tcd">TECHNICAL COMMUNICATIONS DESK</a></div>
+          <div>Authored: {{ page.authored }}</div>
+          <div>Updated: {{ page.updated }}</div>
+        </div>
+      </div>
     </section>
 
     {{ content }}
