@@ -10,8 +10,13 @@ title: The things I use
 - A [Logitech G502 Hero](https://www.logitechg.com/en-gb/products/gaming-mice/g502-hero-gaming-mouse.910-005471.html) mouse. It's a great mouse, but I'm not good enough at videogames for my mouse to have ever been the bottleneck. I do love the unlockable scroll wheel for whizzing through long web pages.
 - An [MSI Raider GE68](https://www.msi.com/Laptop/Raider-GE68-HX-13VX) gaming laptop at home. Not the cheapest way to get a decent gaming rig, but boy is it pretty. It has a lot of oomph, but it runs pretty hot.
 - [Jabra Elite 85h (discontinued)](https://www.jabra.com/supportpages/jabra-elite-85h) cans / [Anker Liberty 4 NC](https://us.soundcore.com/products/liberty-4-nc-a3947z61) ear-buds, depending on whether I'm at home or on the go. The sound quality and noise-cancelling on both are more than good enough for me, and the batteries last for ages on one charge.
-- An A5 notebook, preferably dotted. Ideally nothing so nice that I'll feel bad when I recycling it. The problem with beautiful notebooks is that you want your scribblings to be deserving. That can be stifling. I have an absolutely lovely [Galen Leather cover](https://www.galenleather.com/collections/zippered-leather-portfolio), which keeps the outside beautiful and the inside nice and disposable.
-- A black fineliner or gel ink pen. I'm not picky about the brand, so long as it doesn't scratch on the paper too much. I always wanted to be the kind of person who has a favourite pen and just stockpiles them, but I'm not there yet. I'm trying to become a fountain pen guy. I've been doing a lot of writing with a LAMY Safari, which works pretty well.
+- A5 dotted notebook. Zippered [Galen Leather cover](https://www.galenleather.com/collections/zippered-leather-portfolio), which keeps the outside beautiful and the while the inside nice and disposable. This is mostly for work stuff.
+- 3.5" by 5.5" notebooks in another Galen wrap. This is for general purpose notes and journaling. Journals get kept, notes get recycled.
+- Pens, in descending order of preference:
+  - LAMY Safari, currently with a teal Diamine ink.
+  - Kaweco Sport Brass.
+  - A black fineliner or gel ink pen. I'm not picky about the brand, so long as it doesn't scratch too much.
+  - One of the approximately ten billion random ballpoints I've accumulated over the years.
 
 ## Software
 
@@ -25,7 +30,6 @@ title: The things I use
 - [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/faq) whenever I've doing web development on a Windows machine. I spent a long time rotating through various Linux distributions, but these days I don't have the patience or skill to babysit them. And I like video games too much.
 - [CleanShot](https://cleanshot.com/) for screenshots and screen recordings. It's super easy to use and makes capturing quick gifs a breeze.
 - I have a [dotfiles repo](https://github.com/jsrn/dotfiles) to make my configuration as consistent as possible between systems.
-- [Rectangle](https://rectangleapp.com/) for arranging my windows on MacOS. I like to use the "Almost Maximise" feature to give myself a little border of desktop wallpaper. I didn't agonise over choosing pretty pictures just to hide them forever.
 - [jq](https://jqlang.github.io/jq/) and [jless](https://jless.io/) for wrangling JSON data on the command line.
 
-List too boring? Check out <a href="/inventory">the inventory</a>.
+List too boring? Check out [the inventory](/inventory).
