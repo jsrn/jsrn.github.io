@@ -7,7 +7,6 @@ Here are some pages that are important to me, have a cool design, or simply brin
 
 <div class="badge-list" style="margin-bottom: 1em;">
 <a href="https://99gifshop.neocities.org"><img src="/assets/images/badges/99-gif-store.png" alt="99 Gif Shop"></a>
-<a href="https://indieweb.org"><img src="/assets/images/badges/iwc.png" alt="IndieWeb Camp"></a>
 <a href="https://www.thefrugalgamer.net"><img src="/assets/images/badges/frugal-gamer.png" alt="The Frugal Gamer"></a>
 <a href="https://libre.town"><img src="/assets/images/badges/libretown.gif" alt="Libre Town"></a>
 <a href="https://forum.melonland.net"><img src="/assets/images/badges/melonland-forum.gif" alt="MelonLand Forum"></a>
@@ -17,6 +16,8 @@ Here are some pages that are important to me, have a cool design, or simply brin
 <a href="https://sadgrl.online"><img src="/assets/images/badges/sadgrl.gif" alt="sadgrl.online"></a>
 <a href="https://yesterweb.org"><img src="/assets/images/badges/yesterweb.png" alt="Yesterweb.org"></a>
 <a href="https://32bit.cafe"><img src="/assets/images/badges/32b.gif" alt="32-bit café"></a>
+<a href="https://starbreaker.org/"><img src="/assets/images/badges/starbreaker.avif" alt="Starbreaker"></a>
+<a href="https://indieweb.org"><img src="/assets/images/badges/iwc.png" alt="IndieWeb Camp"></a>
 </div>
 
 <div class="webrings" style="margin-bottom: 1em;">
