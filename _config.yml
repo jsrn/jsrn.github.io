@@ -1,21 +1,12 @@
 title: jsrn.net
 author: jsrn
-email: your-email@domain.com
-description: > # this means to ignore newlines until "twitter_username:"
-  I'm a software developer in the UK and I like web development and Ruby. I do most of my work with Ruby on Rails.
+email: james@jsrn.net
+description: > 
+  The personal website of a real human being.
 
 # social links
-twitter_username: zerosumjames
 github_username:  jsrn
 rss: rss
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: jekyll
-# linkedin_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: jekyll
-# googleplus_username: +jekyll
 
 # Mastodon instances
 # mastodon:
