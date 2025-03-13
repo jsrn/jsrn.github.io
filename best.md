@@ -30,6 +30,7 @@ The rules:
 <h2 id="fantasy">Books (Fantasy)</h2>
 
 1. The Lies of Locke Lamora - Scott Lynch (Rip-roaring fantasy adventure)
+1. The Farseer Trilogy - Robin Hobb
 1. The Song of Achilles - Madeleine Miller (MY HEART)
 1. Mistborn (series) - Brandon Sanderson
 1. The Emperor's Edge - Lindsay Buroker
@@ -105,13 +106,13 @@ The rules:
 1. Teh tarik
 1. Yorkshire
 1. "Tea Pigs" Darjeeling & Earl Grey
-1. Peppermint
 1. Lady Grey
-1. Camomile
 1. Assam
-1. Earl Grey
-1. Masala chai
 1. PG Tips
+1. Earl Grey
+1. Peppermint
+1. Masala chai
+1. Camomile
 
 <h2 id="woods">Woods</h2>
 
