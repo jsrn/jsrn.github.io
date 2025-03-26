@@ -154,6 +154,7 @@ These get their own section because while they each produce some very interestin
 - [textfiles.com](http://textfiles.com) - Jason Scott is a committed internet archivist.
 - [The Neglected Books Page](https://neglectedbooks.com)
 - [Uses This](https://usesthis.com) - If you're nosy like me, this is a delightful peek into people's tools and workflows.
+- [Video Game History Foundation Archive](https://archive.gamehistory.org/) - A vast archive of visual videogame history resources.
 
 ### Work beats
 
