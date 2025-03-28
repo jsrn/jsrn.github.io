@@ -155,12 +155,14 @@ img {
 .project-container {
   display: grid;
   grid-gap: 20px;
+  grid-template-columns: 1fr 1fr;
 }
 
 .project-box {
   padding: 10px;
   border-radius: 3px;
   background: #fbf8f8;
+  border: solid 1px #D1442F;
 
   > a:first-child {
     display: block;
@@ -202,8 +204,8 @@ section.link-box {
   }
 }
 
-.vt323-regular {
-  font-family: "VT323", monospace;
+.monospace {
+  font-family: 'TX-02', monospace;
   font-weight: 400;
   font-style: normal;
 }

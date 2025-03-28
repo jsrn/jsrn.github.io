@@ -27,7 +27,7 @@ layout: page
   <div class="project-container">
     {% for project in site.data.projects %}
     <div class="project-box">
-      <a href="{{ project.url }}">{{ project.name }}</a>
+      <a class="monospace" href="{{ project.url }}">{{ project.name }}</a>
       <p>{{ project.description }}</p>
       {% for tag in project.tags %}
       <code>{{ tag }}</code>
