@@ -182,22 +182,30 @@ section {
 }
 
 section.link-box {
-  font-family: monospace;
-  // width: 500px;
   max-width: calc(100vw - 20px);
+  font-size: 1.5em;
   margin: 0 auto 1em;
   background: url("/assets/images/menu/wood-bg.jpg") repeat;
-  padding: 10px;
-
+  
   > div {
-    justify-items: center;
+    row-gap: 0;
+    column-gap: 1em;
+    padding: 0 .5em;
+    justify-items: left;
+    backdrop-filter: grayscale(80%);
   }
 
   @include orange-double-border;
 
-  a:hover {
-    filter: brightness(110%);
+  a:visited {
+    color: #D1442F;
   }
+}
+
+.vt323-regular {
+  font-family: "VT323", monospace;
+  font-weight: 400;
+  font-style: normal;
 }
 
 div.badge-list {
