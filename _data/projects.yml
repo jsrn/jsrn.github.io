@@ -1,48 +1,48 @@
-- name: How old is it?
-  url: /howoldisit
-  description: You want *how* many years of experience?!
-  tags:
-    - react
-    - javascript
-    - html
-    - css
+- name: Stuff that I like
+  url: /stuffthatilike
+  description: A list of things that make me happy.
+
+- name: Taste in ten
+  url: /taste-in-ten
+  description: Ten songs that I like.
 
 - name: Pitch
   url: /pitch
   description: A collection of my magnificent ideas.
 
+- name: How old is it?
+  url: /howoldisit
+  description: You want *how* many years of experience?!
+
+- name: Internet lore
+  url: /internet-lore
+  description: A collection of stories from around the net that I found interesting.
+
 - name: Tablecloth
   url: /tablecloth
   description: A collection of recipes and cooking tips.
 
-- name: Ruby Patterns
-  url: https://rubypatterns.dev
-  description: Code and design patterns for Ruby programmers.
-  tags:
-    - ruby
-    - education
-    - patterns
+# - name: Ruby Patterns
+#   url: https://rubypatterns.dev
+#   description: Code and design patterns for Ruby programmers.
+#   tags:
+#     - ruby
+#     - education
+#     - patterns
 
-- name: Rails Test Assistant
-  url: https://github.com/jsrn/rails_test_assistant
-  description: A VSCode extension for navigating to and executing tests in a Rails application.
-  tags:
-    - ruby
-    - testing
-    - vscode
-    - javascript
-    - typescript
+# - name: Rails Test Assistant
+#   url: https://github.com/jsrn/rails_test_assistant
+#   description: A VSCode extension for navigating to and executing tests in a Rails application.
+#   tags:
+#     - ruby
+#     - testing
+#     - vscode
+#     - javascript
+#     - typescript
 
 - name: Handholding Simulator
   url: https://handholding-simulator.glitch.me
   description: For the lonely times.
-  tags:
-    - html
-    - javascript
-
-- name: Stuff that I like
-  url: /stuffthatilike
-  description: A list of things that make me happy.
 
 - name: Movie sets
   url: /moviesets
@@ -52,21 +52,13 @@
   url: /best
   description: The best things, as voted by me.
 
-- name: Internet lore
-  url: /internet-lore
-  description: A collection of stories from around the net that I found interesting.
-
 - name: Zines
   url: /zines
   description: Some awkwardly formatted zines I made.
 
-- name: sudo
-  url: /sudo
-  description: I made a terrible band with my friend Greg.
-
-- name: Taste in ten
-  url: /taste-in-ten
-  description: Ten songs that I like.
+# - name: sudo
+#   url: /sudo
+#   description: I made a terrible band with my friend Greg.
 
 - name: Universal statistics
   url: /universal_statistics
