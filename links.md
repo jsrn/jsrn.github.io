@@ -55,6 +55,12 @@ I love a personal blog, although they can be tough to define. These blogs may in
 - [V.H. Belvadi](https://vhbelvadi.com/) - Writer and photographer engaged in the history of science.
 - [xandra.cc](https://xandra.cc) - The museum of Alexandra.
 
+## Arts & culture
+
+- [Arts & Letters Daily](https://www.aldaily.com/) - philosophy, aesthetics, literature, language, trends, breakthroughs, ideas, criticism, culture, history, music, art, disputes, gossip
+- [The Neglected Books Page](https://neglectedbooks.com/) - Where forgotten books are remembered.
+- [The Public Domain Review](https://publicdomainreview.org/) - Dedicated to the exploration of curious and compelling works from the history of art, literature, and ideas.
+
 ## Mostly programming
 
 - [Accessabilly](https://accessabilly.com) -  Martin Mengele's blog about accessibility and user experience.
@@ -70,7 +76,6 @@ I love a personal blog, although they can be tough to define. These blogs may in
 - [Code with Jason](https://www.codewithjason.com) - Blogs, mostly about programming, Ruby, and Rails.
 - [Collin Donnell](https://collindonnell.com)
 - [CSS-Tricks](https://css-tricks.com)
-- [David Peach](https://blog.davidpeach.me) - Laravel & neovim.
 - [dnsmichi.at](https://dnsmichi.at)
 - [esparta.co](https://esparta.co)
 - [Erica Sadun](https://ericasadun.com)
