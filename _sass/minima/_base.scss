@@ -142,11 +142,9 @@ a {
  * Blockquotes
  */
 blockquote {
-  color: #333;
-  border-left: 4px solid #666;
+  color: hsla(122, 64, 10, .7);
+  border-left: 8px groove hsla(122, 64, 10, .7);
   padding-left: $spacing-unit / 2;
-  @include relative-font-size(1.125);
-  letter-spacing: -1px;
   font-style: italic;
 
   > :last-child {

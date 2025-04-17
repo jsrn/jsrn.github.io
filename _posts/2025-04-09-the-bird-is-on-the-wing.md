@@ -4,11 +4,15 @@ title: The bird is on the wing
 description: I got really into the story of The Rubáiyát of Omar Khayyám as translated by Edward Fitzgerald when I read about it in Emma Park's article in issue 80 of Idler.
 ---
 
-> "Come, fill the Cup, and in the fire of Spring  \
-> Your Winter-garment of Repentance fling:  \
-> The Bird of Time has but a little way  \
-> To flutter—and the Bird is on the Wing."  \
-> ~ VII, The Rubáiyát of Omar Khayyám, translated by Edward Fitzgerald
+<figure>
+ <blockquote>
+  Come, fill the Cup, and in the fire of Spring<br>
+  Your Winter-garment of Repentance fling:<br>
+  The Bird of Time has but a little way<br>
+  To flutter—and the Bird is on the Wing.
+ </blockquote>
+ <figcaption>VII, <cite>The Rubáiyát of Omar Khayyám, translated by Edward Fitzgerald</cite></figcaption>
+</figure>
 
 <figure>
   <img src="/assets/images/rubaiyat.webp" alt="Edmund J Sullivan Illustrations to The Rubáiyát of Omar Khayyám">
