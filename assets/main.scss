@@ -204,10 +204,18 @@ section.link-box {
   }
 }
 
+.baskerville {
+  font-family: "Libre Baskerville", Georgia, serif;
+}
+
 .monospace {
-  font-family: 'TX-02', monospace;
+  @include monospace;
   font-weight: 400;
   font-style: normal;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  @include monospace;
 }
 
 div.badge-list {

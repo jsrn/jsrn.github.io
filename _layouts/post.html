@@ -2,25 +2,30 @@
 layout: default
 ---
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
-  <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
-  <p class="post-meta">
+  <h1 class="post-title p-name monospace" style="font-weight: 700;" itemprop="name headline">{{ page.title | escape }}</h1>
 
-  {%- if page.category != "monthnotes" -%}
-  <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-    {{ page.date | date: date_format }}
-  </time>
-
-    {%- if page.updated -%}
-      <i>(Updated {{ page.updated }})</i>
-    {%- endif -%}
-  {%- endif -%}
-
-  <div class="post-content e-content" itemprop="articleBody">
+  <div class="post-content e-content baskerville" itemprop="articleBody">
     {{ content }}
   </div>
 
-  <span><img src="/assets/images/icon32.png" alt=""></span>
+  <span>
+    <img src="/assets/images/icon32.png" alt="">
+
+    {%- if page.category != "monthnotes" -%}
+      &nbsp;
+
+      <small>
+        <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+          {{ page.date | date: date_format }}
+        </time>
+
+        {%- if page.updated -%}
+          <i>(Updated {{ page.updated }})</i>
+        {%- endif -%}
+      </small>
+    {%- endif -%}
+  </span>
 
   <div class="post-content e-content" itemprop="articleBody" style="margin-top: 1em; margin-bottom: 0;">
     <small>Respond to this post <a href="mailto:james@jsrn.net?subject=Re: {{ page.title | escape }}">via e-mail</a></small>
