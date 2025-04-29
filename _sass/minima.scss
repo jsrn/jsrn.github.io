@@ -52,6 +52,10 @@ $jorange: #D1442F;
   border-radius: 2px;
 }
 
+@mixin sans-serif {
+  font-family: "Montserrat", sans-serif;
+}
+
 @mixin monospace {
   font-family: monospace;
 }
