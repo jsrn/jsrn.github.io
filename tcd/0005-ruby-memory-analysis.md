@@ -1,12 +1,15 @@
 ---
 layout: tcd
 id: "0005"
-title: Sidekiq memory analysis
+title: Ruby memory analysis
 authored: "2025-06-12"
 updated:  "XXXX-XX-XX"
 ---
 
-It is natural to want to profile the consumption of memory Sidekiq workers. This communication describes techniques for doing so on a MacOS system.
+It is natural to want to profile the memory consumption of Ruby code. This communication describes techniques for doing so on a MacOS system.
+
+* Do not remove this line (it will not be displayed)
+{:toc}
 
 ## Construction of a suitable harness
 
@@ -185,4 +188,38 @@ Retained String Report
          1  lib/ruby/gems/3.3.0/gems/listen-3.7.1/lib/listen/record/entry.rb:26
 ```
 
-`SecureRandom.hex` produces a 32 byte string.
+### "Allocated" vs. "retained" memory
+
+```plain
+allocated memory by class
+-----------------------------------
+ 160016068  String
+
+retained memory by class
+-----------------------------------
+      2040  String
+```
+
+The String class has allocated a lot of memory, but almost all of it was reclaimed. Let's update our example script to extend the lifetime of our array beyond the profiled block.
+
+```ruby
+arr = []
+
+MemoryProfiler.report do
+  1_000_000.times do
+    arr << SecureRandom.hex
+  end
+end.pretty_print(detailed_report: true)
+```
+
+```plain
+allocated memory by class
+-----------------------------------
+ 160015868  String
+
+retained memory by class
+-----------------------------------
+  80002560  String
+```
+
+Now that there are references to those strings outside of the profiled block, they were not able to be collected by the time profiling ended. They are now marked as **retained memory**. This is useful for spotting memory leaks.
