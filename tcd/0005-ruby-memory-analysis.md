@@ -3,7 +3,7 @@ layout: tcd
 id: "0005"
 title: Ruby memory analysis
 authored: "2025-06-12"
-updated:  "XXXX-XX-XX"
+updated:  "2025-06-13"
 ---
 
 It is natural to want to profile the memory consumption of Ruby code. This communication describes techniques for doing so on a MacOS system.
@@ -22,6 +22,8 @@ arr = []
   arr << SecureRandom.hex
 end
 ```
+
+Having saved this to `script.rb` you can execute it within the context of your booted Rails application with `rails runner script.rb`.
 
 ## Using `time -l`
 
