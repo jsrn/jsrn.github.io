@@ -107,6 +107,7 @@ The rules:
 1. Frying onions
 1. Nail polish remover
 1. Fresh bread
+1. Petrol stations
 1. Coffee beans
 1. The lumber section of a DIY store
 
