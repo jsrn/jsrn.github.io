@@ -48,6 +48,15 @@ The rules:
 <h2 id="non-fiction">Books (Non-fiction)</h2>
 
 1. Deep Work - Cal Newport (another 'right book at the right time' for me)
+1. Things Become Other Things - Craig Mod
+1. Bad Blood - John Carreyrou (a classic in the tech hype dumpster dire genre)
+1. The Anarchy - William Dalrymple
+1. The Wager - David Grann
+1. A Short History Of Nearly Everything - Bill Bryson
+1. All the Beauty In The World - Patrick Bringley
+1. The 7 Habits Of Highly Effective People - Stephen Covey
+1. Surely You're Joking, Mr. Feynman - Richard Feynman
+1. Critical Lives: Johann Wolfgang Von Goethe - Jeremy Adler
 
 <h2 id="science-fiction">Books (Science Fiction)</h2>
 
@@ -109,11 +118,13 @@ The rules:
 1. Fresh bread
 1. Petrol stations
 1. Coffee beans
-1. The lumber section of a DIY store
+1. The wood section of a DIY store
 
 <h2 id="spiders">Spiders</h2>
 
+1. Those cute little jumping spiders
 1. European garden spider
+1. Money spider
 
 <h2 id="teas">Teas</h2>
 
