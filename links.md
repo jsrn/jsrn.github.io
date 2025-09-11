@@ -164,9 +164,10 @@ These get their own section because while they each produce some very interestin
 
 ### Work beats
 
-- [lofi air traffic control](https://www.lofiatc.com/?icao=RJAA) (currently down)
+- [lofi air traffic control](https://www.lofiatc.com/?icao=RJAA) - ATC feed over lofi beats (currently down)
+- [Nightwave Plaza](https://plaza.one) - 24/7 vaporwave radio station
+- [Rainwave](https://rainwave.cc/all/#!/) - VG/chiptune/remix radio
 - [Watering a flower Haruomi Hosono 1984 cassette (花に水)](https://www.youtube.com/watch?v=34UutDrXV2Q)
-- [Nightwave Plaza](https://plaza.one) - A 24/7 vaporwave radio station.
 
 ---
 
