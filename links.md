@@ -37,6 +37,7 @@ Some of these are sites I visit often, some are people I interacted with once or
 ## Comics
 
 - [MonkeyUser](https://www.monkeyuser.com) - Comics about the joy of working in tech.
+- [Sable: A Ghost Story](https://sablecomic.com)
 - [xkcd](https://xkcd.com) - A webcomic of romance, sarcasm, math, and language.
 
 ## Mostly personal
