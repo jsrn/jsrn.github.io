@@ -13,3 +13,5 @@ WELCOME TO THE OFFICE OF TECHNICAL COMMUNICATIONS.
 3. [RUBY MYTHS](0003-ruby-myths)
 4. [USE FZF FOR GREAT CHECKOUTS](0004-use-fzf-for-great-checkouts)
 5. [RUBY MEMORY ANALYSIS](0005-ruby-memory-analysis)
+6. [POSTGRES CASTING GOTCHA](0006-postgres-casting-gotcha)
+
