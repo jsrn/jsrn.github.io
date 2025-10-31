@@ -43,4 +43,4 @@ ActiveRecord::StatementInvalid:
 LINE 4: project_id = integration_keys.project_id
 ```
 
-This is because Postgres will cast a lone NULL in a CTR to a string. It WILL infer the type of the column if you have multiple sets of values with valid data from which to infer type. Otherwise, you need to cast the value yourself, like `NULL::bigint`.
+This is because Postgres will cast a lone NULL in a CTE to a string. It WILL infer the type of the column if you have multiple sets of values with valid data from which to infer type. Otherwise, you need to cast the value yourself, like `NULL::bigint`.

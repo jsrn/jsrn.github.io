@@ -26,6 +26,7 @@ The rules:
 - [Spiders](#spiders)
 - [Teas](#teas)
 - [Woods](#woods)
+- [Videogame soundtrack composers](#videogame-soundtrack-composers)
 - [Zombie movies](#zombie-movies)
 
 <h2 id="fantasy">Books (Fantasy)</h2>
@@ -144,6 +145,13 @@ The rules:
 1. Black walnut
 1. Balsa wood
 1. Teak
+
+<h2 id="videogame-soundtrack-composers">Videogame soundtrack composers</h2>
+
+1. Nobuo Uematsu (Final Fantasy)
+1. Carlos Viola (Blasphemous)
+1. Darren Korb (Supergiant Games)
+1. Lena Raine (Celeste, Minecraft)
 
 <h2 id="zombie-movies">Zombie Movies</h2>
 
