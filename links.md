@@ -61,6 +61,7 @@ I love a personal blog, although they can be tough to define. These blogs may in
 - [Arts & Letters Daily](https://www.aldaily.com/) - philosophy, aesthetics, literature, language, trends, breakthroughs, ideas, criticism, culture, history, music, art, disputes, gossip
 - [The Neglected Books Page](https://neglectedbooks.com/) - Where forgotten books are remembered.
 - [The Public Domain Review](https://publicdomainreview.org/) - Dedicated to the exploration of curious and compelling works from the history of art, literature, and ideas.
+- [stickertop.art](https://stickertop.art) - "Discover a unique collection of laptops adorned with creative stickers from around the world."
 
 ## Mostly tech
 
