@@ -62,7 +62,7 @@ I love a personal blog, although they can be tough to define. These blogs may in
 - [The Neglected Books Page](https://neglectedbooks.com/) - Where forgotten books are remembered.
 - [The Public Domain Review](https://publicdomainreview.org/) - Dedicated to the exploration of curious and compelling works from the history of art, literature, and ideas.
 
-## Mostly programming
+## Mostly tech
 
 - [Accessabilly](https://accessabilly.com) -  Martin Mengele's blog about accessibility and user experience.
 - [Addy Osmani](https://addyosmani.com) - Software Engineer and leader currently working on the Google Chrome web browser.
@@ -119,6 +119,43 @@ I love a personal blog, although they can be tough to define. These blogs may in
 - [Tyler Cipriani](https://tylercipriani.com)
 - [wasabigeek](https://wasabigeek.com)
 
+### Videogame related
+
+- [Boatmurdered](https://lparchive.org/Dwarf-Fortress-Boatmurdered/Introduction/) - A Dwarf Fortress Let's Play that's well worth reading.
+- [Death Generator](https://deathgenerator.com) - Generate dialogue/death screens from classic videogames.
+- [noclip.website](https://noclip.website/) - Render and explore maps from classic videogames.
+- [Video Game History Foundation Archive](https://archive.gamehistory.org/) - A vast archive of visual videogame history resources.
+
+### Other interesting things & people
+
+- [brr.fyi](https://brr.fyi) - An incredibly interesting blog by someone at an antarctic research site.
+- [Cal Newport](https://calnewport.com) - Author of books including _Deep Work_ and _A World Without E-mail_.
+- [Daring Fireball](https://daringfireball.net) - Consistently thoughtful opinions about technology by the person who brought us Markdown.
+- [heronebag.com](https://heronebag.com) - One-bag travel and digital nomadding.
+- [kottke.org](http://kottke.org) - Home of fine hypertext products. One of the best blogs around in terms of how consistently varied and interesting it is.
+- [Low Tech Directory](https://emreed.net/LowTech_Directory)
+- [Marc Littlemore](https://www.marclittlemore.com)
+- [Minutes to Midnight](https://minutestomidnight.co.uk)
+- [Mythic Computer Co.](https://www.mythic.computer/) - Mythic Computer Co. is a one-man atelier. He makes beautiful, serene computers by hand.
+- [Osric University](https://osric.com/university/index.html)
+- [Protean Magazine](https://proteanmag.com)
+- [sadgrl.online](https://sadgrl.online)
+- [sondering heights](https://buttondown.email/sondering)
+- [starbreaker.org](https://starbreaker.org)
+- [Suricrasia Online](https://suricrasia.online/) - Suricrasia Online is a Toronto-based ISP staffed entirely by anthropomorphic sharks in maid outfits.
+- [RavensBlight](http://ravensblight.com/) - All things <span style="text-shadow: 0 5px 5px darkred, 0 2.5px 2.5px red;">spooky</span> (why is there no web-safe version of the Chiller font?).
+- [Ted's Caving Page](https://www.angelfire.com/trek/caver/) - An oldie but a goodie. A creepy story from before "creepypasta" was a word (probably, I didn't fact check this statement).
+- [textfiles.com](http://textfiles.com) - Jason Scott is a committed internet archivist.
+- [Uses This](https://usesthis.com) - If you're nosy like me, this is a delightful peek into people's tools and workflows.
+- [Winamp Skin Museum](https://skins.webamp.org) - An archive of Winamp skins.
+
+### Work beats
+
+- [lofi air traffic control](https://www.lofiatc.com/?icao=RJAA) - ATC feed over lofi beats (currently down)
+- [Nightwave Plaza](https://plaza.one) - 24/7 vaporwave radio station
+- [Rainwave](https://rainwave.cc/all/#!/) - VG/chiptune/remix radio
+- [Watering a flower Haruomi Hosono 1984 cassette (花に水)](https://www.youtube.com/watch?v=34UutDrXV2Q)
+
 ### Company engineering blogs
 
 These get their own section because while they each produce some very interesting stuff, you might not care about the specific technical challenges these companies face.
@@ -135,40 +172,6 @@ These get their own section because while they each produce some very interestin
 - [thoughtbot](https://thoughtbot.com/blog)
 - [The Guardian](https://www.theguardian.com/info/series/engineering-blog)
 - [tumblr](http://engineering.tumblr.com)
-
-### Other interesting things & people
-
-- [Boatmurdered](https://lparchive.org/Dwarf-Fortress-Boatmurdered/Introduction/) - A Dwarf Fortress Let's Play that's well worth reading.
-- [brr.fyi](https://brr.fyi) - An incredibly interesting blog by someone at an antarctic research site.
-- [Cal Newport](https://calnewport.com) - Author of books including _Deep Work_ and _A World Without E-mail_.
-- [Daring Fireball](https://daringfireball.net) - Consistently thoughtful opinions about technology by the person who brought us Markdown.
-- [Death Generator](https://deathgenerator.com) - Generate dialogue/death screens from classic videogames.
-- [heronebag.com](https://heronebag.com) - One-bag travel and digital nomadding.
-- [kottke.org](http://kottke.org) - Home of fine hypertext products. One of the best blogs around in terms of how consistently varied and interesting it is.
-- [Low Tech Directory](https://emreed.net/LowTech_Directory)
-- [Marc Littlemore](https://www.marclittlemore.com)
-- [Minutes to Midnight](https://minutestomidnight.co.uk)
-- [Mythic Computer Co.](https://www.mythic.computer/) - Mythic Computer Co. is a one-man atelier. He makes beautiful, serene computers by hand.
-- [Osric University](https://osric.com/university/index.html)
-- [Protean Magazine](https://proteanmag.com)
-- [sadgrl.online](https://sadgrl.online)
-- [sondering heights](https://buttondown.email/sondering)
-- [starbreaker.org](https://starbreaker.org)
-- [Suricrasia Online](https://suricrasia.online/) - Suricrasia Online is a Toronto-based ISP staffed entirely by anthropomorphic sharks in maid outfits.
-- [RavensBlight](http://ravensblight.com/) - All things <span style="text-shadow: 0 5px 5px darkred, 0 2.5px 2.5px red;">spooky</span> (why is there no web-safe version of the Chiller font?).
-- [Ted's Caving Page](https://www.angelfire.com/trek/caver/) - An oldie but a goodie. A creepy story from before "creepypasta" was a word.
-- [textfiles.com](http://textfiles.com) - Jason Scott is a committed internet archivist.
-- [The Neglected Books Page](https://neglectedbooks.com)
-- [Uses This](https://usesthis.com) - If you're nosy like me, this is a delightful peek into people's tools and workflows.
-- [Video Game History Foundation Archive](https://archive.gamehistory.org/) - A vast archive of visual videogame history resources.
-- [Winamp Skin Museum](https://skins.webamp.org) - An archive of Winamp skins.
-
-### Work beats
-
-- [lofi air traffic control](https://www.lofiatc.com/?icao=RJAA) - ATC feed over lofi beats (currently down)
-- [Nightwave Plaza](https://plaza.one) - 24/7 vaporwave radio station
-- [Rainwave](https://rainwave.cc/all/#!/) - VG/chiptune/remix radio
-- [Watering a flower Haruomi Hosono 1984 cassette (花に水)](https://www.youtube.com/watch?v=34UutDrXV2Q)
 
 ---
 
