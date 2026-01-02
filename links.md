@@ -117,6 +117,7 @@ I love a personal blog, although they can be tough to define. These blogs may in
 - [Tim Riley](https://timriley.info)
 - [The Code Gardener](https://the.codegardener.com)
 - [Tyler Cipriani](https://tylercipriani.com)
+- [Unplatform](https://unplatform.fromthesuperhighway.com) - "The definitive guide for escaping social media (and joining the indie web.)"
 - [wasabigeek](https://wasabigeek.com)
 
 ### Videogame related
