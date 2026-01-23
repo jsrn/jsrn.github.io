@@ -33,10 +33,13 @@ Themed sets of movies for movie nights.
 
 [The Happiness of the Katakuris](https://www.imdb.com/title/tt0304262/) & [Gozu](https://www.imdb.com/title/tt0361668/) & [Survive Style 5+](https://www.imdb.com/title/tt0430651/)
 
-
 ### "Now What?"
 
 [Locke](https://www.imdb.com/title/tt2692904/) & [Boiling Point](https://www.imdb.com/title/tt11127680/) & [Uncut Gems](https://www.imdb.com/title/tt5727208/) & [Deep Rising](https://www.imdb.com/title/tt0118956/)
+
+### Feelings in Japan
+
+[Departures](https://letterboxd.com/film/departures/) & [Perfect Days](https://letterboxd.com/film/perfect-days-2023) & [Rental Family](https://letterboxd.com/film/rental-family-2025)
 
 {% comment %}
 ### Senses set
