@@ -127,12 +127,14 @@ I love a personal blog, although they can be tough to define. These blogs may in
 - [Death Generator](https://deathgenerator.com) - Generate dialogue/death screens from classic videogames.
 - [noclip.website](https://noclip.website/) - Render and explore maps from classic videogames.
 - [Video Game History Foundation Archive](https://archive.gamehistory.org/) - A vast archive of visual videogame history resources.
+- [The Video Game Soda Machine Project](https://vgsmproject.com/) - An obsessive catalog of vending machines that appear in video games.
 
 ### Other interesting things & people
 
 - [brr.fyi](https://brr.fyi) - An incredibly interesting blog by someone at an antarctic research site.
 - [Cal Newport](https://calnewport.com) - Author of books including _Deep Work_ and _A World Without E-mail_.
 - [Daring Fireball](https://daringfireball.net) - Consistently thoughtful opinions about technology by the person who brought us Markdown.
+- [David Rumsey Map Collection](https://www.davidrumsey.com/) - "For David Rumsey, maps constitute the fabric of memory. They carry images of boundless worlds and the people who live there — past, present, and even the future."
 - [heronebag.com](https://heronebag.com) - One-bag travel and digital nomadding.
 - [kottke.org](http://kottke.org) - Home of fine hypertext products. One of the best blogs around in terms of how consistently varied and interesting it is.
 - [Low Tech Directory](https://emreed.net/LowTech_Directory)
