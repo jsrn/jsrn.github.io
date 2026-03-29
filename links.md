@@ -124,6 +124,7 @@ I love a personal blog, although they can be tough to define. These blogs may in
 ### Videogame related
 
 - [Boatmurdered](https://lparchive.org/Dwarf-Fortress-Boatmurdered/Introduction/) - A Dwarf Fortress Let's Play that's well worth reading.
+- [Tapercraft Cassette Label Maker](https://vhs.texs.org/) - A generator for VHS slipcovers, cassette tape inserts, CD labels & inserts.
 - [Death Generator](https://deathgenerator.com) - Generate dialogue/death screens from classic videogames.
 - [noclip.website](https://noclip.website/) - Render and explore maps from classic videogames.
 - [Video Game History Foundation Archive](https://archive.gamehistory.org/) - A vast archive of visual videogame history resources.
