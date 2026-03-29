@@ -84,7 +84,7 @@ I love a personal blog, although they can be tough to define. These blogs may in
 - [Faraaz's Blog](https://faraazahmad.github.io)
 - [furbo.org](https://furbo.org)
 - [Go Make Things](https://gomakethings.com/) - Advocate for simple, resilient JavaScript programming that works for everybody.
-- [House of van Schneider](https://vanschneider.com)
+- [House of van Schneider](https://vanschneider.com) - Portfolio page of a designer. Interesting blog.
 - [inessential](https://inessential.com)
 - [interblah.net](https://interblah.net/)
 - [Julia Evans](https://jvns.ca) - Maker of excellent and informative zines and blog posts.
