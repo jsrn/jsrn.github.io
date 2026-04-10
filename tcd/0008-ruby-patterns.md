@@ -9,6 +9,23 @@ updated:  "XXXX-XX-XX"
 "Homo sapiens is about pattern recognition, he says. Both a gift and a trap."  \
 ~ Pattern Recognition, William Gibson
 
+- [General patterns](#general-patterns)
+  - [Collecting parameter](#collecting-parameter)
+  - [Null Object](#null-object)
+  - [Pluggable Object](#pluggable-object)
+  - [Pluggable Selector](#pluggable-selector)
+- [Behavioural patterns](#behavioural-patterns)
+  - [Command](#command)
+  - [Double Dispatch](#double-dispatch)
+  - [State](#state)
+  - [Template Method](#template-method)
+- [Structural patterns](#structural-patterns)
+  - [Adapter](#adapter)
+  - [Composite](#composite)
+- [Testing patterns](#testing-patterns)
+  - [Crash Test Dummy](#crash-test-dummy)
+  - [Self Shunt](#self-shunt)
+
 ## General patterns
 
 ### Collecting parameter
