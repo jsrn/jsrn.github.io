@@ -15,3 +15,4 @@ WELCOME TO THE OFFICE OF TECHNICAL COMMUNICATIONS.
 5. [RUBY MEMORY ANALYSIS](0005-ruby-memory-analysis)
 6. [POSTGRES CASTING GOTCHA](0006-postgres-casting-gotcha)
 7. [RIPGREP CHEAT SHEET](0007-ripgrep-cheat-sheet)
+8. [RUBY PATTERNS](0008-ruby-patterns)
