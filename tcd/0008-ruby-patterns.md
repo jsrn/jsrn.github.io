@@ -94,7 +94,7 @@ end
 
 #### What?
 
-Replace conditional checks for `nil` with an object that returns default data or `nil`.
+Replace conditional checks for `nil` with an object that returns a sensible default.
 
 #### Why?
 
@@ -407,7 +407,7 @@ class WordDoc
     # ...
   end
 
-  def render_bar_chart(line_graph)
+  def render_bar_chart(bar_chart)
     # ...
   end
 end
@@ -417,7 +417,7 @@ class Website
     # ...
   end
 
-  def render_bar_chart(line_graph)
+  def render_bar_chart(bar_chart)
     # ...
   end
 end
