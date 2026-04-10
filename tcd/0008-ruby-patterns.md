@@ -11,20 +11,20 @@ updated:  "XXXX-XX-XX"
 
 - [General patterns](#general-patterns)
   - [Collecting parameter](#collecting-parameter)
-  - [Null Object](#null-object)
-  - [Pluggable Object](#pluggable-object)
-  - [Pluggable Selector](#pluggable-selector)
+  - [Null object](#null-object)
+  - [Pluggable object](#pluggable-object)
+  - [Pluggable selector](#pluggable-selector)
 - [Behavioural patterns](#behavioural-patterns)
   - [Command](#command)
-  - [Double Dispatch](#double-dispatch)
+  - [Double dispatch](#double-dispatch)
   - [State](#state)
-  - [Template Method](#template-method)
+  - [Template method](#template-method)
 - [Structural patterns](#structural-patterns)
   - [Adapter](#adapter)
   - [Composite](#composite)
 - [Testing patterns](#testing-patterns)
-  - [Crash Test Dummy](#crash-test-dummy)
-  - [Self Shunt](#self-shunt)
+  - [Crash test dummy](#crash-test-dummy)
+  - [Self shunt](#self-shunt)
 
 ## General patterns
 
@@ -90,7 +90,7 @@ class ScienceExperimentWithCollectingParameter
 end
 ```
 
-### Null Object
+### Null object
 
 #### What?
 
@@ -158,7 +158,7 @@ In fact, our helper method is now so simple that there is a strong argument for 
 </div>
 ```
 
-### Pluggable Object
+### Pluggable object
 
 #### What?
 
@@ -222,7 +222,7 @@ class Driver
 end
 ```
 
-### Pluggable Selector
+### Pluggable selector
 
 #### What?
 
@@ -326,7 +326,7 @@ class GreetUserCommand < Command
 end
 ```
 
-### Double Dispatch
+### Double dispatch
 
 #### What?
 
@@ -463,7 +463,7 @@ class TCPOpen
 end
 ```
 
-### Template Method
+### Template method
 
 #### What?
 
@@ -700,7 +700,7 @@ Our client can now call `size` on any object in the above structure without rega
 
 ## Testing patterns
 
-### Crash Test Dummy
+### Crash test dummy
 
 #### What?
 
@@ -750,7 +750,7 @@ RSpec.describe ApiConsumer do
 end
 ```
 
-### Self Shunt
+### Self shunt
 
 The Self Shunt Pattern allows us to turn our test class itself into the mock object we pass to our object under test.
 
