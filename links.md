@@ -18,6 +18,7 @@ Here are some pages that are important to me, have a cool design, or simply brin
 <a href="https://32bit.cafe"><img src="/assets/images/badges/32b.gif" alt="32-bit café"></a>
 <a href="https://starbreaker.org/"><img src="/assets/images/badges/starbreaker.avif" alt="Starbreaker"></a>
 <a href="https://indieweb.org"><img src="/assets/images/badges/iwc.png" alt="IndieWeb Camp"></a>
+<a href="https://benovermyer.com"><img src="/assets/images/badges/benovermyer.gif" alt="Ben Overmyer"></a>
 </div>
 
 <div class="webrings" style="margin-bottom: 1em;">
