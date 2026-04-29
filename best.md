@@ -19,9 +19,11 @@ The rules:
 - [Books (Non-fiction)](#non-fiction)
 - [Books (Science Fiction)](#science-fiction)
 - [Cheeses](#cheeses)
+- [Cocktails](#cocktails)
 - [Dunkable biscuits](#dunkable-biscuits)
 - [Final Fantasies](#final-fantasies)
 - [Flowers](#flowers)
+- [Notebooks](#notebooks)
 - [Smells](#smells)
 - [Spiders](#spiders)
 - [Teas](#teas)
@@ -33,8 +35,8 @@ The rules:
 
 1. The Lies of Locke Lamora - Scott Lynch (Rip-roaring fantasy adventure)
 1. The Farseer Trilogy - Robin Hobb
-1. The Song of Achilles - Madeleine Miller (MY HEART)
 1. Mistborn (series) - Brandon Sanderson
+1. The Song of Achilles - Madeleine Miller (MY HEART)
 1. The Emperor's Edge - Lindsay Buroker
 1. Magician - Raymond Feist (dunno if it's that good, but it was the right book at the right time, and sent me down a long path of reading most of the series)
 
@@ -75,6 +77,11 @@ The rules:
 1. Goats cheese
 1. Wensleydale
 
+<h2 id="cocktails">Cocktails</h2>
+
+1. Grasshopper
+1. Old fashioned
+
 <h2 id="dunkable-biscuits">Dunkable biscuits</h2>
 
 1. Tea biscuits (Botham's of Whitby)
@@ -94,11 +101,11 @@ The rules:
 1. VI (six)
 1. VII (seven)
 1. XV (fifteen)
-1. XIII-2 (thirteen two)
-1. IV (four)
 1. X (ten)
+1. IV (four)
+1. XVI (sixteen)
+1. XIII-2 (thirteen two)
 1. XIII (thirteen)
-1. XII (twelve)
 
 <h2 id="flowers">Flowers</h2>
 
@@ -109,6 +116,11 @@ The rules:
 1. Sunflowers
 1. Tulip
 1. Bluebell
+
+<h2 id="notebooks">Notebooks</h2>
+
+1. Midori
+1. Fieldnotes
 
 <h2 id="smells">Smells</h2>
 
