@@ -2,7 +2,6 @@
 layout: post
 title: Things AI shouldn't do
 description: A non-exhaustive list of things AI shouldn't do for me.
-category: weeknotes
 ---
 
 Don't tell me what I'm doing today. I know where my calendar is, and I can figure out what's important. I like figuring out what's important. It's part of the process.
