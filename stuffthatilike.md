@@ -11,15 +11,17 @@ description: There's plenty to be grateful for.
 <span class='thing-i-like'>animals trying not to fall asleep</span> &bull;
 <span class='thing-i-like'>anything with carbohydrates</span> &bull;
 <span class='thing-i-like'>apples</span> &bull;
+<span class='thing-i-like'>art galleries</span> &bull;
 <span class='thing-i-like'>attention to detail</span> &bull;
 <span class='thing-i-like'>bananas</span> &bull;
-<span class='thing-i-like'>bees (not wasps)</span> &bull;
+<span class='thing-i-like'>bees</span> &bull;
 <span class='thing-i-like'>being inside when it's raining</span> &bull;
 <span class='thing-i-like'>being outside when it's snowing</span> &bull;
 <span class='thing-i-like'>binge-watching tv</span> &bull;
 <span class='thing-i-like'>bird feeders</span> &bull;
 <span class='thing-i-like'>birds</span> &bull;
 <span class='thing-i-like'>blogs</span> &bull;
+<span class='thing-i-like'>boardgames</span> &bull;
 <span class='thing-i-like'>boats</span> &bull;
 <span class='thing-i-like'>books</span> &bull;
 <span class='thing-i-like'>burritos</span> &bull;
@@ -29,6 +31,7 @@ description: There's plenty to be grateful for.
 <span class='thing-i-like'>clean code</span> &bull;
 <span class='thing-i-like'>clothes from the radiator</span> &bull;
 <span class='thing-i-like'>coach trips</span> &bull;
+<span class='thing-i-like'>cobblestones</span> &bull;
 <span class='thing-i-like'>cocktails</span> &bull;
 <span class='thing-i-like'>coffee</span> &bull;
 <span class='thing-i-like'>cold showers on hot days</span> &bull;
@@ -38,6 +41,7 @@ description: There's plenty to be grateful for.
 <span class='thing-i-like'>dark souls</span> &bull;
 <span class='thing-i-like'>dogs</span> &bull;
 <span class='thing-i-like'>drawing</span> &bull;
+<span class='thing-i-like'>dungeon synth</span> &bull;
 <span class='thing-i-like'>electricity</span> &bull;
 <span class='thing-i-like'>encryption</span> &bull;
 <span class='thing-i-like'>family</span> &bull;
@@ -61,6 +65,7 @@ description: There's plenty to be grateful for.
 <span class='thing-i-like'>html</span> &bull;
 <span class='thing-i-like'>hugs</span> &bull;
 <span class='thing-i-like'>human rights</span> &bull;
+<span class='thing-i-like'>idling</span> &bull;
 <span class='thing-i-like'>infrastructure</span> &bull;
 <span class='thing-i-like'>instagram famous rabbits</span> &bull;
 <span class='thing-i-like'>international mail</span> &bull;
@@ -76,6 +81,7 @@ description: There's plenty to be grateful for.
 <span class='thing-i-like'>moonlit clouds</span> &bull;
 <span class='thing-i-like'>mushrooms (eating)</span> &bull;
 <span class='thing-i-like'>mushrooms (looking at)</span> &bull;
+<span class='thing-i-like'>museums</span> &bull;
 <span class='thing-i-like'>music</span> &bull;
 <span class='thing-i-like'>my wife</span> &bull;
 <span class='thing-i-like'>mythology</span> &bull;
@@ -84,6 +90,7 @@ description: There's plenty to be grateful for.
 <span class='thing-i-like'>not having responsibilities</span> &bull;
 <span class='thing-i-like'>oranges</span> &bull;
 <span class='thing-i-like'>packed lunches</span> &bull;
+<span class='thing-i-like'>pastels</span> &bull;
 <span class='thing-i-like'>pens</span> &bull;
 <span class='thing-i-like'>people talking about things they love</span> &bull;
 <span class='thing-i-like'>pigeons</span> &bull;
@@ -93,6 +100,7 @@ description: There's plenty to be grateful for.
 <span class='thing-i-like'>podcasts</span> &bull;
 <span class='thing-i-like'>print media</span> &bull;
 <span class='thing-i-like'>programming</span> &bull;
+<span class='thing-i-like'>punk</span> &bull;
 <span class='thing-i-like'>puns</span> &bull;
 <span class='thing-i-like'>quorn</span> &bull;
 <span class='thing-i-like'>rabbits</span> &bull;
