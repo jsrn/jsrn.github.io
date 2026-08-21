@@ -33,9 +33,9 @@ The rules:
 
 <h2 id="fantasy">Books (Fantasy)</h2>
 
-1. The Lies of Locke Lamora - Scott Lynch (Rip-roaring fantasy adventure)
-1. The Farseer Trilogy - Robin Hobb
-1. Mistborn (series) - Brandon Sanderson
+1. Realm of the Elderlings (series, begins with Assassin's Apprentice) - Robin Hobb
+1. Gentleman Bastard (series, begins with The Lies of Locke Lamora) - Scott Lynch (Rip-roaring fantasy adventure)
+1. Mistborn (series, begins with The Final Empire) - Brandon Sanderson
 1. The Song of Achilles - Madeleine Miller (MY HEART)
 1. The Emperor's Edge - Lindsay Buroker
 1. Magician - Raymond Feist (dunno if it's that good, but it was the right book at the right time, and sent me down a long path of reading most of the series)
