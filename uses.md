@@ -6,7 +6,8 @@ title: The things I use
 ## Hardware
 
 - 16" [MacBook Pro](https://www.apple.com/uk/shop/buy-mac/macbook-pro). It has an M2 chip. I like it a lot, but it's a company machine, not mine.
-- A 104 key [WASD V2](https://www.wasdkeyboards.com/products/mechanical-keyboards.html) with MX Blues. It's big and clacky and I love it. It's a pretty thick keyboard, so I asked someone selling chopping boards at a local market to make me a wrist rest out of black walnut, [the best wood](/best). In the almost ten years I've had this keyboard I've used the numpad maybe half a dozen times, so my next keyboard (if this trooper ever gives up) is going to be a slightly more compact model.
+- 8BitDo's [Commodore-style keyboard](https://www.8bitdo.com/retro-mechanical-keyboard-c64/). Clacky in the same way as my old WASD keyboard, but a little more compact on my desk, and very stylish.
+- A keyboard wrist rest made of black walnut, [the best wood](/best). I commissioned this from someone selling chopping boards at the local market.
 - A [Logitech G502 Hero](https://www.logitechg.com/en-gb/products/gaming-mice/g502-hero-gaming-mouse.910-005471.html) mouse. It's a great mouse, but I'm not good enough at videogames for my mouse to have ever been the bottleneck. I do love the unlockable scroll wheel for whizzing through long web pages.
 - An [MSI Raider GE68](https://www.msi.com/Laptop/Raider-GE68-HX-13VX) gaming laptop at home. Not the cheapest way to get a decent gaming rig, but boy is it pretty. It has a lot of oomph, but it runs pretty hot.
 - [Jabra Elite 85h (discontinued)](https://www.jabra.com/supportpages/jabra-elite-85h) cans / [Anker Liberty 4 NC](https://us.soundcore.com/products/liberty-4-nc-a3947z61) ear-buds, depending on whether I'm at home or on the go. The sound quality and noise-cancelling on both are more than good enough for me, and the batteries last for ages on one charge.
@@ -14,14 +15,16 @@ title: The things I use
 - A5 dotted notebook. Zippered [Galen Leather cover](https://www.galenleather.com/collections/zippered-leather-portfolio), which keeps the outside beautiful and the while the inside nice and disposable. This is mostly for work stuff.
 - 3.5" by 5.5" notebooks in another Galen wrap. This is for general purpose notes and journaling. Journals get kept, notes get recycled.
 - Pens, in descending order of preference:
-  - LAMY Safari, currently with a teal Diamine ink.
+  - LAMY Safari, currently maining teal Diamine ink.
+  - Pilot Explorer.
   - Kaweco Sport Brass.
   - A black fineliner or gel ink pen. I'm not picky about the brand, so long as it doesn't scratch too much.
   - One of the approximately ten billion random ballpoints I've accumulated over the years.
 
 ## Software I use a lot
 
-- [RubyMine](https://www.jetbrains.com/ruby/) for serious Ruby work. [Visual Studio Code](https://code.visualstudio.com/) for all other text and code editing. I try to get into neovim once a year or so. It sticks a little more each time.
+- [neovim](https://neovim.io/) for most code and text editing. After several swings at getting into it, it seems to be sticking this year.
+- [RubyMine](https://www.jetbrains.com/ruby/) and [Visual Studio Code](https://code.visualstudio.com/) when I hit a hurdle in neovim and I'm in too much of a hurry to figure it out.
 - [Obsidian](https://obsidian.md/) for the majority of my note-taking and journaling. For all its wonderful features, it's essentially a layer on top of a soup of version controlled markdown files. As with this website, it's important to me that so much of my important data isn't locked in to a particular vendor or platform.
 - [Todoist](https://todoist.com) for holding chaos at bay.
 - [NetNewsWire](https://netnewswire.com/) and [Feedbin](https://feedbin.com/) for subscribing to RSS feeds. It's pretty much entirely replaced my habit of scrolling through Twitter and I'm happier for it.
@@ -30,6 +33,7 @@ title: The things I use
 - [CleanShot](https://cleanshot.com/) for screenshots and screen recordings. It's super easy to use and makes capturing quick gifs a breeze.
 - [jq](https://jqlang.github.io/jq/) and [jless](https://jless.io/) for wrangling JSON data on the command line.
 - I have a [dotfiles repo](https://github.com/jsrn/dotfiles) to make my configuration as consistent as possible between systems.
+- [foobar2000](https://www.foobar2000.org) for playing music on the computer. [mp3tag](https://www.mp3tag.de/en/) for managing it. If it weren't for some reason illegal in the UK to rip CDs you legally purchased, I would use [Exact Audio Copy](https://www.exactaudiocopy.de/) to do that.
 
 ## Software I use a little
 
@@ -40,5 +44,9 @@ title: The things I use
 
 - Algorithmic social media and attention economy platforms. They aren't built for you. That said, I still have accounts and I still check when people send me memes.
 - Platforms that lock away data that I will still be interested in after the platform stops existing. For example, I keep lists of books I've read and movies I've watched. I want to avoid a scenario where that information is only stored in Letterboxd and then Letterboxd disappears.
+
+## Previously used
+
+- A 104 key [WASD V2](https://www.wasdkeyboards.com/products/mechanical-keyboards.html) with MX Blues. It's big and clacky and I love it. In the time I've had this keyboard I've used the numpad maybe half a dozen times, so my next keyboard (if this trooper ever gives up) is going to be a slightly more compact model.
 
 List too boring? Check out [the inventory](/inventory).
