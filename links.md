@@ -153,6 +153,7 @@ I love a personal blog, although they can be tough to define. These blogs may in
 - [Ted's Caving Page](https://www.angelfire.com/trek/caver/) - An oldie but a goodie. A creepy story from before "creepypasta" was a word (probably, I didn't fact check this statement).
 - [textfiles.com](http://textfiles.com) - Jason Scott is a committed internet archivist.
 - [Uses This](https://usesthis.com) - If you're nosy like me, this is a delightful peek into people's tools and workflows.
+- [The Virtual OS Museum](https://virtualosmuseum.org/) - A virtual museum of OSes and applications running under emulation.
 - [Winamp Skin Museum](https://skins.webamp.org) - An archive of Winamp skins.
 
 ### Work beats
