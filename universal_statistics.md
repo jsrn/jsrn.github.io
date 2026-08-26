@@ -11,3 +11,6 @@ If I were omniscient and could build a list of interesting statistics about the 
 * Number of times I've thrown something in the bin on the first attempt.
   * How this compares to people I know.
 * Number of times "I'm not X, but..." has been followed by something incredibly X.
+* Lifetime step count.
+* Total food eaten in KG.
+

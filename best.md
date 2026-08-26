@@ -39,11 +39,13 @@ The rules:
 1. The Song of Achilles - Madeleine Miller (MY HEART)
 1. The Emperor's Edge - Lindsay Buroker
 1. Magician - Raymond Feist (dunno if it's that good, but it was the right book at the right time, and sent me down a long path of reading most of the series)
+1. Lord Foul's Bane - Stephen Donaldson (VERY Tolkien, loathsome protagonist)
 
 <h2 id="general-fiction">Books (General Fiction)</h2>
 
+1. The Terror - Dan Simmons (a confluence of my interests in horror, lost expeditions, and very good writing)
 1. Down the Garden Path - Beverly Nichols (semi-fictionalised gardening memoir)
-1. The Piano Tuner - Daniel Mason (general fiction)
+1. The Piano Tuner - Daniel Mason
 1. Out - Natsuo Kirino (thriller)
 1. The Kite Runner - Khaled Hosseini
 1. Shōgun - James Clavell (epic in scope, great story)
@@ -65,7 +67,11 @@ The rules:
 
 1. Oryx and Crake - Margaret Atwood (dystopian sci-fi)
 1. Snow Crash - Neal Stephenson (where we got the word 'metaverse')
+1. Neuromancer - William Gibson
+1. Frankenstein - Mary Shelley
+1. A Canticle for Leibowitz - Walter M. Miller Jr.
 1. The Three-Body Problem - Liu Cixin
+1. We - Yevgeny Zamyatin (1984 before 1984) 
 
 <h2 id="cheeses">Cheeses</h2>
 
@@ -79,6 +85,7 @@ The rules:
 
 <h2 id="cocktails">Cocktails</h2>
 
+1. That vienetta one they do at my local-ish bar
 1. Grasshopper
 1. Old fashioned
 
