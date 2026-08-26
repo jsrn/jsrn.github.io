@@ -158,7 +158,6 @@ I love a personal blog, although they can be tough to define. These blogs may in
 
 ### Work beats
 
-- [lofi air traffic control](https://www.lofiatc.com/?icao=RJAA) - ATC feed over lofi beats (currently down)
 - [Nightwave Plaza](https://plaza.one) - 24/7 vaporwave radio station
 - [Rainwave](https://rainwave.cc/all/#!/) - VG/chiptune/remix radio
 - [Watering a flower Haruomi Hosono 1984 cassette (花に水)](https://www.youtube.com/watch?v=34UutDrXV2Q)
