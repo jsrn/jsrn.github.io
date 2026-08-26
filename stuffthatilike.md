@@ -123,6 +123,7 @@ description: There's plenty to be grateful for.
 <span class='thing-i-like'>soulslikes</span> &bull;
 <span class='thing-i-like'>spiders</span> &bull;
 <span class='thing-i-like'>stationery</span> &bull;
+<span class='thing-i-like'>stepping on crunchy leaves</span> &bull;
 <span class='thing-i-like'>sunshine</span> &bull;
 <span class='thing-i-like'>swimming</span> &bull;
 <span class='thing-i-like'>takeaway food</span> &bull;
