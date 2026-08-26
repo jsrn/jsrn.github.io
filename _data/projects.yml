@@ -48,6 +48,10 @@
   url: /best
   description: The best things, as voted by me.
 
+- name: Letters
+  url: /letters
+  description: Letters I've enjoyed.
+
 - name: Zines
   url: /zines
   description: Some awkwardly formatted zines I made.
