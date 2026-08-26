@@ -29,7 +29,6 @@ title: The things I use
 - [Todoist](https://todoist.com) for holding chaos at bay.
 - [NetNewsWire](https://netnewswire.com/) and [Feedbin](https://feedbin.com/) for subscribing to RSS feeds. It's pretty much entirely replaced my habit of scrolling through Twitter and I'm happier for it.
 - [iTerm2](https://iterm2.com/) with [Oh My Zsh](https://ohmyz.sh/). I wrote a little more about this in a [blog post about how I use iTerm2](/programming/2021/11/04/how-i-use-iterm2.html).
-- ~~[RapidAPI](https://paw.cloud/) to interact with and test APIs.~~ I [just use curl](https://justuse.org/curl/). I like a fancy GUI, but for my needs the overhead of another tool was never justified.
 - [CleanShot](https://cleanshot.com/) for screenshots and screen recordings. It's super easy to use and makes capturing quick gifs a breeze.
 - [jq](https://jqlang.github.io/jq/) and [jless](https://jless.io/) for wrangling JSON data on the command line.
 - I have a [dotfiles repo](https://github.com/jsrn/dotfiles) to make my configuration as consistent as possible between systems.
@@ -48,5 +47,6 @@ title: The things I use
 ## Previously used
 
 - A 104 key [WASD V2](https://www.wasdkeyboards.com/products/mechanical-keyboards.html) with MX Blues. It's big and clacky and I love it. In the time I've had this keyboard I've used the numpad maybe half a dozen times, so my next keyboard (if this trooper ever gives up) is going to be a slightly more compact model.
+- ~~[RapidAPI](https://paw.cloud/) to interact with and test APIs.~~ I [just use curl](https://justuse.org/curl/). I like a fancy GUI, but for my needs the overhead of another tool was never justified.
 
 List too boring? Check out [the inventory](/inventory).
