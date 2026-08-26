@@ -40,10 +40,6 @@
 #     - javascript
 #     - typescript
 
-- name: Handholding Simulator
-  url: https://handholding-simulator.glitch.me
-  description: For the lonely times.
-
 - name: Movie sets
   url: /moviesets
   description: Themed sets of movies for any serious movie night.
