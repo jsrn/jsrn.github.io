@@ -138,6 +138,7 @@ I love a personal blog, although they can be tough to define. These blogs may in
 - [Daring Fireball](https://daringfireball.net) - Consistently thoughtful opinions about technology by the person who brought us Markdown.
 - [David Rumsey Map Collection](https://www.davidrumsey.com/) - "For David Rumsey, maps constitute the fabric of memory. They carry images of boundless worlds and the people who live there — past, present, and even the future."
 - [heronebag.com](https://heronebag.com) - One-bag travel and digital nomadding.
+- [The World of Hotel Label](http://hotel-label.com/) - Scans of hotel luggage tags, etc. 
 - [kottke.org](http://kottke.org) - Home of fine hypertext products. One of the best blogs around in terms of how consistently varied and interesting it is.
 - [Low Tech Directory](https://emreed.net/LowTech_Directory)
 - [Marc Littlemore](https://www.marclittlemore.com)
