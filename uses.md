@@ -16,28 +16,33 @@ title: The things I use
 - 3.5" by 5.5" notebooks in another Galen wrap. This is for general purpose notes and journaling. Journals get kept, notes get recycled.
 - Pens, in descending order of preference:
   - LAMY Safari, currently maining teal Diamine ink.
-  - Pilot Explorer.
+  - Pilot Explorer. It's getting more use than the LAMY at the moment. Very nice for such an inexpensive pen.
   - Kaweco Sport Brass.
   - A black fineliner or gel ink pen. I'm not picky about the brand, so long as it doesn't scratch too much.
   - One of the approximately ten billion random ballpoints I've accumulated over the years.
 
 ## Software I use a lot
 
-- [neovim](https://neovim.io/) for most code and text editing. After several swings at getting into it, it seems to be sticking this year.
-- [RubyMine](https://www.jetbrains.com/ruby/) and [Visual Studio Code](https://code.visualstudio.com/) when I hit a hurdle in neovim and I'm in too much of a hurry to figure it out.
 - [Obsidian](https://obsidian.md/) for the majority of my note-taking and journaling. For all its wonderful features, it's essentially a layer on top of a soup of version controlled markdown files. As with this website, it's important to me that so much of my important data isn't locked in to a particular vendor or platform.
 - [Todoist](https://todoist.com) for holding chaos at bay.
 - [NetNewsWire](https://netnewswire.com/) and [Feedbin](https://feedbin.com/) for subscribing to RSS feeds. It's pretty much entirely replaced my habit of scrolling through Twitter and I'm happier for it.
 - [iTerm2](https://iterm2.com/) with [Oh My Zsh](https://ohmyz.sh/). I wrote a little more about this in a [blog post about how I use iTerm2](/programming/2021/11/04/how-i-use-iterm2.html).
 - [CleanShot](https://cleanshot.com/) for screenshots and screen recordings. It's super easy to use and makes capturing quick gifs a breeze.
-- [jq](https://jqlang.github.io/jq/) and [jless](https://jless.io/) for wrangling JSON data on the command line.
 - I have a [dotfiles repo](https://github.com/jsrn/dotfiles) to make my configuration as consistent as possible between systems.
 - [foobar2000](https://www.foobar2000.org) for playing music on the computer. [mp3tag](https://www.mp3tag.de/en/) for managing it. If it weren't for some reason illegal in the UK to rip CDs you legally purchased, I would use [Exact Audio Copy](https://www.exactaudiocopy.de/) to do that.
+- CLI tools:
+  - [neovim](https://neovim.io/) for most code and text editing. After several swings at getting into it, it seems to be sticking this year.
+  - [jq](https://jqlang.github.io/jq/) and [jless](https://jless.io/) for wrangling JSON data on the command line.
+  - [ripgrep](https://ripgrep.dev/) to replace plain `grep`.
+  - [bat](https://github.com/sharkdp/bat) to replace plain `cat`.
+  - It is late 2026 and I'm finally getting around to learning to use [tmux](https://tmux.app/).
 
 ## Software I use a little
 
 - [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/faq) whenever I've doing web development on a Windows machine. I spent a long time rotating through various Linux distributions, but these days I don't have the patience or skill to babysit them. And I like video games too much.
 - [Figma](https://www.figma.com/) for design work. I'm not a designer, and Figma makes it super easy to put together at least basic wireframes and prototypes without really needing to know what you're doing.
+- [RubyMine](https://www.jetbrains.com/ruby/) and [Visual Studio Code](https://code.visualstudio.com/) when I hit a hurdle in neovim and I'm in too much of a hurry to figure it out.
+
 
 ## Software I try to avoid using
 
