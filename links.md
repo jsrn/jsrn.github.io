@@ -156,6 +156,7 @@ I love a personal blog, although they can be tough to define. These blogs may in
 - [Uses This](https://usesthis.com) - If you're nosy like me, this is a delightful peek into people's tools and workflows.
 - [The Virtual OS Museum](https://virtualosmuseum.org/) - A virtual museum of OSes and applications running under emulation.
 - [Winamp Skin Museum](https://skins.webamp.org) - An archive of Winamp skins.
+- [Preservation 101: Preservation Basics for Paper and Media Collections - Online Textbook](https://www.nedcc.org/preservation101/)
 
 ### Work beats
 
