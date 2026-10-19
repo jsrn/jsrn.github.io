@@ -165,6 +165,11 @@ I love a personal blog, although they can be tough to define. These blogs may in
 - [Rainwave](https://rainwave.cc/all/#!/) - VG/chiptune/remix radio
 - [Watering a flower Haruomi Hosono 1984 cassette (花に水)](https://www.youtube.com/watch?v=34UutDrXV2Q)
 
+### Fun
+
+- [Destroy any website](https://www.spritefusion.com/games/destroy-any-website)
+- [Weball](https://www.funwithcomputervision.com/weball/) - Roll up webpages into katamari
+
 ### Company engineering blogs
 
 These get their own section because while they each produce some very interesting stuff, you might not care about the specific technical challenges these companies face.
