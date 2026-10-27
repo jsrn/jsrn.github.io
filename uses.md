@@ -16,7 +16,7 @@ title: The things I use
 - 3.5" by 5.5" notebooks in another Galen wrap. This is for general purpose notes and journaling. Journals get kept, notes get recycled.
 - Pens, in descending order of preference:
   - LAMY Safari, currently maining teal Diamine ink.
-  - Pilot Explorer. It's getting more use than the LAMY at the moment. Very nice for such an inexpensive pen.
+  - Pilot Lightive. It's getting more use than the LAMY at the moment. Very nice for such an inexpensive pen.
   - Kaweco Sport Brass.
   - A black fineliner or gel ink pen. I'm not picky about the brand, so long as it doesn't scratch too much.
   - One of the approximately ten billion random ballpoints I've accumulated over the years.
