@@ -16,4 +16,6 @@ WELCOME TO THE OFFICE OF TECHNICAL COMMUNICATIONS.
 6. [POSTGRES CASTING GOTCHA](0006-postgres-casting-gotcha)
 7. [RIPGREP CHEAT SHEET](0007-ripgrep-cheat-sheet)
 8. [RUBY PATTERNS](0008-ruby-patterns)
-8. [PSQL CHEAT SHEET](0009-psql-cheat-sheet)
+9. [PSQL CHEAT SHEET](0009-psql-cheat-sheet)
+10. [SYNCING TO MY MP3 PLAYER](0010-sync-to-mp3-player)
+
